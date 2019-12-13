@@ -96,7 +96,7 @@ void main()
     vec2 f3 = f2 - vec2(1.0);
     float f4 = sqrt(clamp(1.0 + dot(vec2(1.0) - f2, f3), 0.0, 1.0));
     vec2 f5 = ((vec3(f3, f4).xy + (vec3((texture2D(NormalDetailMapTexture, VARYING0.xy * CB2[0].x).wy * 2.0) - vec2(1.0), 0.0).xy * (clamp(VARYING2.w - 0.5, 0.0, 1.0) * clamp(1.0 - (2.0 * VARYING7.w), 0.0, 1.0)))).xy * clamp(1.0 - f1, 0.0, 1.0)).xy * CB2[4].w;
-    vec3 f6 = normalize(((VARYING6.xyz * f5.x) + (cross(VARYING5.xyz, VARYING6.xyz) * f5.y)) + (VARYING5.xyz * f4));
+    vec3 f6 = normalize(((VARYING6.xyz * f5.x) + ((cross(VARYING5.xyz, VARYING6.xyz) * VARYING6.w) * f5.y)) + (VARYING5.xyz * f4));
     vec3 f7 = -CB0[11].xyz;
     float f8 = dot(f6, f7);
     vec3 f9 = vec4(VARYING2.xyz * (texture2D(DiffuseMapTexture, f0).x * 2.0), VARYING2.w).xyz;

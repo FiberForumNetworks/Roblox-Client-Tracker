@@ -112,7 +112,7 @@ void main()
     float f15 = f14.x;
     vec4 f16 = textureGrad(SpecularMapTexture, f7, f8, f9);
     vec2 f17 = mix(vec2(CB2[1].y, CB2[1].z), (f16.xy * vec2(CB2[0].y, CB2[0].z)) + vec2(0.0, 0.00999999977648258209228515625), vec2(f2));
-    vec3 f18 = normalize(((VARYING6.xyz * f15) + (cross(VARYING5.xyz, VARYING6.xyz) * f14.y)) + (VARYING5.xyz * f13));
+    vec3 f18 = normalize(((VARYING6.xyz * f15) + ((cross(VARYING5.xyz, VARYING6.xyz) * VARYING6.w) * f14.y)) + (VARYING5.xyz * f13));
     vec3 f19 = -CB0[11].xyz;
     float f20 = dot(f18, f19);
     vec3 f21 = vec4(((mix(vec3(1.0), VARYING2.xyz, vec3(clamp(f10.w + CB2[3].w, 0.0, 1.0))) * f10.xyz) * (1.0 + (f15 * CB2[1].x))) * (texture(StudsMapTexture, f0).x * 2.0), VARYING2.w).xyz;

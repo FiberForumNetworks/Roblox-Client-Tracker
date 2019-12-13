@@ -31,6 +31,7 @@ local TreeView = require(Components.TreeView)
 
 local Spritesheet = require(Utils.Spritesheet)
 local LayoutOrderIterator = require(Utils.LayoutOrderIterator)
+local printObject = require(Utils.printObject)
 
 local Focus = require(Src.Focus)
 
@@ -82,6 +83,7 @@ local UILibrary = {
 		Spritesheet = Spritesheet,
 		LayoutOrderIterator = LayoutOrderIterator,
 		deepJoin = deepJoin,
+		printObject = printObject,
 	},
 
 	Plugin = require(Src.Plugin),

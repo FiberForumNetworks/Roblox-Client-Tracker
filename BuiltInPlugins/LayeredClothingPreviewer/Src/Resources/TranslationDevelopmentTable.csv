@@ -1,0 +1,16 @@
+Key,Source,Context,en-us
+Studio.LayeredClothingPreviewer.Meta.PluginButtonInspect, , ,Layered Clothing Previewer
+Studio.LayeredClothingPreviewer.Meta.PluginButtonInspectTooltip, , ,Preview layered clothing
+Studio.LayeredClothingPreviewer.Meta.PluginName, , ,Layered Clothing Previewer
+Studio.LayeredClothingPreviewer.Meta.ToolbarName, , ,Layered Clothing
+Studio.LayeredClothingPreviewer.Controls.SetHat, , ,Set Hat!
+Studio.LayeredClothingPreviewer.Controls.Hat, , ,Hat
+Studio.LayeredClothingPreviewer.Controls.Reset, , ,Reset!
+Studio.LayeredClothingPreviewer.Controls.Height, , ,Height
+Studio.LayeredClothingPreviewer.Controls.Width, , ,Width
+Studio.LayeredClothingPreviewer.Controls.Head, , ,Head
+Studio.LayeredClothingPreviewer.Controls.BodyType, , ,Body Type
+Studio.LayeredClothingPreviewer.Controls.Proportions, , ,Proportions
+Studio.LayeredClothingPreviewer.Controls.Units, , ,%
+Studio.LayeredClothingPreviewer.Controls.SliderLabel, , ,{1}%
+Studio.LayeredClothingPreviewer.Controls.ScaleTitle, , ,Scale

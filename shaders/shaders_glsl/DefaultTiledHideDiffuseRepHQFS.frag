@@ -104,7 +104,7 @@ void main()
     float f9 = f8.x;
     vec4 f10 = texture2D(SpecularMapTexture, f3);
     vec2 f11 = mix(vec2(CB2[1].y, CB2[1].z), (f10.xy * vec2(CB2[0].y, CB2[0].z)) + vec2(0.0, 0.00999999977648258209228515625), vec2(f2));
-    vec3 f12 = normalize(((VARYING6.xyz * f9) + (cross(VARYING5.xyz, VARYING6.xyz) * f8.y)) + (VARYING5.xyz * f7));
+    vec3 f12 = normalize(((VARYING6.xyz * f9) + ((cross(VARYING5.xyz, VARYING6.xyz) * VARYING6.w) * f8.y)) + (VARYING5.xyz * f7));
     vec3 f13 = -CB0[11].xyz;
     float f14 = dot(f12, f13);
     vec3 f15 = vec4(((mix(vec3(1.0), VARYING2.xyz, vec3(clamp(f4.w + CB2[3].w, 0.0, 1.0))) * f4.xyz) * (1.0 + (f9 * CB2[1].x))) * (texture2D(StudsMapTexture, f0).x * 2.0), VARYING2.w).xyz;

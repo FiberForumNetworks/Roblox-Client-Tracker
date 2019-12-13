@@ -61,6 +61,13 @@ if FastFlags:isBundleConfigurationEnabled() then
 	configurer:createButtons(plugin, toolbar)
 end
 
+-- Avatar Evolution rig correction module
+local avatarEvolutionRigAdjuster = nil
+if FastFlags:isAutoAdjustRigPoseEnabled() then
+	local rigAdjustmentModule = script.Parent:FindFirstChild("AutoRigAdjuster")
+	avatarEvolutionRigAdjuster = rigAdjustmentModule and require(rigAdjustmentModule) or nil
+end
+
 -- utility functions
 local function getLinesFromStr(str)
 	local results = {}
@@ -169,6 +176,16 @@ local function setupImportedAvatar(avatar, avatarType)
 	addFace(avatar)
 	setupAvatarScaleTypeValues(avatar, avatarType)
 	setupHumanoidScaleValues(avatar, avatarType)
+	
+	--[[ Avatar Evolution support for auto detection of T-pose vs I-pose and corresponding adjustments to rig Attachments and Bone instances ]]--
+	local isR15 = avatarType ~= "Custom"
+	
+	--print("Setup imported avatar, avatarEvolutionRigAdjuster:",avatarEvolutionRigAdjuster," avatarType:",avatarType," isR15:",isR15)
+	if avatarEvolutionRigAdjuster and isR15 then
+		avatarEvolutionRigAdjuster:AdjustRig(avatar, avatarType)
+	end
+	
+	
 	avatar:MoveTo(getCameraLookAt(10))
 	Selection:Set({ avatar })
 

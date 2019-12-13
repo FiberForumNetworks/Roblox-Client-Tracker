@@ -112,7 +112,7 @@ void main()
     float f15 = f14.x;
     vec4 f16 = texture2DGradARB(SpecularMapTexture, f7, f8, f9);
     float f17 = f16.y;
-    vec3 f18 = normalize(((VARYING6.xyz * f15) + (cross(VARYING5.xyz, VARYING6.xyz) * f14.y)) + (VARYING5.xyz * f13));
+    vec3 f18 = normalize(((VARYING6.xyz * f15) + ((cross(VARYING5.xyz, VARYING6.xyz) * VARYING6.w) * f14.y)) + (VARYING5.xyz * f13));
     vec3 f19 = vec4(((mix(vec3(1.0), VARYING2.xyz, vec3(clamp(f10.w + CB2[3].w, 0.0, 1.0))) * f10.xyz) * (1.0 + (f15 * CB2[1].x))) * (texture2D(StudsMapTexture, f0).x * 2.0), VARYING2.w).xyz;
     float f20 = clamp(dot(step(CB0[19].xyz, abs(VARYING3 - CB0[18].xyz)), vec3(1.0)), 0.0, 1.0);
     vec3 f21 = VARYING3.yzx - (VARYING3.yzx * f20);

@@ -111,11 +111,11 @@ void main()
     vec2 f7 = (vec3(f5, f6).xy + (vec3((texture(NormalDetailMapTexture, f2 * CB2[1].w).wy * 2.0) - vec2(1.0), 0.0).xy * CB2[2].x)).xy * f1;
     float f8 = f7.x;
     float f9 = f3.w;
-    vec3 f10 = ((mix(vec3(1.0), VARYING2.xyz, vec3(clamp(f9 + CB2[3].w, 0.0, 1.0))) * f3.xyz) * (1.0 + (f8 * CB2[1].x))) * (texture(StudsMapTexture, f0).x * 2.0);
-    vec4 f11 = mix(texture(SpecularMapTexture, f2 * CB2[2].w), texture(SpecularMapTexture, f2), vec4(clamp((f1 * CB2[4].z) - (CB2[3].z * CB2[4].z), 0.0, 1.0)));
-    vec2 f12 = mix(vec2(CB2[1].y, CB2[1].z), (f11.xy * vec2(CB2[0].y, CB2[0].z)) + vec2(0.0, 0.00999999977648258209228515625), vec2(f1));
-    float f13 = VARYING2.w * 2.0;
-    float f14 = clamp(f13, 0.0, 1.0);
+    vec4 f10 = mix(texture(SpecularMapTexture, f2 * CB2[2].w), texture(SpecularMapTexture, f2), vec4(clamp((f1 * CB2[4].z) - (CB2[3].z * CB2[4].z), 0.0, 1.0)));
+    vec2 f11 = mix(vec2(CB2[1].y, CB2[1].z), (f10.xy * vec2(CB2[0].y, CB2[0].z)) + vec2(0.0, 0.00999999977648258209228515625), vec2(f1));
+    float f12 = VARYING2.w * 2.0;
+    float f13 = clamp(f12, 0.0, 1.0);
+    vec3 f14 = vec4(((mix(vec3(1.0), VARYING2.xyz, vec3(clamp(f9 + CB2[3].w, 0.0, 1.0))) * f3.xyz) * (1.0 + (f8 * CB2[1].x))) * (texture(StudsMapTexture, f0).x * 2.0), f9).xyz;
     vec3 f15 = normalize(((VARYING6.xyz * f8) + (cross(VARYING5.xyz, VARYING6.xyz) * f7.y)) + (VARYING5.xyz * (f6 * 10.0)));
     vec3 f16 = -CB0[11].xyz;
     float f17 = dot(f15, f16);
@@ -148,7 +148,7 @@ void main()
     float f42 = max(f30.w - (f41 * f41), f37.y);
     float f43 = f35 - f41;
     float f44 = (f17 > 0.0) ? mix(f25, mix(min((f34 <= f38) ? 1.0 : clamp(((f39 / (f39 + (f40 * f40))) - 0.20000000298023223876953125) * 1.25, 0.0, 1.0), (f35 <= f41) ? 1.0 : clamp(((f42 / (f42 + (f43 * f43))) - 0.20000000298023223876953125) * 1.25, 0.0, 1.0)), f25, clamp((length(VARYING7.xyz - CB0[7].xyz) * CB0[45].y) - (CB0[45].x * CB0[45].y), 0.0, 1.0)), CB0[46].x) : 0.0;
-    vec3 f45 = f10 * f10;
+    vec3 f45 = f14 * f14;
     vec3 f46 = normalize(VARYING4.xyz);
     vec3 f47 = texture(EnvironmentMapTexture, reflect(-VARYING4.xyz, f15)).xyz;
     vec3 f48 = mix(f23, (f47 * f47) * CB0[15].x, vec3(f24)) * mix(vec3(1.0), f45, vec3(0.5));
@@ -168,10 +168,10 @@ void main()
     vec4 f62 = texture(GBufferColorTexture, f56 + (f60 * clamp(min(texture(GBufferDepthTexture, f58 + f61).x * 500.0, texture(GBufferDepthTexture, f58 - f61).x * 500.0) - f55, 0.0, 1.0)));
     vec3 f63 = f62.xyz;
     vec3 f64 = ((f63 * f63) * CB0[15].x).xyz;
-    vec3 f65 = f64 * mix(vec3(1.0), VARYING2.xyz, vec3(f14));
+    vec3 f65 = f64 * mix(vec3(1.0), VARYING2.xyz, vec3(f13));
     vec4 f66 = vec4(f65.x, f65.y, f65.z, vec4(0.0).w);
     f66.w = mix(1.0, f62.w, dot(f65.xyz, vec3(1.0)) / (dot(f64, vec3(1.0)) + 0.00999999977648258209228515625));
-    vec4 f67 = mix(mix(f66, vec4(mix((min(f23 + (CB0[8].xyz + (CB0[9].xyz * f24)), vec3(CB0[16].w)) + (((CB0[10].xyz * clamp(f17, 0.0, 1.0)) + (CB0[12].xyz * max(-f17, 0.0))) * f44)) * f45, f48, vec3(mix((f11.y * f1) * CB2[0].w, 1.0, VARYING7.w))), 1.0), vec4(clamp((f13 - 1.0) + f9, 0.0, 1.0))), vec4(f48, 1.0), vec4(((f49 * f49) * 0.800000011920928955078125) * f14)) + vec4(CB0[10].xyz * ((((step(0.0, f17) * mix(f12.x, CB2[0].y, VARYING7.w)) * f44) * pow(clamp(dot(f15, normalize(f16 + f46)), 0.0, 1.0), mix(f12.y, CB2[0].z, VARYING7.w))) * f14), 0.0);
+    vec4 f67 = mix(mix(f66, vec4(mix((min(f23 + (CB0[8].xyz + (CB0[9].xyz * f24)), vec3(CB0[16].w)) + (((CB0[10].xyz * clamp(f17, 0.0, 1.0)) + (CB0[12].xyz * max(-f17, 0.0))) * f44)) * f45, f48, vec3(mix((f10.y * f1) * CB2[0].w, 1.0, VARYING7.w))), 1.0), vec4(clamp((f12 - 1.0) + f9, 0.0, 1.0))), vec4(f48, 1.0), vec4(((f49 * f49) * 0.800000011920928955078125) * f13)) + vec4(CB0[10].xyz * ((((step(0.0, f17) * mix(f11.x, CB2[0].y, VARYING7.w)) * f44) * pow(clamp(dot(f15, normalize(f16 + f46)), 0.0, 1.0), mix(f11.y, CB2[0].z, VARYING7.w))) * f13), 0.0);
     float f68 = clamp((CB0[13].x * length(VARYING4.xyz)) + CB0[13].y, 0.0, 1.0);
     vec3 f69 = mix(CB0[14].xyz, sqrt(clamp(f67.xyz * CB0[15].y, vec3(0.0), vec3(1.0))).xyz, vec3(f68));
     vec4 f70 = vec4(f69.x, f69.y, f69.z, f67.w);
