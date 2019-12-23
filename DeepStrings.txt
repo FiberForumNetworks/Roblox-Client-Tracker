@@ -5244,6 +5244,7 @@ Cnd_timedwait
 CoAddRefServerProcess
 COAKrt8349E6q7ecr3P7mHhCIEFItoIYvKNjlzR2fk124CVRiiWfGXZptQ6yQOs
 Cobblestone
+CobCWvUIcJ6cCneNrIrb0ECMrv1qk7m45XKwmJoCXKHfqBR
 CoCreateGuid
 CoCreateInstance
 CODECAPI_AVDecMmcssClass
@@ -7958,7 +7959,6 @@ EnableRoactAnimationEditor2
 EnableRobuxABTest
 EnableRobuxHexIcon
 EnableRobuxHexIconV2
-EnableScaleIndependentBulletCollision
 EnableScriptCollabOnLoad
 EnableSetInstanceDefaults
 EnableStudioServiceGetUserId
@@ -10202,6 +10202,7 @@ GroupTime.Sum.toFixed
 GSSolverActive
 GSSS466FSSS455
 GTInfluxDB
+GTTRztC6VHKTN4G0Nnn6hP1roPUBV
 Guaranteed
 GuestFriendCheckFailImmediate
 Gui.Enabled
@@ -10313,6 +10314,7 @@ HatAttachment
 HaveActiveUser
 HB_OPTIONS
 HB_SHAPER_LIST
+Hc5lGv6jrtmfpPqrVVLqSF8xOSvgwi3Fgnr9qBs9R
 Hcircumflex
 HdBvsEWYtJGUCAwEAAQ
 HDCacheLock
@@ -11396,6 +11398,7 @@ Javascript
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
+JCiojwYWEE1vonb
 Jcircumflex
 JDJNJXJbJlJvJ
 JHJRJ\JfJpJxJ
@@ -12891,6 +12894,7 @@ Miscellaneous
 MiscIndividualAssetRequestUseAssetdelivery2
 Mismatched
 MissingDumpFile
+MLfEhuK8NVebaFS3qiQoSP5mWRP7kaBkGWOpLPShgELNf4ZK8V04XaCkxVnso
 MMW4PartMaterial
 MMW4UserInputState
 MobileDevelopmentDeployer
@@ -13163,6 +13167,7 @@ MusicalInstruments
 MutexLifetime
 MW4PartMaterial
 MyModelsAction
+MZnpM3V6z4mz34xhgZ3a9Yybk5YBO0lyHydE
 N_NW4StudioGameStateType
 NAEAVHttpResponse
 NAEBUPlaceLauncherRequestInfo
@@ -13383,6 +13388,7 @@ NextTabPage
 NfXf`fhfzf
 NHVVariant
 NinjaMask.mesh
+NLDH2ErxElmVDhRl8zDTQNWEjRZvNvZ1
 NNW4SizeMode
 NoCacheForLocalContent
 NoCollisionConstraint
@@ -13467,6 +13473,7 @@ NPCsAction
 NPCUnequipTools
 NPEAVQString
 NPEAVQWidget
+NsQARD7X5ZdUXIoMC
 Ntildesmall
 NullPassword
 NullPlaceholders
@@ -13850,6 +13857,7 @@ OtherBlues
 OtherDisconnect
 OtherTextChanged
 OtherTopLabelOverride
+OtiBhxFHekpPfKJO9feMojExjrX
 Otildesmall
 OutBufferHealth
 OutClusters
@@ -13917,6 +13925,7 @@ OverrideStarterScript
 OverrideToMyBranch
 OverwriteMode
 OwnProperty
+OY1eFMAVRe
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^]
 PA^A]A\_^][
@@ -17632,6 +17641,7 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
+RmFVNk426UC
 Roact.createElement
 RoactPurchasePromptAllowBundles
 ROBLOSECURITY
@@ -17828,6 +17838,7 @@ RSA_verify_PKCS1_PSS_mgf1
 RSAPrivateKey
 RSAPublicKey
 RTDynamicCast
+RtEtS6uzTx8WgdvVLbkWpeANnN9O1
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlVirtualUnwind
@@ -21500,6 +21511,7 @@ TattletaleShuffleCount
 TattletaleUseNewWordListFeatures
 TattletaleUseOriginalWordList
 TattletaleUseStrstr
+TBS0KMDLu8uzA1ydOT
 Tcommaaccent
 TCP_NODELAY
 Team_Create
@@ -22711,6 +22723,7 @@ UGeometryBatch
 UGlobalResult
 Ugravesmall
 UGroupRolesResult
+UgroXMgiNOSl5AVEf2PU2OYlkZWT1IJok2783YqDs
 UGuiClusterRT
 UHttpApiRequest
 UHttpRequest
@@ -23271,6 +23284,7 @@ UVWAUAVAWHc
 UWATAUAVAW
 UWATAUAVAWH
 Uweb_response
+UwHQvfTQvlCZo5
 UWindowInputState
 V_http_request
 V_http_response
@@ -23922,6 +23936,7 @@ VObjectValue
 VogpHgQ70F57MdFiBApyJwNSBk
 VoiceChatService
 VoidStoredMemberFunctionPointerCall2
+VOILMR6qjIz
 Vollbeding
 VOnPublishDialogController
 VOrderedDataStore
@@ -24890,6 +24905,7 @@ XW4CanManageStatus
 XW4HttpErrorCode
 XW4websocket_close_status
 XwhvcEikuIaqb7nHhEJ
+Xx0IK1JW8uLSnoWvFul6lgIxAwSdcHJDz3KF14dvKVsLfQvpL971IQnUhbhQ4
 XXXXXX.rbxl
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
@@ -24945,10 +24961,12 @@ YQByteArray
 YResolution
 YwBBvY55YvBBwY5
 Zcaronsmall
+ZCXDSzWDUjIJFjcee
 Zdotaccent
 ZgnhKhWhci
 ZIndexBehavior
 ZLcJhLcGhM
+ZMKHytMTz8MODbo5PRrKwJf5xZovAvZ5
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
 ZoomActive
