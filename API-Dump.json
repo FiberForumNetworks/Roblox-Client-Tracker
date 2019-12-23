@@ -51306,8 +51306,8 @@
                     "MemberType": "Property",
                     "Name": "ColorMap",
                     "Security": {
-                        "Read": "None",
-                        "Write": "None"
+                        "Read": "LocalUserSecurity",
+                        "Write": "LocalUserSecurity"
                     },
                     "Serialization": {
                         "CanLoad": true,
@@ -51323,8 +51323,8 @@
                     "MemberType": "Property",
                     "Name": "MetalnessMap",
                     "Security": {
-                        "Read": "None",
-                        "Write": "None"
+                        "Read": "LocalUserSecurity",
+                        "Write": "LocalUserSecurity"
                     },
                     "Serialization": {
                         "CanLoad": true,
@@ -51357,8 +51357,8 @@
                     "MemberType": "Property",
                     "Name": "NormalMap",
                     "Security": {
-                        "Read": "None",
-                        "Write": "None"
+                        "Read": "LocalUserSecurity",
+                        "Write": "LocalUserSecurity"
                     },
                     "Serialization": {
                         "CanLoad": true,
@@ -51374,8 +51374,8 @@
                     "MemberType": "Property",
                     "Name": "RoughnessMap",
                     "Security": {
-                        "Read": "None",
-                        "Write": "None"
+                        "Read": "LocalUserSecurity",
+                        "Write": "LocalUserSecurity"
                     },
                     "Serialization": {
                         "CanLoad": true,
@@ -51408,8 +51408,8 @@
                     "MemberType": "Property",
                     "Name": "TexturePack",
                     "Security": {
-                        "Read": "None",
-                        "Write": "None"
+                        "Read": "RobloxSecurity",
+                        "Write": "RobloxSecurity"
                     },
                     "Serialization": {
                         "CanLoad": true,

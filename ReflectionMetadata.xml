@@ -1555,6 +1555,30 @@
       <Item class="ReflectionMetadataProperties">
         <Item class="ReflectionMetadataMember">
           <Properties>
+            <string name="Name">ColorMap</string>
+            <string name="summary">Image ID used to color the surface. If left empty, surface uses Part Color. Not scriptable at runtime.</string>
+          </Properties>
+        </Item>
+        <Item class="ReflectionMetadataMember">
+          <Properties>
+            <string name="Name">MetalnessMap</string>
+            <string name="summary">Grayscale Image ID that determines the metalness of the surface. Not scriptable at runtime.</string>
+          </Properties>
+        </Item>
+        <Item class="ReflectionMetadataMember">
+          <Properties>
+            <string name="Name">NormalMap</string>
+            <string name="summary">Image ID of the normal map used to control surface bumps and curvature. Not scriptable at runtime.</string>
+          </Properties>
+        </Item>
+        <Item class="ReflectionMetadataMember">
+          <Properties>
+            <string name="Name">RoughnessMap</string>
+            <string name="summary">Grayscale Image ID that determines the roughness of the surface. Not scriptable at runtime.</string>
+          </Properties>
+        </Item>
+        <Item class="ReflectionMetadataMember">
+          <Properties>
             <string name="Name">MetalnessScale</string>
             <string name="summary">How metallic the surface will appear. Scales the values in the metalness map if one is specified.</string>
             <double name="UIMinimum">0</double>

@@ -460,7 +460,6 @@ AllUsers.LuaApp.GameDetailsPeekView
 AllUsers.Studio.PaidPlugins
 AllWatches
 AllWindows
-ALO3abNJyLSzniO54UnoHU1BHUDCLDKcoZbUe
 AlphaBufferSize
 AlreadyReset
 AlternateName
@@ -640,6 +639,7 @@ AnthroStandardPartIds
 AntiReplay
 AntiSpamSpamLimit
 AnyWayYouHashItOut4
+AobD1DpRtkymEjfEIvt4ElkASfulVzcPMNeTEax
 APEAU_iobuf
 ApiGamesChanged
 ApiRateLimit
@@ -3707,11 +3707,9 @@ BFbxString
 BFbxVector4
 BFD701C11E3B075CBAD925AA50F
 BFE701C11E3B075CBAD925AA50F
-BgDDHlTD0Lx3y2btWm8WY7pOeS
 BgUpdateRedirectsDisable
 BgUpdateRedirectsHttpErrInfluxHundredthsPercentage
 BgUpdateRedirectsRejectInfluxHundredthsPercentage
-BhJgCJXsl8tTsVuMwwpspc4JwIR
 BillboardGui
 BillboardGuiDistanceStepping2
 BinaryData
@@ -4015,6 +4013,7 @@ BufferHealth_Platform_
 BUFFERSFULL
 BufferStorage
 BufferSubData
+BuG6G1edoSBLDfJ4g0bm
 BuildCharArray
 BuildCompactHeightfield
 BuildContours
@@ -4092,7 +4091,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.0.0.370037
+ByVersion_0.0.0.370378
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5242,9 +5241,7 @@ Cnd_init_in_situ
 Cnd_signal
 Cnd_timedwait
 CoAddRefServerProcess
-COAKrt8349E6q7ecr3P7mHhCIEFItoIYvKNjlzR2fk124CVRiiWfGXZptQ6yQOs
 Cobblestone
-CobCWvUIcJ6cCneNrIrb0ECMrv1qk7m45XKwmJoCXKHfqBR
 CoCreateGuid
 CoCreateInstance
 CODECAPI_AVDecMmcssClass
@@ -6315,6 +6312,7 @@ CustomizeButton
 CustomizedTeleportUI
 CustomizeMenu
 CustomLuaState
+CustomMaterial
 CustomParticleEmitter
 CustomPhysicalProperties
 CustomPhysics
@@ -6327,7 +6325,6 @@ CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
 CWinTraits
-Cxnb5Kw0LQ29ZVCi
 CxxFrameHandler3
 CxxThrowException
 CycleOffset
@@ -7797,6 +7794,7 @@ EFrontVector
 Egravesmall
 EHERE\EfEpEzE
 EJTU\^bcfguw
+EjztRiYTB5
 ElapsedTime
 ElasticBehavior
 Elasticity
@@ -7959,6 +7957,7 @@ EnableRoactAnimationEditor2
 EnableRobuxABTest
 EnableRobuxHexIcon
 EnableRobuxHexIconV2
+EnableScaleIndependentBulletCollision
 EnableScriptCollabOnLoad
 EnableSetInstanceDefaults
 EnableStudioServiceGetUserId
@@ -8408,6 +8407,7 @@ FB64AAAED11E38B9D871882A8E559
 FB6CE584711E29A3DBD856014A660
 FB6CF584711E29A3DBD856014A660
 FB8E4A9E79B
+FBjKj4Oct1flutp64tr
 FbPnXNTBBz2CM47ldc6zPnp04Gg1Ch1zQNrS9Q0fLcTp94XeqG0DjA42Iq0M3ZDg
 FbxAMatrix
 FbxAnimation
@@ -8478,7 +8478,6 @@ FeatureEnabled
 FeatureHitRatio
 FeaturesAction
 FeaturesWindow
-FenGtkD2YQ7prsnLCuyZoFrrRMIDu0w1Gjo2UTpzC
 FetchCachedKeys
 FetchComplete
 FetchedJoinScriptTime
@@ -9233,7 +9232,6 @@ GAThrottlingEventThresholdHundredthCat1
 GAThrottlingEventThresholdHundredthCat2
 GAThrottlingEventThresholdHundredthCat3
 GazeSelectionEnabled
-GC5yBKuPK9CB2mDLdxFGfdI3GvwWOylVMsCQS
 GCDistance
 GcFrequency
 GCHappened
@@ -10202,10 +10200,10 @@ GroupTime.Sum.toFixed
 GSSolverActive
 GSSS466FSSS455
 GTInfluxDB
-GTTRztC6VHKTN4G0Nnn6hP1roPUBV
 Guaranteed
 GuestFriendCheckFailImmediate
 Gui.Enabled
+GuI5qFrXV3YGqLvsrcktYqBocna
 GuiCluster
 GUID_00000100_0000_0000_c000_000000000046
 GUID_b2d0778b_ac99_4c58_a5c8_e7724e5316b5
@@ -10314,9 +10312,7 @@ HatAttachment
 HaveActiveUser
 HB_OPTIONS
 HB_SHAPER_LIST
-Hc5lGv6jrtmfpPqrVVLqSF8xOSvgwi3Fgnr9qBs9R
 Hcircumflex
-HdBvsEWYtJGUCAwEAAQ
 HDCacheLock
 HeadColor3
 HeaderCheckBoxClicked
@@ -11398,12 +11394,12 @@ Javascript
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
-JCiojwYWEE1vonb
 Jcircumflex
 JDJNJXJbJlJvJ
 JHJRJ\JfJpJxJ
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+JMNgy2oBOAsEs
 JoinBlobInvalidateThresholdPercent
 JoinCommand
 JoinDataCacheChecksClientOwnedParts
@@ -11871,6 +11867,7 @@ LiveScript
 LiveThreadRef
 LivingRoom
 LLEo6Soxvx2
+LmHouzfbSns42Njc9urxT
 LOAD_CERT_CTRL
 LoadAnimation
 LoadAssetVersion
@@ -12098,6 +12095,7 @@ LowQMaterialFS
 LowQMaterialWangFallbackFS
 LowQMaterialWangFS
 LowResolution
+LQZzrBkgtzVJU
 Lslashsmall
 LUA_UNAUTHORIZED_LOG_OUT
 LuaAnalyticsReleasePeriod
@@ -12852,7 +12850,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA7H4LCZbbKE6oEnMx9yWUZUCa4cELnn3CvbeiP20LuSPzbEmlJJc6
+MIICCgKCAgEAuXoPDk0m3nHnzYSPpJSpwB4ysP69yeUEhahLUX9I6KWwxfTqzWkz
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
 MinCounter
@@ -12894,7 +12892,6 @@ Miscellaneous
 MiscIndividualAssetRequestUseAssetdelivery2
 Mismatched
 MissingDumpFile
-MLfEhuK8NVebaFS3qiQoSP5mWRP7kaBkGWOpLPShgELNf4ZK8V04XaCkxVnso
 MMW4PartMaterial
 MMW4UserInputState
 MobileDevelopmentDeployer
@@ -13167,7 +13164,6 @@ MusicalInstruments
 MutexLifetime
 MW4PartMaterial
 MyModelsAction
-MZnpM3V6z4mz34xhgZ3a9Yybk5YBO0lyHydE
 N_NW4StudioGameStateType
 NAEAVHttpResponse
 NAEBUPlaceLauncherRequestInfo
@@ -13254,6 +13250,7 @@ NCONF_load
 NCONF_load_bio
 NCONF_load_fp
 NdnuScpeLkclOiiaVruaSilaKgnjRicyLiraCidyLmahCanaLtvaTtsvApygErmaSusiLumaBavaJietMimrAbraSitrPilhPhkrOihtKktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTzzzZssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
+NdRhEAzj4PzVr
 NearPlaneZ
 NEC55rACiLgxis9XCIP8J1xrZ2y
 NeckAccessory
@@ -13388,7 +13385,6 @@ NextTabPage
 NfXf`fhfzf
 NHVVariant
 NinjaMask.mesh
-NLDH2ErxElmVDhRl8zDTQNWEjRZvNvZ1
 NNW4SizeMode
 NoCacheForLocalContent
 NoCollisionConstraint
@@ -13421,6 +13417,7 @@ NonReplicatedCSGDictionaryService
 NonSolidFloorPercentForceApplication
 NoOcclusion
 NoOutlinesAction
+NoR7wj79cUdH28QNuG9z8VqZGFoaswPp
 NoRenegotiation
 NoReplicator
 NoResumptionOnRenegotiation
@@ -13473,7 +13470,6 @@ NPCsAction
 NPCUnequipTools
 NPEAVQString
 NPEAVQWidget
-NsQARD7X5ZdUXIoMC
 Ntildesmall
 NullPassword
 NullPlaceholders
@@ -13652,7 +13648,6 @@ Oh44\h44\Q
 Ohungarumlaut
 OiCCPPhotoshop
 OIsKeyDown
-OixwrvLfHz8Un3uEWYNh
 OKButtonClicked
 OldActiveElement
 OldMessagesFetched
@@ -13801,7 +13796,6 @@ OptionChanged
 OptionsMenu
 OptmizedVec3Int32HasherEnabled
 OQDateTime
-OQIqkRYQ6Ml0WUxF
 OrCharacter
 OrCreateInstanceInfo
 OrderArray
@@ -13857,7 +13851,6 @@ OtherBlues
 OtherDisconnect
 OtherTextChanged
 OtherTopLabelOverride
-OtiBhxFHekpPfKJO9feMojExjrX
 Otildesmall
 OutBufferHealth
 OutClusters
@@ -13925,7 +13918,6 @@ OverrideStarterScript
 OverrideToMyBranch
 OverwriteMode
 OwnProperty
-OY1eFMAVRe
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^]
 PA^A]A\_^][
@@ -14153,7 +14145,6 @@ PatternOptions
 PatternSyntax
 PauseSound
 PBKDF2PARAM
-PbYKveHnNsujJJ9PhyzzGuMJ6ACjwlEcMPJRf3KpAwIpF42kmvwm41hJGJQnDI
 PCDesktopClient
 PCertReqData
 PCertResTBS
@@ -15389,7 +15380,6 @@ PluginWriteTemp
 PlusButtonPressed
 PNG_IMAGE_VERSION
 PNG_TRANSFORM_STRIP_FILLER
-PoF2NGp1dzva
 POINT_SIZE
 PointBalanceCacheInvalidateTimeMs
 PointDataChanged
@@ -15712,7 +15702,6 @@ PROXY_CERT_INFO_EXTENSION
 PROXY_POLICY
 ProxyAction
 PSPECIFIED
-PstVTWxWP1Qw1PLZoh97IXMVRdgnD
 PUBKEY_get0
 PUBKEY_set
 PublicationInfo
@@ -16399,7 +16388,6 @@ QStylePainter
 QSurfaceFormat
 QSyntaxHighlighter
 QSystemSemaphore
-Qsz6BqFiXwRnH4OgbH4QZo3rbPyf8ZE0
 Qt.ArrowCursor
 Qt.createComponent
 Qt.NoButton
@@ -16750,6 +16738,7 @@ RbxScriptSource
 RbxSendCoreScripts
 RbxThumbAllowAnyParamsOrder
 RbxWorkspace
+RbyN6QKR3eK1aafp
 RCC28699p2
 RCC28699Permyriad
 RCCInfluxHundredthsPercentage
@@ -17641,7 +17630,6 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
-RmFVNk426UC
 Roact.createElement
 RoactPurchasePromptAllowBundles
 ROBLOSECURITY
@@ -17838,7 +17826,6 @@ RSA_verify_PKCS1_PSS_mgf1
 RSAPrivateKey
 RSAPublicKey
 RTDynamicCast
-RtEtS6uzTx8WgdvVLbkWpeANnN9O1
 RtlCaptureContext
 RtlLookupFunctionEntry
 RtlVirtualUnwind
@@ -18605,7 +18592,6 @@ SetWindowLongPtrA
 SetWindowPos
 SetWindowsHookExA
 SetWindowTextA
-SExwT1hBOTU
 ShaderSource
 Shadow.visible
 ShadowAtlas
@@ -18910,6 +18896,7 @@ SnSScaleSpine
 SnSScaleSpineChildren
 SnSSpineFreedom
 SO_KEEPALIVE
+SO2RsJmc1dfw7f8qZN4lNs8ZtcFBbuG54pHYL2ucDJVdE
 SOAPAction
 SocialItems
 SocialLinks
@@ -21414,6 +21401,7 @@ SXNET_add_id_INTEGER
 SXNET_add_id_ulong
 SXNET_get_id_asc
 SXNET_get_id_ulong
+Sy1fq0JTTGweFO0psDrptCw2JajsC0LcGcRu26PuSp9UMl0plLJsAYpG
 SymantecPKI
 SymbolicLink
 SymbolValue
@@ -21511,7 +21499,6 @@ TattletaleShuffleCount
 TattletaleUseNewWordListFeatures
 TattletaleUseOriginalWordList
 TattletaleUseStrstr
-TBS0KMDLu8uzA1ydOT
 Tcommaaccent
 TCP_NODELAY
 Team_Create
@@ -21850,6 +21837,7 @@ ThreadY[R.Thread]
 ThreadY[RangeSelect.Thread
 ThreadY[RangeSelect.Thread]
 ThreeBoxLoadingAnimation.gif
+THrniKIrA2ewZhRx7mY3twP9Inoa9OHuKSfDsYAvgYZHvzGkQ9YqLzyolGwj
 ThrottleAdjustTime
 ThrottleDebuggerMetrics
 ThrottleDeveloperConsoleEvents
@@ -22541,6 +22529,7 @@ TS_TST_INFO_set_tsa
 TS_VERIFY_CTX_new
 TSMk2ThrottleStreamJob
 TTUUEDDsss
+Tu7I8ONSQt0mWxsCSWumZyKKSkkn3WDRUbELuG
 TurboBuildersClub
 TurnOffAction
 TurnOffManualJointCreation
@@ -22723,7 +22712,6 @@ UGeometryBatch
 UGlobalResult
 Ugravesmall
 UGroupRolesResult
-UgroXMgiNOSl5AVEf2PU2OYlkZWT1IJok2783YqDs
 UGuiClusterRT
 UHttpApiRequest
 UHttpRequest
@@ -22801,7 +22789,6 @@ UIViewportFrameCollectFrames
 UIViewportFrameDeviceRestore
 UIViewportFrameSetCameraNearZ
 UIViewportFrameWorkspace
-UjLuepTmLTunxJ3jO2QPFbX8oTl3DLjtaOhMt5
 ULinkedScriptLoadData
 ULoadedImage
 ULuaCallbacks
@@ -23075,6 +23062,7 @@ UrlHandlerClicked
 URLRequest
 UrlSupportNewGamesAPI
 URobloxApiGame
+US5XOZ0kVQZDxDe1laCZ1ChNcOeGCrvOgZsRXSkyW
 UsageFeatures
 USATAUAVAW
 USATAUAVAWH
@@ -23258,6 +23246,7 @@ UTeleportThreadReportInfo
 UTextFilterResult
 UTF8String
 UTF8STRING
+UtH4KbNjKz8uLbk4g8WoPXjD
 UThumbnailFetchJob
 UThumbnailRequestRecord
 Utimer_thread_function
@@ -23284,7 +23273,6 @@ UVWAUAVAWHc
 UWATAUAVAW
 UWATAUAVAWH
 Uweb_response
-UwHQvfTQvlCZo5
 UWindowInputState
 V_http_request
 V_http_response
@@ -23936,7 +23924,6 @@ VObjectValue
 VogpHgQ70F57MdFiBApyJwNSBk
 VoiceChatService
 VoidStoredMemberFunctionPointerCall2
-VOILMR6qjIz
 Vollbeding
 VOnPublishDialogController
 VOrderedDataStore
@@ -24479,6 +24466,7 @@ WeldCursor
 WeldPermyriad
 WeldReport
 WeldsAction
+WF4H6k31oFUA
 WGL_3DFX_multisample
 WGL_3DL_stereo_control
 WGL_AMD_gpu_association
@@ -24718,8 +24706,6 @@ WSAStartup
 WSAStringToAddressW
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
-Wv9Zs0OZTBdJfvmWB6ucuEqvGrk0GcYRSF41d3gPrxv7
-WYNdEjpHpWc6l1hJkaywz7oe
 X_JW4AssetType
 XA_A]A\_][
 XA_A]A\_^[
@@ -24905,7 +24891,6 @@ XW4CanManageStatus
 XW4HttpErrorCode
 XW4websocket_close_status
 XwhvcEikuIaqb7nHhEJ
-Xx0IK1JW8uLSnoWvFul6lgIxAwSdcHJDz3KF14dvKVsLfQvpL971IQnUhbhQ4
 XXXXXX.rbxl
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
@@ -24961,12 +24946,10 @@ YQByteArray
 YResolution
 YwBBvY55YvBBwY5
 Zcaronsmall
-ZCXDSzWDUjIJFjcee
 Zdotaccent
 ZgnhKhWhci
 ZIndexBehavior
 ZLcJhLcGhM
-ZMKHytMTz8MODbo5PRrKwJf5xZovAvZ5
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
 ZoomActive

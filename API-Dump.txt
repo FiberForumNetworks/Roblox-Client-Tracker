@@ -2888,11 +2888,11 @@ Class StudioTheme : Instance {PluginSecurity} [NotCreatable] [NotReplicated]
 Class SurfaceAppearance : Instance
 	Property float SurfaceAppearance.MetalnessScale
 	Property float SurfaceAppearance.RoughnessScale
-	Property Content SurfaceAppearance.ColorMap
-	Property Content SurfaceAppearance.MetalnessMap
-	Property Content SurfaceAppearance.NormalMap
-	Property Content SurfaceAppearance.RoughnessMap
-	Property Content SurfaceAppearance.TexturePack
+	Property Content SurfaceAppearance.ColorMap {LocalUserSecurity}
+	Property Content SurfaceAppearance.MetalnessMap {LocalUserSecurity}
+	Property Content SurfaceAppearance.NormalMap {LocalUserSecurity}
+	Property Content SurfaceAppearance.RoughnessMap {LocalUserSecurity}
+	Property Content SurfaceAppearance.TexturePack {RobloxSecurity}
 Class TaskScheduler : Instance [NotCreatable] [Service]
 	Property Enum<ThreadPoolConfig> TaskScheduler.ThreadPoolConfig
 	Property double TaskScheduler.SchedulerDutyCycle  [ReadOnly] [NotReplicated]
