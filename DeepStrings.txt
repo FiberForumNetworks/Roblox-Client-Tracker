@@ -224,7 +224,6 @@ AdditionalCoreIncludeDirs
 AdditionalLuaState
 AdditionalStreamJobLabelsAndLogging
 AdditionalTextBoxShortcuts
-AdditionalVerificationForStats
 AddKeyframe
 AddMaterial
 AddMinStreamRadiusToReplicatorStats
@@ -3730,7 +3729,6 @@ BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BConnection
 BCryptGenRandom
-BDUDKYgfsnpjZ
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
 BEA91211E2B410EF351327957B
@@ -4164,7 +4162,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.418.0.377090
+ByVersion_0.418.0.377163
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -4483,6 +4481,7 @@ CFrame.new
 CFrameDecal
 CFrameOnly
 CFrameValue
+Cgz5whGigC
 ChainCAFile
 ChainCAPath
 Chalkboard
@@ -4648,6 +4647,7 @@ CIOSW[^adfikosvy
 CipherString
 Ciphersuites
 Circumflexsmall
+CJ6IydbZm8lgoLfIYh22ztmbOj0biFLs8XQzhHINq0NnhSyah
 CJVNotFallbackToEnglishForCoreGuiEnabled
 ClampColor
 ClassCategory
@@ -4701,8 +4701,6 @@ ClearTouchMovementModes
 ClearUnusedLuaRefsJob
 ClearUnusedLuaRefsWithJob
 ClearUserVariations
-CLI120342p7
-CLI120342p72
 CLI20390_2
 ClickableWhenViewportHidden
 ClickButton1
@@ -6396,6 +6394,7 @@ CylinderMesh
 CylinderShapeData
 CylindricalConstraint
 CylindricalConstraintAction
+CYSfUjCI94p24
 D_Key_dn.png
 DA88D6583A11E29A3DBD856014A660
 DA88D7583A11E29A3DBD856014A660
@@ -7315,6 +7314,7 @@ DlcVersion
 DListenerAttributes
 DMinMaxDistance
 DnsResolve
+DO3rLBHC0zVyOuf
 DocChanged
 DocDockManager
 DocDockWidget
@@ -7341,7 +7341,7 @@ DocumentID
 DocumentMargin
 DocumentMode
 DocumentsFolderLocation
-DoEvenMore
+Dofqy7Dr7ho
 DomainPolicy
 DominantAxis
 DOMMouseScroll
@@ -7368,8 +7368,6 @@ DOPENSSL_CPUID_OBJ
 DOPENSSL_IA32_SSE2
 DOPENSSL_PIC
 DopplerScale
-DoSomething
-DoSomethingElse
 Dotaccentsmall
 DotProduct
 DoubleClick
@@ -7456,7 +7454,6 @@ DrawRangeElements
 DrawTextBox
 DrawTimerRow
 DrawToolTip
-DressInLayers2
 DriverInfo
 DropAction
 DropActions
@@ -8400,6 +8397,7 @@ FailStartNotEmpty
 FailSysCreate
 FailureOnAccept
 FailureReason
+FalDZEAkwYGe1VKxmc
 FallAnimation
 FallenParts
 FallenPartsDestroyHeight
@@ -8518,7 +8516,6 @@ FFlagStudioSaveToCloudV2
 FFlagStudioSaveToCloudV3
 FFlagToolboxJointMigrationApi
 FFoRLVHHHHoTJVF
-FhDqUB6NxA4LTpcG
 FHFRF\FfFpFzF
 FieldOfView
 Figueiredo
@@ -9079,6 +9076,7 @@ FXCompositingFS
 FXCompositingLinearFS
 FXComposition
 FxI9Fpu5E2
+FYO6DKEW1HLPXorCfv8fMmQ1TRG7gj61gK6
 GainMakeup
 GameAbsenceInWeb.
 GameAction
@@ -11361,6 +11359,7 @@ ItemWidget
 Iterations
 ITRedirect
 IUserDataStoreServiceBase
+IutN7yhJw1AjF4wuJ
 IVRApplications_006
 IVRChaperone_003
 IVRChaperoneSetup_005
@@ -11391,6 +11390,7 @@ JHW4MembershipType
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
+JN910cQXhiXqVFHbWAd
 JoinBlobInvalidateThresholdPercent
 JoinCommand
 JoinDataCacheChecksClientOwnedParts
@@ -11473,15 +11473,14 @@ JW4HttpRequestResult
 JW4InfoType
 JW4TextFilterContext
 JW4ThumbnailType
+JZMR2HaShxDcFkLK1eevcDV6gpvnvAfKPpKZE6fTVFIBLrqxZmSV50LNrpBD5pge
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
 KAXPEBDHAEAPEAVQChar
 KBytesPerSec
-KcXN0neetyR2woN
 KeepAliveTimeout
 KeepPositionOnInsert
-KeEwndh9UBcKnv
 KERNEL32.dll
 KERNEL32.DLL
 Kerplunk.mp3
@@ -11535,11 +11534,9 @@ KickByDatacenter_
 KiDszBCYB0gyp03Pc
 KillPtClicked
 KillSurfaceJointsPart1
-KkISnx7MdgVgkPmXjia9H07sJcXBqAegMNOUy5ZmgAXhb7xHPFWk87y2QU
 KnownHeaders
 KodchiangUPC
 KPEIBX_K_KPEIAU_iobuf
-Kutoj2Kf0wV
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -12826,7 +12823,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAqLWmVFjT1KV2
+MIICCgKCAgEA2MX378R4Onlv79gmpOOgwK3DakW9YwJ5BeUZzRbapQEht5WOFRLB
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
 MinDelta[nLog]
@@ -13058,7 +13055,6 @@ MQModelIndex
 MQStandardItem
 MQTableWidgetItem
 MQTreeWidgetItem
-MRb2n7i6htTk9
 MRSMessageSize
 MRSTopicNameLength
 MRULocalFilesChanged
@@ -13438,6 +13434,7 @@ NPEAVInstance
 NPEAVQString
 NPEAVQWidget
 Ntildesmall
+NuKX3gKQwKe2
 NullPassword
 NUMBER_OF_ORDERED_STREAMS
 NumberAnimation
@@ -13612,6 +13609,7 @@ Oh44\h44\Q
 OHdFtjN\rvv
 Ohungarumlaut
 OiCCPPhotoshop
+OiFF8GdHeMhgaorB
 OKButtonClicked
 OldActiveElement
 OldMessagesFetched
@@ -15335,6 +15333,7 @@ PluginWidgetRelay
 PluginWidgetRelayForPluginGui
 PluginWriteTemp
 PlusButtonPressed
+PMC7GArxsAUGoDGMJ8PczmwPAs44YOXlX
 POINT_SIZE
 PointBalanceCacheInvalidateTimeMs
 PointDataChanged
@@ -17193,7 +17192,6 @@ ReportAssetSale
 ReportAvatarAssetLoadTimesPerMyriad
 ReportAvatarRequestTimesPerMyriad
 ReportBcsToEventStream
-ReportCharacterLoadTimeMetrics2
 ReportCharacterLoadTimeMetricsInverseProbability
 ReportClientInfo
 ReportClientMemoryCat
@@ -17440,6 +17438,7 @@ RevocationList
 RevocationRefs
 RevocationUrl
 RevokeFriendship
+RgwYneNnnsbl7s
 RibbonButton
 RibbonButtonControl
 RibbonGallery
@@ -18506,6 +18505,7 @@ SetWindowLongPtrA
 SetWindowPos
 SetWindowsHookExA
 SetWindowTextA
+SFZul7cP32hZ56tX8DRbOCIHhl
 ShaderSource
 Shadow.visible
 ShadowAtlas
@@ -18837,8 +18837,6 @@ SolverRigidBodies
 SolverRigidBody
 SolverRigidBodyAnchored_Optimization
 SolveWorld
-SometimesDoSomething
-SometimesDoSomethingElse
 Soothsayer
 SortColumn
 SortColumnMouseOver
@@ -18952,7 +18950,6 @@ SplittingCanceled
 SpreadAngle
 SpringConstraint
 SpringConstraintAction
-SPW9FGUrHh1gw3NUPsCDpuHpF
 SquishRelay
 SQUIshRobloxReflectionExtensionLibrary
 Src.Thread
@@ -21684,6 +21681,7 @@ TextWrapped
 TextXAlignment
 TextXmlParser
 TextYAlignment
+TG2MiOSu50R
 TGenericSlotWrapper
 TGenericSlotWrapper.
 ThatCausedFocusLoss
@@ -22622,6 +22620,7 @@ UEditionEntry
 UEventInfo
 UEventInstance
 UEventSlot
+UEwHpGULyp3Cq3aDuSeBcXO7Ba
 UExtraSelection
 UFileMeshData
 UFMODSystemRelease
@@ -22981,7 +22980,7 @@ UQLatin1Char
 UQMetaObject
 UQPrivateSignal
 UQStringDataPtr
-UqToxrNrLEBfXhvzAyf0j4KMAcbHw
+UQu65Db1xZC045zgVy0E1YnxOM2
 URawUntranslatedEntry
 UReplicatorPeerInfo
 UResultDetail
@@ -23447,7 +23446,6 @@ VeFailedWithMessage
 VehicleController
 VehiclesAction
 VehicleSeat
-VeJeJ6xniQ7Tgi2k
 Velocity_xml
 VelocityInheritance
 VelocityMotor
@@ -24025,6 +24023,7 @@ VRunService
 VRunStateVerb
 Vruntime_error
 VRuntimeScriptService
+VrXc5xkIqizO7sVVmX
 VSaveGameToRobloxVerb
 Vscoped_connection
 VScraperJob
@@ -24232,7 +24231,6 @@ Vwebsocket_client_task_impl
 Vwebsocket_incoming_message
 Vwebsocket_transport
 VWeldConstraint
-VWhJGy8qEHFTkvlCN3
 Vwin_iocp_io_service
 Vwinhttp_client
 Vwork_io_service_runner
@@ -24246,7 +24244,6 @@ VxConnectionMTUSize
 VXmlElement
 VYieldFunctions
 VYieldFunctionStateObject
-VyiessBu5rG8qk7Il9aQgQqlpYbo3mEtCKx
 W_Key_dn.png
 WaistAccessory
 WaistBack_Att
@@ -24347,6 +24344,7 @@ WeChatAuthWindow
 WedgeDecal
 WedgeDecalTexture
 WedgeLargeAction
+WEFFrUCAwEAAQ
 WEIGHT_NAME
 WeightCurrent
 WeightTarget
@@ -24598,7 +24596,7 @@ WSAStartup
 WSAStringToAddressW
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
-WW8flR3zFwsoXhXpNQTwhSkRUtHE2PpBSjoiBo
+Wy0plyPAWopgrLtrHI
 X_JW4AssetType
 XA_A]A\_^[
 XA_A^_^[]H
@@ -24637,7 +24635,6 @@ XboxUseCuratedGameSort2
 XboxUseNewBundleEndpoints
 XboxUseNewValidUsernameCheck2
 XFbxAMatrix
-XfpnYDx8S1QFX0RO5
 XFREE86_GLYPH_RANGES
 XGetLastError
 XInputGetBatteryInformation
@@ -24669,6 +24666,7 @@ XP6AXW4HttpRequestResult
 XP6AXXZVlist0
 XPEAVInstance
 XPEAVQNetworkReply
+XQ9mjJxOwMUEmA
 XQColorDialog
 Xregex_error
 XResolution
@@ -24807,18 +24805,14 @@ YAXW4error_type
 Ycircumflex
 Ydieresissmall
 YffYZefYDNNDCOO
-YgcWpmACaVr7Ws8p
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YpeL3DiLunF9dTu8IJuUCchzabn3h8S1gFcl
 YQByteArray
 YResolution
 YwBBvY55YvBBwY5
 Z_KPEIBX_K_KPEIAU1
-ZaCfS4smwTdJunozCg1em7HERoZ7cVgalu6yuB8YuOxi
 Zcaronsmall
-ZCHmvY1nyac3fCaM0by17wxDsAvt0TbrGokqycCaOIho3WNfoW5K
 Zdotaccent
 ZgnhKhWhci
 ZIndexBehavior
@@ -24829,11 +24823,10 @@ ZoomActive
 ZoomOutDistance
 ZoomToExtents
 ZoomToHighlight
-ZOzSotuEThdttFsYloA623gfDTGZwfJAi4NPFfByYg4gMPNlkChVq
 ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVRBXMessageBox
+ZPzNUz6KUBRYj45IZrDeuWWQtP
 ZRZZZbZt[.[
 ZVspecial_equipped_signal
 ZVTouchedSignal
-ZYGTWPPVMm0p19v9Ra9ZEae1gx8Qmeh
