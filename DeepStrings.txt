@@ -398,7 +398,6 @@ AHPEAU_iobuf
 AHPEAX1PEAPEAX
 AHW4DataStoreRequestType
 AHW4UserInputType
-Ahz0xoCRVljzYbnlOKQiEvW36q7hubgSKBhsT1I2hYd8zAmxveNBWYPf2YZ1Gm
 ALayoutErrors
 Algorithms
 AliasRequestResult
@@ -4155,7 +4154,6 @@ ByCongestionControl
 ByDatacenter_
 ByIPForDatacenterId_
 ByLocationForDatacenterId_
-BYmACApAuYVnfHAInx9xkgQEkVT0
 ByOutBandwidthLimit
 BytecodeSerialization
 ByteParser
@@ -4164,7 +4162,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.417.0.376966
+ByVersion_0.418.0.376954
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -4385,6 +4383,7 @@ CaughtException
 CAXHW4TimerType
 CAXPEAV123
 CB_JW4FriendService_FriendStatus
+Cb1KNKGyRBsiCK
 CB271E256811994CD24F935527E2
 CB27CB54AAF011E38B9D871882A8E559
 CB27CB55AAF011E38B9D871882A8E559
@@ -5383,7 +5382,6 @@ CombinedSignalProperty
 ComboBoxActivated
 ComboBoxLabel
 ComboBoxLineEdit
-COmD3elsfZWpxmKIZcnTbvWstaZpbk39SQW1RcWuCnl3kciu1cjHv
 CommandBarAction
 CommandHistory
 CommandLineToArgvW
@@ -7311,7 +7309,6 @@ Distribution
 DistributionPoint
 DistributionPoints
 DistToShowBufferCountSqr
-Djt91SxS3CHz1LDeutinNxg1bjXIU4mMS6lIrNfwk2Y4WNZltf30gmIen1iC3n
 DKECCAK1600_ASM
 DlcVersion
 DListenerAttributes
@@ -7828,6 +7825,7 @@ EffectBoundings
 EffectiveRetryCount
 EFrontVector
 Egravesmall
+EH5yPTEyQnswmiLzOx3snuMUIaTjzmwJdPj3dS6VSTZN0ws838
 EHERE\EfEpEzE
 EJTU\^bcfguw
 ElapsedTime
@@ -8115,7 +8113,6 @@ Environment
 EnvironmentDiffuseScale
 EnvironmentSpecularScale
 EnviroSpeed
-EnX49Eg5eYWbeClbpbamWghE8p9S
 EoOoZoaozo
 EphemeralCounter
 EqualizerSoundEffect
@@ -8151,6 +8148,7 @@ ESGamePerfMonitorEnabled
 ESGamePerfMonitorHundredthsPercentage
 ESGamePerfMonitorReportTimerInSeconds
 ESGamePerfMonitorUseRandomSelection
+ESi7cOosR46L1u
 ESocialService
 EstimateEmitterBBox
 Estrangelo
@@ -8268,7 +8266,7 @@ EVRConfig_ForceBob
 EVRConfig_ForceHalfInterlace
 EVRConfig_ForceScaling
 EVRConfig_ForceThrottle
-EwVMnd9aLkkCVqkOj5V66X783vU1JEWsfsn8fJOlJ4O7D9Ja9Osh7PcO32
+Ew8J4cYqD0nA1DO7QjDA2lMiQljhQ5r
 ExactMatch
 ExceptionAddress
 ExceptionCode
@@ -8919,6 +8917,7 @@ ForwardScroll
 FoundItems
 FoundThread
 FpFramebuffer
+FpgdKB5cC48
 FpsVariance
 Fractional
 Frame_.frameend
@@ -9059,6 +9058,7 @@ FrontSurface
 FrontSurfaceInput
 FrustumOrdered
 FrustumRenderQueue
+Fu9inv3bz6XFhztSR1X2vUVS1Uo0rPBCt24o8CAwEAAQ
 FullRenderObjects
 Fullscreen
 FullScreen
@@ -10075,6 +10075,7 @@ GRAPHICSTRING
 GraphicsVulkanAndroidExtendedFormats3
 GraphicsVulkanAndroidTextureDL
 GraphicsVulkanARMVaryingBufferMb
+GraphicsVulkanBetterTransferBarriers
 GraphicsVulkanBlacklist
 GraphicsVulkanEnableDepthBiasClamp
 GraphicsVulkanMinAndroidVersion
@@ -10218,7 +10219,6 @@ GvEphfEUiHHoD6hYFI4xWGpAnIHcklKQCxrf46kAhDGeZnqIgeGszlGdWafunGE8
 GVKUTS[BXIWH\KbHi
 GXGfGkGpGuG
 GyroscopeEnabled
-GZG6niKtRcG
 H_Key_dn.png
 H_NAEBVQString
 H`CeIkHq7v4
@@ -10305,7 +10305,6 @@ HatAttachment
 HaveActiveUser
 HB_OPTIONS
 HB_SHAPER_LIST
-Hc017xH66yJZ6P
 Hcircumflex
 HDCacheLock
 HeadColor3
@@ -10692,7 +10691,6 @@ HW4Initialization
 HW4MatchType
 HW4Orientation
 HW4PacketPriority
-HWaLddhskw0HfuR9nqf9BO
 HwngSmldAskhBcraMaweNegsOgnaT
 HWYGOTH.ttf
 HybridEvent
@@ -11326,6 +11324,7 @@ IsVibrationSupported
 IsVIPDeveloper
 ITALIC_ANGLE
 ItalicAngle
+ITcgVvD79QmVH7LJklWJ
 Item.forceActiveFocus
 ItemActivated
 ItemAndCloseDialog
@@ -11381,6 +11380,7 @@ IVRSystem_017
 IVRTrackedCamera_003
 IWorldStage
 IXMLHTTPRequest2
+IZOmxUgReX3UoLrJf1aRsdi
 J_Key_dn.png
 J_NW4CurrencyType
 JasmineUPC
@@ -11462,7 +11462,6 @@ JsonFormat
 JSONObject
 JSONOverflowAbort
 JSONOverflowDepth
-JtxtxtNPRZw3ZuYd4Q0KZ2f9Tajo8QfQmVeD3zfoRhcBlzkwS3t4EeusxKD
 JUGroupRolesRequestRecord
 JumpAnimation
 JumpHeight
@@ -12159,7 +12158,6 @@ LuaChatOnlyMarkUnreadWhenChatIsFocused
 LuaChatResizeUserChatBubbleModerationError
 LuaChatScreenManagerAlwaysUpdatesWithDefaultsV390
 LuaChatScreenManagerResumeAndPauseAfterNavigation
-LuaChatShareGameBottomBarOverride
 LuaChatSwipeToGoBackFromConversation369
 LuaChatToastRefactor369
 LuaDebuggerBreakOnError
@@ -12183,7 +12181,6 @@ LuaHomePageShowAddFriendsButtonV361
 LuaHttpUrlBuilder
 LuaInviteFailOnZeroPlaceIdV384
 LuaInviteGameHandleUnknownResponse
-LuaInviteGameMockTextLocalization
 LuaInviteGameTextLocalization
 LuaInviteModalEnabledV384
 LuaKicksCounter_
@@ -12209,9 +12206,11 @@ LuauFasterTableLibrary
 LuauImproveLineInfo
 LuauOptimizeTableVarargs
 LuauRecursionLimit
+LuauWarnOnUtf8
 LuauWatchdog
 LuaWebService
 LVvuOx39]O
+LzpjcAHOJv7EV
 M_NVWeakFunctionRef
 MachineAddress
 MachineConfig
@@ -12831,7 +12830,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAumm6pt9p2
+MIICCgKCAgEA0vTkkR0IDYpurnv2ffeex92F
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
 MinDelta[nLog]
@@ -12949,7 +12948,6 @@ MotorMaxAngularAcceleration
 MotorMaxForce
 MotorMaxTorque
 MotorMaxTorque.
-MOus4MDtHpLu
 MouseActionReplicated
 MouseBehavior
 MouseButton
@@ -13213,6 +13211,7 @@ NavigationServiceTimingAnalytics
 NavigationServiceWorker
 NavigationType
 NavMeshTiles
+NaxSMi7rXlM6ZCNYACPlKBxIQC
 NCONF_dump_bio
 NCONF_dump_fp
 NCONF_get_number_e
@@ -13497,7 +13496,6 @@ NVWorkspace
 NW4FileSystemDir
 NW4PenStyle
 NW4UserInputType
-NxYwkBbhoJ9Usro
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
@@ -13669,7 +13667,6 @@ OnPublishDialogController
 OnPublishPlaceToRoblox
 OnPublishWindow
 OnRemoteSysStats
-ONrgwzGrlhTuppFgBodUVfoHBI4e41qxbkOi2gsY37g
 OnSaveToRoblox
 OnScreenKeyboardAnimationDuration
 OnScreenKeyboardPosition
@@ -13821,6 +13818,7 @@ OtherDisconnect
 OtherTextChanged
 OtherTopLabelOverride
 Otildesmall
+OU79UMmYRgphbLl6JJ0Uhlp
 OutBufferHealth
 OutClusters
 OutDataAppearance
@@ -13888,8 +13886,6 @@ OverrideStarterScript
 OverrideToMyBranch
 OverwriteMode
 OwnProperty
-OXdboqrJajWQdzC
-OxVJOX8umUUHfsNhsN
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^]
 PA^A]A\_^][
@@ -15001,6 +14997,7 @@ PixelStorei
 PixelXDimension
 PixelYDimension
 PixmapRect
+PJhOjzSNieq4UKFHxaUYiZ3YkkddAcVAqefz8kmiUNWKIAXu
 PKCS12_AUTHSAFES
 PKCS12_BAGS
 PKCS12_create
@@ -17448,6 +17445,7 @@ RevocationList
 RevocationRefs
 RevocationUrl
 RevokeFriendship
+Rhc58dPtVTiJitxP3qzE4iL8ohMHJYeYBrF3gl7FfHEEbgURN0PD5rirEmJlDV
 RibbonButton
 RibbonButtonControl
 RibbonGallery
@@ -17714,7 +17712,6 @@ RowsInserted
 RowsToContents
 RowStretch
 RPCServers
-RqQ8S1340z
 RRReceiptFail
 RRReceiptTotal
 RSA_check_key
@@ -17788,6 +17785,7 @@ RunService.Stepped
 RuntimeScriptService
 RuntimeUndoBehavior
 RunUpdateCycle.
+RveChrSLOJIteUGx6
 RVideoInternal
 RVideoMemLogging
 RVideoTrace
@@ -18680,6 +18678,8 @@ SignalServerLuaDialogClosed
 SignalStopForZeroWeight
 SignalType
 SignatureAlgorithms
+Signatures
+SignatureSerialization
 SignatureValue
 SignerIdentifier
 SignerInfo_content_sign
@@ -18964,6 +18964,7 @@ SQUIshRobloxReflectionExtensionLibrary
 Src.Thread
 Src.YBegin
 SrcPlaceId
+SrCSW1ogrsPBHFrRGgIcM1bZwj1GJXMl8XHrFF84OOAJv0lD01m
 SrcUniverseId
 SRGBToLinearFS
 SRTP_AEAD_AES_128_GCM
@@ -22634,6 +22635,7 @@ UFileMeshData
 UFMODSystemRelease
 Uforwarding_posix_time_traits
 UGameIconDescription
+UGcOzR7CTFSQFNiyjCc
 UGCValidationService
 UGeometryBatch
 UGlobalResult
@@ -24637,7 +24639,6 @@ XboxSaleAvatarPackageIds
 XboxUseCuratedGameSort2
 XboxUseNewBundleEndpoints
 XboxUseNewValidUsernameCheck2
-XdBJhK38twwfg3NzmC5a93gt5hgCBbd
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
@@ -24647,7 +24648,6 @@ XInputGetState
 XInputSetState
 Xinvalid_argument
 Xlength_error
-XN1l7N2PgjJijHC
 Xout_of_range
 XP6AXAEBUTextFilterResult
 XP6AXAEBVQString
@@ -24676,6 +24676,7 @@ Xregex_error
 XResolution
 Xtime_get_ticks
 XUnegotiation_response
+XUWDPjBYTmTfLy2JN64tP
 XvAAuY44YuAAvX4
 XVAddImageDialog
 XVAssetService
@@ -24768,6 +24769,7 @@ XW4CanManageStatus
 XW4HttpErrorCode
 XW4websocket_close_status
 XwhvcEikuIaqb7nHhEJ
+XWzZNCi8rgyzmSLKnQ1Y297O8DYEFzHH
 XXXXXX.rbxl
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
@@ -24812,9 +24814,9 @@ YffYZefYDNNDCOO
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YM4drzQ6daUMPGEjMJT
 YQByteArray
 YResolution
+Yv071lqmvsVLFJYJwiHTV2p7QkCVBHaWizeVGJ
 YwBBvY55YvBBwY5
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
