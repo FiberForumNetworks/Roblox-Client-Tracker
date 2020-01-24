@@ -118,6 +118,7 @@ AC01E30AF65B11E3AFC2CE47415C029D
 AC01E30BF65B11E3AFC2CE47415C029D
 AC01E30CF65B11E3AFC2CE47415C029D
 AC01E30DF65B11E3AFC2CE47415C029D
+Ac8452loB6nMcCAwEAAQ
 AccanthisADFStd
 Acceleration
 Acceleration.
@@ -471,7 +472,6 @@ Alternative
 AltTelegrafAddress
 AltTelegrafHundredthsPercent
 AlwaysChangePrimaryPartWithoutWarning
-AlwaysGenerateGuid
 AlwaysLuau
 AlwaysOnTop
 AM_INTERFACESETID_Standard
@@ -3596,6 +3596,7 @@ AXW4UiMessageType
 AXW4UserCFrame
 AXW4UserInputType
 AXW4VRTouchpad
+AzcceFNhq7SiZAOu5LkWDSMq
 BA447F42A91111E2B410EF351327957B
 BA886F11E18561866242201959
 BAA3C620681180838E23F0DC6224
@@ -3809,6 +3810,7 @@ BindRenderbuffer
 BindSwapBarrierNV
 BindTexImageARB
 BindTexture
+BindToAllInterfaces
 BindToClose
 BindToRenderStep
 BindToRenderStepCallbacks
@@ -4162,7 +4164,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.418.0.377163
+ByVersion_0.418.0.377208
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -4481,7 +4483,6 @@ CFrame.new
 CFrameDecal
 CFrameOnly
 CFrameValue
-Cgz5whGigC
 ChainCAFile
 ChainCAPath
 Chalkboard
@@ -4647,7 +4648,6 @@ CIOSW[^adfikosvy
 CipherString
 Ciphersuites
 Circumflexsmall
-CJ6IydbZm8lgoLfIYh22ztmbOj0biFLs8XQzhHINq0NnhSyah
 CJVNotFallbackToEnglishForCoreGuiEnabled
 ClampColor
 ClassCategory
@@ -5540,6 +5540,7 @@ ConnectionSlow
 ConnectionState
 ConnectionToken
 ConnectionType
+ConnectIPv6ServerInLAN
 Connectors
 ConnectorsActive
 ConnectorsAll
@@ -5866,6 +5867,7 @@ CreateAssociatedContextAMD
 CreateAssociatedContextAttribsAMD
 CreateBallInSocketConstraintVerb
 CreateBallOnAxisConstraintVerb
+CreateBoundSocket
 CreateBuffer
 CreateBufferRegionARB
 CreateBufferView
@@ -6110,7 +6112,6 @@ CSGDictionaryService
 CSGLevelOfDetailSwitchingDistance
 CSGLevelOfDetailSwitchingDistanceL12
 CSGLevelOfDetailSwitchingDistanceL23
-CSGMeshDeserializationFix
 CSGOperations
 CSGOperations2
 CSGPhys_PlaceholderData
@@ -6394,7 +6395,6 @@ CylinderMesh
 CylinderShapeData
 CylindricalConstraint
 CylindricalConstraintAction
-CYSfUjCI94p24
 D_Key_dn.png
 DA88D6583A11E29A3DBD856014A660
 DA88D7583A11E29A3DBD856014A660
@@ -7314,7 +7314,6 @@ DlcVersion
 DListenerAttributes
 DMinMaxDistance
 DnsResolve
-DO3rLBHC0zVyOuf
 DocChanged
 DocDockManager
 DocDockWidget
@@ -7341,7 +7340,6 @@ DocumentID
 DocumentMargin
 DocumentMode
 DocumentsFolderLocation
-Dofqy7Dr7ho
 DomainPolicy
 DominantAxis
 DOMMouseScroll
@@ -8397,7 +8395,6 @@ FailStartNotEmpty
 FailSysCreate
 FailureOnAccept
 FailureReason
-FalDZEAkwYGe1VKxmc
 FallAnimation
 FallenParts
 FallenPartsDestroyHeight
@@ -8841,6 +8838,7 @@ FootFrontToMiddle
 FootInToAnkle
 FootMiddleToAnkle
 FootOutToAnkle
+FopvNmYBIFP0
 ForBytesWritten
 ForCaptcha
 ForceActorSpace
@@ -9076,7 +9074,6 @@ FXCompositingFS
 FXCompositingLinearFS
 FXComposition
 FxI9Fpu5E2
-FYO6DKEW1HLPXorCfv8fMmQ1TRG7gj61gK6
 GainMakeup
 GameAbsenceInWeb.
 GameAction
@@ -10426,6 +10423,7 @@ HorizontalScrollBarPolicy
 HorizontalSpacing
 HorizontalStretch
 HorizontalWedge
+HostAddress
 HostDataModelType
 HostDataModelTypeIsCurrent
 HostGameStateType
@@ -10619,9 +10617,7 @@ HttpServiceRatePassProbePass
 HttpServiceReportUrl
 HttpServiceReportUrlBlacklistedHundredthsPercentage
 HttpServiceReportUrlHundredthsPercentage
-HttpServiceUseIpBlacklist
 HttpServiceUserAgent
-HttpServiceWorldsMostOverkillFlagForMovingCodeFourLines
 HttpServiceZeroPlayers
 HttpSession
 HttpSessionAsync
@@ -11359,7 +11355,7 @@ ItemWidget
 Iterations
 ITRedirect
 IUserDataStoreServiceBase
-IutN7yhJw1AjF4wuJ
+Iv41S302YV5NLs5P
 IVRApplications_006
 IVRChaperone_003
 IVRChaperoneSetup_005
@@ -11390,7 +11386,6 @@ JHW4MembershipType
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
-JN910cQXhiXqVFHbWAd
 JoinBlobInvalidateThresholdPercent
 JoinCommand
 JoinDataCacheChecksClientOwnedParts
@@ -11473,7 +11468,6 @@ JW4HttpRequestResult
 JW4InfoType
 JW4TextFilterContext
 JW4ThumbnailType
-JZMR2HaShxDcFkLK1eevcDV6gpvnvAfKPpKZE6fTVFIBLrqxZmSV50LNrpBD5pge
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -11537,6 +11531,7 @@ KillSurfaceJointsPart1
 KnownHeaders
 KodchiangUPC
 KPEIBX_K_KPEIAU_iobuf
+KUE0HeASR5
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -11597,6 +11592,7 @@ LayoutOrder
 LazySubmitTask
 LC_MESSAGES
 LCMapStringW
+LctdAqr87z
 LDLAkisMethodEnabled
 LDLBuildProgramTimeReportEnabled
 LDLBuildProgramTimeReportRate
@@ -12823,7 +12819,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA2MX378R4Onlv79gmpOOgwK3DakW9YwJ5BeUZzRbapQEht5WOFRLB
+MIICCgKCAgEAosJyvK7CysUtIzuKhtTE8jx2eSdtZqxtZO9zWJPz
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
 MinDelta[nLog]
@@ -13127,6 +13123,7 @@ MultTransposeMatrixd
 MultTransposeMatrixf
 MusicalInstruments
 MutexLifetime
+Mv57zOUYv7SuFdXeHyIoNxFO
 MW4PartMaterial
 MyModelsAction
 N_NW4StudioGameStateType
@@ -13237,6 +13234,7 @@ NetworkClient
 NetworkCluster
 NetworkConnection
 NetworkDeserializePacketsInAJob
+NetworkDetailed
 NetworkedAssemblies
 NetworkFilteringEnabled
 NetworkInstances
@@ -13398,7 +13396,6 @@ NotCreatable
 NotEnrolled
 NotEraseCallbackQueueOnPlayerRemoving
 NotFriends
-NotGroundhogsDay
 Notification
 Notification.
 NotificationObject
@@ -13434,7 +13431,6 @@ NPEAVInstance
 NPEAVQString
 NPEAVQWidget
 Ntildesmall
-NuKX3gKQwKe2
 NullPassword
 NUMBER_OF_ORDERED_STREAMS
 NumberAnimation
@@ -13609,7 +13605,6 @@ Oh44\h44\Q
 OHdFtjN\rvv
 Ohungarumlaut
 OiCCPPhotoshop
-OiFF8GdHeMhgaorB
 OKButtonClicked
 OldActiveElement
 OldMessagesFetched
@@ -14963,6 +14958,7 @@ PickerFrame
 PickerFrameChanged
 PickerFrameDestroyed
 PIDataUnsigned
+PIdgQvdoucNsK059hSEEjy
 PIDualSignedTBE
 PIN_CATEGORY_ANALOGVIDEOIN
 PIN_CATEGORY_CAPTURE
@@ -15333,7 +15329,6 @@ PluginWidgetRelay
 PluginWidgetRelayForPluginGui
 PluginWriteTemp
 PlusButtonPressed
-PMC7GArxsAUGoDGMJ8PczmwPAs44YOXlX
 POINT_SIZE
 PointBalanceCacheInvalidateTimeMs
 PointDataChanged
@@ -15713,6 +15708,7 @@ PushPixels
 PVAdornment
 PVInstance
 PVK_header
+PvnAiKY8ZPaOsqbyrHaXiLOCF0AJpTD4Y4WcQYnl6NEzAT
 PyJlf7IHZQpFHohBe
 QAbstractAnimation
 QAbstractButton
@@ -15748,6 +15744,7 @@ QCompleter
 QCoreApplication
 QCryptographicHash
 QDataStream
+QdB4IIwDd6klIlkmeGfZb6FE
 QDebuggerClient
 QDesktopServices
 QDesktopWidget
@@ -16234,6 +16231,7 @@ Qml2Imports
 QModelIndex
 QMouseEvent
 QMutexLocker
+QMz4wdcnj2ZaJWDdQGjNxu2mvl3ZJ0cwLUpVg2
 QNetworkAccessManager
 QNetworkAddressEntry
 QNetworkCookie
@@ -16249,6 +16247,7 @@ QNetworkReplyImplPrivate
 QNetworkRequest
 QObjectData
 QObjectShared
+QoBnZKbIqaoMAKNhdfaXuwZXjk9cdA9zSi41
 QOgreWidget
 QPaintDevice
 QPainterPath
@@ -16819,7 +16818,6 @@ RedPlastic
 RedrawMode
 RedrawWindow
 ReducedGroup
-ReduceRelentlessRemoteReminders
 ReduceSendDataCriticalSection
 ReduceTrussSearchDistance2
 ReentrantBlockingLock
@@ -17438,7 +17436,6 @@ RevocationList
 RevocationRefs
 RevocationUrl
 RevokeFriendship
-RgwYneNnnsbl7s
 RibbonButton
 RibbonButtonControl
 RibbonGallery
@@ -17705,6 +17702,7 @@ RowsInserted
 RowsToContents
 RowStretch
 RPCServers
+RqOukMH7v9Ffi7GmfWAFBngNjtMRD59KHJeAlmemz0L6dSczJS2Lbkw
 RRReceiptFail
 RRReceiptTotal
 RSA_check_key
@@ -18505,7 +18503,6 @@ SetWindowLongPtrA
 SetWindowPos
 SetWindowsHookExA
 SetWindowTextA
-SFZul7cP32hZ56tX8DRbOCIHhl
 ShaderSource
 Shadow.visible
 ShadowAtlas
@@ -19171,7 +19168,6 @@ StartTrackKern
 StartupAnalytics
 StartupInfluxHundredthsPercentage
 StartValue
-StartWarningStoppers
 STATE_HOVERED
 StateChange
 StateChanged
@@ -21004,6 +21000,7 @@ StudioRecentActionCacheSize
 StudioRecoveryWidgetDuplicatedEntry
 StudioRefactorAssetPreview
 StudioRefactorSaveToRoblox
+StudioRefactorStudioVerbsSavePublishDuplicateCode
 StudioRemoveCouldNotFetchAssetVersionData
 StudioRemoveInsertEvent
 StudioRemoveToolboxScrollingFrameHack
@@ -21514,6 +21511,7 @@ TemporaryLegacyPhysicsSolverOverrideStreaming
 TemporaryMeshFiles
 TenaciousGamePerfMonitor
 TencentAuthPath
+TEnGpz6Rs4L99h
 TermChanged
 TerminalIdentifier
 TerminateProcess
@@ -21681,7 +21679,7 @@ TextWrapped
 TextXAlignment
 TextXmlParser
 TextYAlignment
-TG2MiOSu50R
+TgbGivDIms4LioPzSX2q9V3yh3YGiO7Ga4HBduJugTK3nkY2UqwmaGA
 TGenericSlotWrapper
 TGenericSlotWrapper.
 ThatCausedFocusLoss
@@ -22620,7 +22618,6 @@ UEditionEntry
 UEventInfo
 UEventInstance
 UEventSlot
-UEwHpGULyp3Cq3aDuSeBcXO7Ba
 UExtraSelection
 UFileMeshData
 UFMODSystemRelease
@@ -22980,7 +22977,6 @@ UQLatin1Char
 UQMetaObject
 UQPrivateSignal
 UQStringDataPtr
-UQu65Db1xZC045zgVy0E1YnxOM2
 URawUntranslatedEntry
 UReplicatorPeerInfo
 UResultDetail
@@ -23137,6 +23133,7 @@ UsingBrowserServiceCaptcha
 UsingMeshPart
 UsingNewCaptchaApi
 UsingSendMeasureBatch2
+USO3sVWY34WKsvS
 USocketDescriptor
 USoundTask
 UStandardOutMessage
@@ -23184,6 +23181,7 @@ UVWATAUAVH
 UVWATAUAWH
 UVWATAVAWH
 UVWAUAVAWH
+UvyfCaKWdHfo9pMU2QQgYkqm3K1z
 UWATAUAVAW
 UWATAUAVAWH
 Uweb_response
@@ -23440,6 +23438,7 @@ Vector3int16
 Vector3Value
 VectorForce
 VectorForceAction
+VectorMinMax
 VectorToObjectSpace
 VectorToWorldSpace
 VeFailedWithMessage
@@ -24023,7 +24022,6 @@ VRunService
 VRunStateVerb
 Vruntime_error
 VRuntimeScriptService
-VrXc5xkIqizO7sVVmX
 VSaveGameToRobloxVerb
 Vscoped_connection
 VScraperJob
@@ -24344,7 +24342,6 @@ WeChatAuthWindow
 WedgeDecal
 WedgeDecalTexture
 WedgeLargeAction
-WEFFrUCAwEAAQ
 WEIGHT_NAME
 WeightCurrent
 WeightTarget
@@ -24573,6 +24570,7 @@ WorldToScreenPoint
 WorldToViewportPoint
 WP1Lk7UmX3No0NAVVrlNv8vM1TKYodC60fXpXkwOnxGMHelMkfu58xsxIB9tXB4U
 WPACKET_start_sub_packet_len__
+Wq7YWsKBQ6cWnb8pgy5vpuGq2um
 WristDisplacementDamping
 WristDisplacementDampingMode
 WriteArray
@@ -24596,7 +24594,6 @@ WSAStartup
 WSAStringToAddressW
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
-Wy0plyPAWopgrLtrHI
 X_JW4AssetType
 XA_A]A\_^[
 XA_A^_^[]H
@@ -24643,6 +24640,7 @@ XInputGetState
 XInputSetState
 Xinvalid_argument
 Xlength_error
+XMgv6r2Gnm6w6tcdRt5ds1zYeDqPQzjVz05K4Edv4LWEVGY
 Xout_of_range
 XP6AXAEBUTextFilterResult
 XP6AXAEBVQString
@@ -24666,7 +24664,6 @@ XP6AXW4HttpRequestResult
 XP6AXXZVlist0
 XPEAVInstance
 XPEAVQNetworkReply
-XQ9mjJxOwMUEmA
 XQColorDialog
 Xregex_error
 XResolution
@@ -24826,7 +24823,6 @@ ZoomToHighlight
 ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVRBXMessageBox
-ZPzNUz6KUBRYj45IZrDeuWWQtP
 ZRZZZbZt[.[
 ZVspecial_equipped_signal
 ZVTouchedSignal
