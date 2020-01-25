@@ -398,7 +398,6 @@ AHPEAU_iobuf
 AHPEAX1PEAPEAX
 AHW4DataStoreRequestType
 AHW4UserInputType
-AiHGLXnodEegAiJacQZbsIkSMBS9Uw1lqCQRK7UQ5
 ALayoutErrors
 Algorithms
 AliasRequestResult
@@ -1242,6 +1241,7 @@ AVAstLiteralTypeAnnotation
 AVAstStatAssign
 AVAstStatBlock
 AVAstStatBreak
+AVAstStatContinue
 AVAstStatExpr
 AVAstStatFor
 AVAstStatForIn
@@ -3984,7 +3984,6 @@ BoxMappedMeshLODFix_v2
 BoxSelectCommand
 BPEAUIUnknown
 BPuVfD9B`uOfD9BpuH
-BPVBV4Ply1dept5tHsBs
 BQByteArray
 BQJsonValueRef
 BQPersistentModelIndex
@@ -4066,6 +4065,7 @@ BrowserWindowWillNavigate
 BrushStyle
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
 BU_Simplex1to4
+Bu7tZkSSEi
 BubbleChat
 BubbleChatEnabled
 BubbleChatLifetime
@@ -4164,7 +4164,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.418.0.377254
+ByVersion_0.418.0.377354
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5330,6 +5330,7 @@ CollisionGroupSetCollidable
 CollisionObjectFloatData
 Collisions
 CollisionShapeData
+CollisionsMode
 CollisionSoundEnabled
 CollisionSoundVolume
 CollisionToggleMode
@@ -6369,6 +6370,7 @@ CustomSort
 CustomStatusAdded
 CustomStatusRemoved
 CustomToolButton
+CVwiJbQ6XQEyycHa
 CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
@@ -6531,6 +6533,7 @@ DB33D6AAF011E38B9D871882A8E559
 DB33D7AAF011E38B9D871882A8E559
 DBD856014A660
 DBSAES_ASM
+Dbwd8ulNqq8CAwEAAQ
 Dconst_iterator
 DD11E2898E9FB8E4A9E79B
 DD4669DB402E11E3A29DA4266180AE0C
@@ -7185,7 +7188,6 @@ DiffView.png
 DigestAlgorithm_find_ctx
 DigestAlgorithm_init_bio
 DigestedData_do_final
-Dill6H3RMxN3OWj
 DilleniaUPC
 DimmedText
 Direct3D11
@@ -7311,7 +7313,6 @@ DistributionPoint
 DistributionPoints
 DistToShowBufferCountSqr
 DKECCAK1600_ASM
-Dko7sKYIx6Mt0VXaPJjfO7l6XuJfGzgAeZHvRx4mKnkCAwEAAQ
 DlcVersion
 DListenerAttributes
 DMinMaxDistance
@@ -7489,7 +7490,6 @@ DSATTRIB_PicSampleSeq
 DSATTRIB_SAMPLE_LIVE_STREAM_TIME
 DSATTRIB_TRANSPORT_PROPERTIES
 DSATTRIB_UDCRTag
-DsCHOLHWQ05QJvEzPI
 DsEVxozVjY
 DSHA256_ASM
 DSHA512_ASM
@@ -8913,7 +8913,6 @@ ForwardScroll
 FoundItems
 FoundThread
 FpFramebuffer
-FPptlN5VzobiYYGXlCuTv
 FpsVariance
 Fractional
 Frame_.frameend
@@ -9077,6 +9076,7 @@ FXCompositingFS
 FXCompositingLinearFS
 FXComposition
 FxI9Fpu5E2
+GA2Tlx4KXkE1PipGQIS3TX632k
 GainMakeup
 GameAbsenceInWeb.
 GameAction
@@ -9924,7 +9924,6 @@ GetWindowLongPtrA
 GetWindowTextA
 GetWindowTextLengthA
 GetWindowThreadProcessId
-GexBK9Npfac4KQHU
 GF2m_montgomery_point_multiply
 GF2m_simple_field_inv
 GF2m_simple_group_check_discriminant
@@ -10231,6 +10230,7 @@ HA_A^A]A\_^[]
 HA_A^A]A\_^[]H
 HA_A^A]A\_^]
 HA_A^A]A\_^][
+Ha5HqPjVHUTPUrueUZcscm
 HACK_DO_NOT_START_STARTER_SCRIPT
 HAEBVQPalette
 HAEBVQPixmap
@@ -10275,6 +10275,7 @@ HandleGamepadDisconnect
 HandleKeyEvent
 HandleLowTriggerStreamingGC
 HandleMissingThread
+HandleMouseDownWhenFocused
 HandlesBase
 HandlesStyle
 HandleWidth
@@ -10432,7 +10433,6 @@ HostDataModelType
 HostDataModelTypeIsCurrent
 HostGameStateType
 HostWidgetWasRestored
-HotLi4MqNWZTPZQfxH
 HoverAnimateSpeed
 HoverColor
 HoverCounter
@@ -10800,7 +10800,7 @@ IID_IVPVBIConfig
 IID_IVPVBINotify
 IID_IVPVBIObject
 IIMAEBVInstanceIdentifier
-IkcKutUgo2
+IkDragCollisionsMode
 IkDraggerAnchorMode
 IkDraggerSolveIterations
 IllegalTeleport
@@ -10882,6 +10882,7 @@ INCIDENTAL
 Inclination
 Inclination.
 InclinationAngle
+IncludeContactedMechanisms
 InClusters
 IncomingStats
 IncommingReplicationLag
@@ -11477,7 +11478,6 @@ K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
 KAXPEBDHAEAPEAVQChar
-KbjuJ7WJAgEeNJ3oapUWVVIFLGfonRBpojRXm32BfYQbz59pXNRoLih62fWjdjK
 KBytesPerSec
 KeepAliveTimeout
 KeepPositionOnInsert
@@ -11529,6 +11529,7 @@ KeywordFilterType
 KfaO3j5BbG6ijHHxFy22YNNJwxKTT
 KfE9k0uDfE9k
 KFKPKXK`KhK
+KfQVZgTcitqzq9rHLPfYNPg0gTXaGC5
 KGraph_Build_Graph
 KickByDatacenter_
 KiDszBCYB0gyp03Pc
@@ -11539,6 +11540,7 @@ KodchiangUPC
 KPEIBX_K_KPEIAU_iobuf
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
+KZjOqGjOzyT8KFB13IrDxKIWYCojfADZUPI1YrSZVf56hlcU4ZoxUal7z
 LabelArray
 LabelArray.push
 LabelArray[globstart]
@@ -11859,6 +11861,7 @@ LiveScript
 LiveThreadRef
 LivingRoom
 LLEo6Soxvx2
+LLlfgGvWUgGZ
 LOAD_CERT_CTRL
 LoadAnimation
 LoadAssetVersion
@@ -12197,6 +12200,7 @@ LuaShareGameSettingsHubInviteCounter
 LuaShellErrors
 LuaSourceContainer
 LuaStrlibLimitMatchDepth
+LuauContinue
 LuauEnableAsKeyword
 LuauFailFaster
 LuauRecursionLimit
@@ -12718,6 +12722,7 @@ MergePolyMeshes
 MergeResolutionDialog
 MergeResolutionDialogVLayout
 MergeValidationCachesEXT
+MEsAtNrFLkSmMq7IcAY
 MeshAssetFromFileSelector
 MeshCacheSize
 MeshContentProvider
@@ -12823,7 +12828,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAwSlR97dzd1n
+MIICCgKCAgEAwHWdWU2EsE
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
 MinDelta[nLog]
@@ -12860,8 +12865,10 @@ MirrorMode
 Miscellaneous
 Mismatched
 MissingDumpFile
+MMW4IkDragCollisionsMode
 MMW4PartMaterial
 MMW4UserInputState
+MNnbIymxphIU3CKFI7gYxxGR7Evl
 MobileDevelopmentDeployer
 MockGestureGenerator
 MockLongPressGestureGenerator
@@ -12931,6 +12938,7 @@ MorePageType
 MoreSimplified
 MoreWeldRestrictions
 MorphToR15
+MOSR7qlEEpTnB
 MossyStone
 MostLeftNode
 MotionDiscontinuityThreshold
@@ -13067,7 +13075,6 @@ MSACM32.dll
 MsecBetweenTextureMemoryUsageArrayRefresh
 MSecsSinceEpoch
 MsgWaitForMultipleObjectsEx
-MSiWaVwqaESBObMnjgE
 MsToScreen
 MSVCP140.dll
 MTU_Country_
@@ -13356,6 +13363,7 @@ NoCollisionConstraintAction
 NoCollisionConstraintHumanoidFix
 NoCollisionConstraintInUse
 NoCollisionConstraintTool
+NoCollisions
 Node_class
 NodeAndRebalance
 NoExceptionForSimulatingOwnCharacterOutsideStreamingRegion2
@@ -13489,6 +13497,7 @@ NVWorkspace
 NW4FileSystemDir
 NW4PenStyle
 NW4UserInputType
+NxXMDAvZXnlLbvf2C7yBb3X2gnyAJE
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
@@ -13808,6 +13817,7 @@ OSSL_STORE_SEARCH_by_key_fingerprint
 OSSL_STORE_SEARCH_by_name
 OtherBlues
 OtherDisconnect
+OtherMechanismsAnchored
 OtherTextChanged
 OtherTopLabelOverride
 Otildesmall
@@ -14958,7 +14968,6 @@ PhysicsStep
 PhysicsStepsPerSecond
 PhysicsStepTimeMs
 PhysicsWorld
-PIcEBnJIRsyQm6
 PickerFrame
 PickerFrameChanged
 PickerFrameDestroyed
@@ -15091,6 +15100,7 @@ PlaceFromCommandLineParams
 Placeholder
 PlaceHolder
 PlaceholderColor3
+PlaceholderRead
 PlaceholderText
 PlaceIcon.png
 PlaceIdFailedVerification
@@ -15746,7 +15756,6 @@ QCommonStyle
 QCompleter
 QCoreApplication
 QCryptographicHash
-QCvpajJWTPnuEVlT
 QDataStream
 QDebuggerClient
 QDesktopServices
@@ -16266,7 +16275,6 @@ QQmlEngine
 QQmlImageProviderBase
 QQmlListProperty
 QQmlPrivate
-Qqp1bCr6bMjEkkFyJJsRu5NZMg
 QQQQ4Q5QQQQQQQ6QQQQQQ789
 QQSupportBuildGenericApiUrl
 QQuickImageProvider
@@ -16462,7 +16470,6 @@ QUnhandledException
 QuotaTimeScaleCapMS
 QuotedDouble
 QUrlTwoFlags
-QUTOxnW0eZR5A3G
 QValidator
 QVariantAnimation
 QVBoxLayout
@@ -16826,6 +16833,7 @@ ReduceTrussSearchDistance2
 ReentrantBlockingLock
 Ref_count_obj
 Ref_count_resource
+RefactoredIkSolve
 RefactoringAvatarEditorSetup
 Referenced
 ReferenceMenu
@@ -17783,7 +17791,6 @@ RVideoInternal
 RVideoMemLogging
 RVideoTrace
 RxRlReport
-RzGutSYW1dnKPKF
 S_Key_dn.png
 SA_KPEAPEBVfacet
 SA_NAEBVConnection
@@ -18736,6 +18743,7 @@ Sky.SkyboxUp
 SkyFSLinear
 SkylightRGBA
 SleepConditionVariableCS
+SlHmSvdLk37utrzxUDIM0M
 SliceCenter
 SliceScale
 SliderChanged
@@ -21306,6 +21314,7 @@ SWITCH3.wav
 SwitchFromRunningNoPhysToRunningThresholdInHundredths
 SwitchToFiber
 SwitchWindow
+SwnF6oCFCmmDO453DYYU0X3Sbv7at62muvPDded
 Sword128.png
 SwordTexture.png
 SXNET_add_id_asc
@@ -21330,7 +21339,6 @@ SystemObject
 SystemPopup
 SystemTimeToFileTime
 SystemUtil
-SZIek575yGyqcilHG
 TabBarModel
 TabBarModel.append
 TabBarTabLabel
@@ -22097,6 +22105,7 @@ TLS_SRP_SHA_WITH_AES_128_CBC_SHA
 TLS_SRP_SHA_WITH_AES_256_CBC_SHA
 TlsGetValue
 TlsSetValue
+TLunJUEkh68
 TMxQPxAA13
 ToArtistIntentAssetMigratorEnabled
 ToastNotification
@@ -22718,6 +22727,7 @@ UMasteringMetadata
 UMeshResource
 UMessageAndSenderId
 UMouseDownCaptureInfo
+UMWlRlZOE6SFyeTJL4zYKvoHh02HyQmUotALq9jLhrqKOVSuNsSWbfhKMIEDr
 Unaccounted
 UnAnchorCursor
 UNASSIGNED_SYSTEM_ADDRESS
@@ -22976,6 +22986,7 @@ UProjection
 Uproxy_data
 UpSampleTentFS
 UQByteArrayDataPtr
+UQcK3tK9dFLrjEcwFGpvce
 UQLatin1Char
 UQMetaObject
 UQPrivateSignal
@@ -22987,6 +22998,7 @@ UrlFormattingOption
 UrlHandlerClicked
 URLRequest
 URobloxApiGame
+UrUhCozZ6hAIvtWwdXiYrGfWccwEf4G
 UsageFeatures
 USATAUAVAW
 USATAUAVAWH
@@ -24569,7 +24581,6 @@ WorldToCellPreferEmpty
 WorldToCellPreferSolid
 WorldToScreenPoint
 WorldToViewportPoint
-WoYWWBZuiMAzAny1xm
 WP1Lk7UmX3No0NAVVrlNv8vM1TKYodC60fXpXkwOnxGMHelMkfu58xsxIB9tXB4U
 WPACKET_start_sub_packet_len__
 WristDisplacementDamping
@@ -24640,7 +24651,6 @@ XInputGetCapabilities
 XInputGetState
 XInputSetState
 Xinvalid_argument
-XJUx8WaO0s
 Xlength_error
 Xout_of_range
 XP6AXAEBUTextFilterResult
@@ -24801,14 +24811,15 @@ YAXPEAXPEBX1
 YAXPEBVQObject
 YAXW4error_type
 Ycircumflex
-YCvwB4fkEZdI53tRnzZnom9JZk6MgP2MDtz2jYRocl
 Ydieresissmall
+YEap7kQdKPgtCXpvscVtHTHtQ
 YffYZefYDNNDCOO
 YieldEvent
 YieldFuncDesc
 YieldFunction
 YQByteArray
 YResolution
+YRl1OcIITMz7hoYbOlHxr6KCsG8eC3C4
 YwBBvY55YvBBwY5
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
@@ -24826,7 +24837,5 @@ ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVRBXMessageBox
 ZRZZZbZt[.[
-Zvim0IvZeHxaqm0oo2RcSvhtYOJXz94caVuT3Kxc
 ZVspecial_equipped_signal
 ZVTouchedSignal
-ZZBPni7M7ybT98JeA6tFmlC4LlQ

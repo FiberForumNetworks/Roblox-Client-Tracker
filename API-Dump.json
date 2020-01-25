@@ -34161,6 +34161,55 @@
                 },
                 {
                     "MemberType": "Function",
+                    "Name": "IkMoveTo",
+                    "Parameters": [
+                        {
+                            "Name": "part",
+                            "Type": {
+                                "Category": "Class",
+                                "Name": "Instance"
+                            }
+                        },
+                        {
+                            "Name": "target",
+                            "Type": {
+                                "Category": "DataType",
+                                "Name": "CFrame"
+                            }
+                        },
+                        {
+                            "Default": "1",
+                            "Name": "translateStiffness",
+                            "Type": {
+                                "Category": "Primitive",
+                                "Name": "float"
+                            }
+                        },
+                        {
+                            "Default": "1",
+                            "Name": "rotateStiffness",
+                            "Type": {
+                                "Category": "Primitive",
+                                "Name": "float"
+                            }
+                        },
+                        {
+                            "Default": "OtherMechanismsAnchored",
+                            "Name": "collisionsMode",
+                            "Type": {
+                                "Category": "Enum",
+                                "Name": "CollisionsMode"
+                            }
+                        }
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "void"
+                    },
+                    "Security": "RobloxScriptSecurity"
+                },
+                {
+                    "MemberType": "Function",
                     "Name": "IsRegion3Empty",
                     "Parameters": [
                         {
@@ -59382,6 +59431,23 @@
                 }
             ],
             "Name": "CollisionFidelity"
+        },
+        {
+            "Items": [
+                {
+                    "Name": "NoCollisions",
+                    "Value": 0
+                },
+                {
+                    "Name": "OtherMechanismsAnchored",
+                    "Value": 1
+                },
+                {
+                    "Name": "IncludeContactedMechanisms",
+                    "Value": 2
+                }
+            ],
+            "Name": "CollisionsMode"
         },
         {
             "Items": [

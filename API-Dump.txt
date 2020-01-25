@@ -1925,6 +1925,7 @@ Class WorldRoot : Model [NotCreatable]
 	Function Objects WorldRoot:FindPartsInRegion3(Region3 region, Instance ignoreDescendantsInstance = nil, int maxParts = 20)
 	Function Objects WorldRoot:FindPartsInRegion3WithIgnoreList(Region3 region, Objects ignoreDescendantsTable, int maxParts = 20)
 	Function Objects WorldRoot:FindPartsInRegion3WithWhiteList(Region3 region, Objects whitelistDescendantsTable, int maxParts = 20)
+	Function void WorldRoot:IkMoveTo(Instance part, CFrame target, float translateStiffness = 1, float rotateStiffness = 1, Enum<CollisionsMode> collisionsMode = "OtherMechanismsAnchored") {RobloxScriptSecurity}
 	Function bool WorldRoot:IsRegion3Empty(Region3 region, Instance ignoreDescendentsInstance = nil)
 	Function bool WorldRoot:IsRegion3EmptyWithIgnoreList(Region3 region, Objects ignoreDescendentsTable)
 Class Workspace : WorldRoot [NotCreatable] [Service]
@@ -3493,6 +3494,10 @@ Enum CollisionFidelity
 	EnumItem CollisionFidelity.Default : 0
 	EnumItem CollisionFidelity.Hull : 1
 	EnumItem CollisionFidelity.Box : 2
+Enum CollisionsMode
+	EnumItem CollisionsMode.NoCollisions : 0
+	EnumItem CollisionsMode.OtherMechanismsAnchored : 1
+	EnumItem CollisionsMode.IncludeContactedMechanisms : 2
 Enum ComputerCameraMovementMode
 	EnumItem ComputerCameraMovementMode.Default : 0
 	EnumItem ComputerCameraMovementMode.Classic : 1
