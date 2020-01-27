@@ -3955,6 +3955,7 @@ BorderColor
 BorderColor3
 BorderMode
 BorderSizePixel
+BorMX7cd6aBy09J3qeckTFUr87heBgkWKooovTlhgJkpDqq6YCbK
 BottomBarSize
 BottomImage
 BottomLeft
@@ -4152,6 +4153,7 @@ BVRegion3int16
 BVSystemAddress
 BVTextureId
 BWGradient.png
+BXCfddX3U3DT4ZXP5OA
 ByCongestionControl
 ByDatacenter_
 ByIPForDatacenterId_
@@ -4164,7 +4166,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.418.0.377559
+ByVersion_0.418.0.377604
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -4437,7 +4439,6 @@ CenterDialogType
 CenterDialogTypes
 CenterOfMass
 CentralWidget
-CEQNcRRPVX
 CERT_ID_new_init
 CertAcceptance
 CertCloseStore
@@ -7117,7 +7118,6 @@ DF41709311E28987EB530EBA4742
 DF42709311E28987EB530EBA4742
 DFbxAMatrix
 DfNfXfbftf
-DfZ1g7Bc7hdGS
 DGHASH_ASM
 DgNg`ghgpgxg
 DgNgXgbglgvg
@@ -7507,6 +7507,7 @@ Dst.YBegin
 DSVideoCaptureEngine
 DTLS_RECORD_LAYER_new
 DTLSv1_listen
+DuCxH1gtFS5pwhzpddvs3y3Qkrfb2dzU77yvvL
 DumpAction
 DumpFileCount
 DumpUtcCaptureTime
@@ -7999,7 +8000,6 @@ EnableToolboxPluginInsertion
 EnableToolboxUploadReport
 EnableToolboxVoteFix
 EnableTrackingAccessoryDestoyedWithLiveSignals
-EnableUIGradientBeta
 EnableUniversalAppUserAgentOnMacAndWin32
 EnableVertexAttribArray
 EnableWakingPGSJointsForNonSolverPrimitives
@@ -8519,6 +8519,7 @@ FFlagStudioSaveToCloudV2
 FFlagStudioSaveToCloudV3
 FFlagToolboxJointMigrationApi
 FFoRLVHHHHoTJVF
+FgOEvFDxYIq0Mzg1NC4x9wdYbCpElMvnsZ75rU17wC9W5t1wThDuirmVopkIzIC
 FHFRF\FfFpFzF
 FieldOfView
 Figueiredo
@@ -10305,7 +10306,6 @@ HaveActiveUser
 HB_OPTIONS
 HB_SHAPER_LIST
 Hcircumflex
-HcVF2141aQHc7nbHSuyzasw4
 HDCacheLock
 HeadColor3
 HeaderCheckBoxClicked
@@ -10377,7 +10377,6 @@ HighlightUpdate
 HighPriority
 HighResolution
 HighVelocityContactThresholdHundredth
-HihG8glqVYNUmZka39LGBBXSKm9oyYkxchXzOG
 HingeConstraint
 HingeConstraintAction
 HingeCursor
@@ -10471,7 +10470,6 @@ HPEBVQMimeData
 HQEAPEAVQGraphicsItem
 HQFSShadowed
 HQVSShadowed
-HrQvwUJzI8YG2UZdyob3eEE0Cwq3pKyKTl4IiGXbS91AFes3bBe4wELtgMtQ
 HtmlEscaped
 HTTPAccumulatedBytes
 HttpAddSetMethodPatch
@@ -11215,7 +11213,6 @@ InvokePreloadCallbackFromDMJob
 InvokeServer
 InWithTheNew
 IObjectWithSiteImpl
-IoN4tl6zL6DUBsbPfKQkAsun574m3a6fJnrkrhjgX7278
 IPAddrBlocks
 IPAddressChoice
 IPAddressFamily
@@ -11365,7 +11362,6 @@ ItemViewItem
 ItemWasSet
 ItemWidget
 Iterations
-ItNKmLK4MuXnngZKGWrQPcG1s
 ITRedirect
 IUserDataStoreServiceBase
 IVRApplications_006
@@ -11398,7 +11394,6 @@ JHW4MembershipType
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
-JN8Z4zWEhabZkgGA67Af77k1t
 JoinBlobInvalidateThresholdPercent
 JoinCommand
 JoinDataCacheChecksClientOwnedParts
@@ -11486,6 +11481,7 @@ K_Key_dn.png
 KaiTi_GB2312
 KAXPEBDHAEAPEAVQChar
 KBytesPerSec
+KdOfsMvqQ9Y5kdoG7y5
 KeepAliveTimeout
 KeepPositionOnInsert
 KERNEL32.dll
@@ -11544,6 +11540,7 @@ KillSurfaceJointsPart1
 KnownHeaders
 KodchiangUPC
 KPEIBX_K_KPEIAU_iobuf
+KsY86FkHKgaLLhgPaH5KkSbXH0hgxlwteR4tDXiyyNe5NWvngKFVFbYxGtK
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -11603,7 +11600,9 @@ LayoutNode
 LayoutOrder
 LazySubmitTask
 LC_MESSAGES
+LCblkiT9RPM2Mvc4lSuGuqC
 LCMapStringW
+LDBcHKArRf8QP429Z6KLVSybRW7ebaAV7I2jaasG4bL8OLrLq2gAwto5w1UD7y2H
 LDLAkisMethodEnabled
 LDLBuildProgramTimeReportEnabled
 LDLBuildProgramTimeReportRate
@@ -11866,7 +11865,6 @@ LiveScript
 LiveThreadRef
 LivingRoom
 LLEo6Soxvx2
-LM0x5foBsTFiCcqg
 LOAD_CERT_CTRL
 LoadAnimation
 LoadAssetVersion
@@ -12832,7 +12830,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAwh3d
+MIICCgKCAgEA63Gom0whXMaT8bwnAJoB95KT6k5DNHmob3f
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
 MinDelta[nLog]
@@ -12869,7 +12867,6 @@ MirrorMode
 Miscellaneous
 Mismatched
 MissingDumpFile
-MIZdbuWBddsY59nnhngEYSQGEyPQdWEpz8jaWhHDJQrnN2
 MMW4IkDragCollisionsMode
 MMW4PartMaterial
 MMW4UserInputState
@@ -13188,6 +13185,7 @@ NativePurchaseFinished
 NativeSeparators
 NativeStartPage
 NativeStartPageWidgets
+NatNAjt9dhdQawAiBN1hhUw2YBgjP
 NavBarSize
 NavigateHome
 Navigation
@@ -13364,6 +13362,7 @@ NextTabPage
 NfXf`fhfzf
 NHVVariant
 NinjaMask.mesh
+NlZc15tN9mHyIgVq5w1pN8QaCRmOeLGLlmz1D32n1boJjbub9kV13P
 NNW4SizeMode
 NoCacheForLocalContent
 NoCollisionConstraint
@@ -13895,7 +13894,6 @@ OverrideStarterScript
 OverrideToMyBranch
 OverwriteMode
 OwnProperty
-OYZyTuCfFlpLT7FzWj0kOewpduBUvCHXJRg1kPu
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^]
 PA^A]A\_^][
@@ -14873,7 +14871,6 @@ PersistentEditor
 PersistentFifoComboBox
 PerThreadTimer
 PerThreadTimerTotal
-PG6xNcRm7Rua3c6Wylk2xI0lQlkRbN7VI
 PGSAdaptiveCollisionMarginFixEnabled
 PGSAlign2AxesCorrectionDamping
 PGSAlign2AxesPStageFrictionConstant
@@ -15352,7 +15349,6 @@ PluginWidgetRelay
 PluginWidgetRelayForPluginGui
 PluginWriteTemp
 PlusButtonPressed
-PNVgxAaaSZu2gdqYI97QbomTX4W0zvh1j7HOYTZA1Gngs0RgleZkJzUCAwEAAQ
 POINT_SIZE
 PointBalanceCacheInvalidateTimeMs
 PointDataChanged
@@ -15683,7 +15679,6 @@ PROXY_CERT_INFO_EXTENSION
 PROXY_POLICY
 ProxyAction
 PSPECIFIED
-PU99vjvy2w8eh7nDBiDbSaaazDIgOSvW
 PUBKEY_get0
 PUBKEY_set
 PubKeyExchange
@@ -16231,7 +16226,6 @@ QItemDelegate
 QItemSelection
 QItemSelectionModel
 QItemSelectionRange
-Qjr0BEBkPTt5q2jCrqXIhZo9J7W4uCha5KAHu3Ccm4nh1qm
 QJsonArray
 QJsonDocument
 QJsonObject
@@ -16297,6 +16291,7 @@ QRadioButton
 QRegularExpression
 QRegularExpressionMatch
 QRegularExpressionMatchIterator
+QREpcs3izM5Zb3JzLmkNYu4lJQaRnAKZ
 QRubberBand
 QScopedPointer
 QScopedPointerDeleter
@@ -18794,6 +18789,7 @@ SM2_Ciphertext
 SMALL_CAP_SIZE
 Smartcardlogin
 SmartcardLogin
+SMGE3WdgKsBO1cmOWJ
 SMIME_read_ASN1
 SMIME_text
 Smooth.png
@@ -19451,8 +19447,6 @@ Studio.App.BetaFeatures.SurfaceJoinChangesTitle
 Studio.App.BetaFeatures.TerrainEditorDescription
 Studio.App.BetaFeatures.TerrainEditorTitle
 Studio.App.BetaFeatures.TryCoolFeaturesWithWarning
-Studio.App.BetaFeatures.UIGradientDescription
-Studio.App.BetaFeatures.UIGradientTitle
 Studio.App.BreakpointConditionEditDialog.BreakpointCondition
 Studio.App.BreakpointConditionEditDialog.Condition
 Studio.App.Breakpoints.DeleteAllBreakpoints
@@ -20746,7 +20740,6 @@ StudioBFRolesetSafeUpdates
 StudioBFRolesetSaveToCloudV2
 StudioBFRolesetSetInstanceDefaults
 StudioBFRolesetTerrainV2
-StudioBFRolesetUIGradient
 StudioBlockAnalyticsBasedOnOS
 StudioBootstrapperVersionNumber
 StudioBreakOnInfiniteLoopsRunFixEnabled
@@ -21180,7 +21173,6 @@ StudioUrlSaveToCloudV2
 StudioUrlSetInstanceDefaults
 StudioUrlSurfaceJoinChange
 StudioUrlTerrainUpdate
-StudioUrlUIGradient
 StudioUseDevelopAPIForPackages
 StudioUseNativeCaptchaV2
 StudioUseProdBaseUrlForStartPage
@@ -21301,7 +21293,6 @@ SurfacesDefault.png
 SurfaceSelection
 SurfaceTransparency
 SurfaceType
-SUS5ZB2fKA
 Suspension
 SUVATAUAVAW
 SUVATAUAVAWH
@@ -22347,7 +22338,6 @@ TouchTransmitter
 ToUniversalTime
 TownAndCity
 ToWorldSpace
-TPElt7K2KuR11FZ9oEWUOxI
 TraceMessage
 Track2Data
 TrackCountryRegionAPIHundredthsPercent
@@ -24357,6 +24347,7 @@ WaypointIdx
 WCharArray
 Wcircumflex
 WDU_Mbstatet
+WeaFZuXQZArA1P6Jn3pnZYkkotxjZV8CAwEAAQ
 WeakFunctionRef
 WeakThreadRef
 WeaponsAction
@@ -24645,6 +24636,7 @@ XA_A^A]A\][
 XA_A^A]A\_^[]
 XA_A^A]A\_^]
 XA_A^A]A\_^][
+XAe9OfxrqbLzRw0SkKzShROaXNnEpq4HTSFjc
 XAEAVFormatUpdater
 XAEAVHttpClient
 XAEAVNetworkStream
@@ -24848,7 +24840,6 @@ YieldFuncDesc
 YieldFunction
 YQByteArray
 YResolution
-YSZRVKusG0QZ
 YwBBvY55YvBBwY5
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
@@ -24868,4 +24859,3 @@ ZPEAVRBXMessageBox
 ZRZZZbZt[.[
 ZVspecial_equipped_signal
 ZVTouchedSignal
-ZXTh83bnSdfoT22y
