@@ -834,6 +834,7 @@ Studio.App.Property.JobCount,,Job Count,Job Count
 Studio.App.Property.KeywordColor,,Keyword Color,Keyword Color
 Studio.App.Property.Language,,Language,Language
 Studio.App.Property.LineThickness,,Line Thickness,Line Thickness
+Studio.App.Property.LocalAssetsFolder,,Local Assets Folder,Local Assets Folder
 Studio.App.Property.LuaDebuggerEnabled,,Lua Debugger Enabled,Lua Debugger Enabled
 Studio.App.Property.MatchingWordBackgroundColor,,Matching Word Background Color,Matching Word Background Color
 Studio.App.Property.MaximumOutputLines,,Maximum Output Lines,Maximum Output Lines

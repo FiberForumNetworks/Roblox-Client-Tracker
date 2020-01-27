@@ -3852,7 +3852,6 @@ BitArrayToObject
 BitstreamList
 Bkg_round.png
 Bkg_square.png
-BKm45wgLXA35njYNeKBeeh5EhSVCXNXpq7wEHaY6Pc8fP3ApaoIlDD
 BL17qL9koPpyChCHbWVgSXbfxynzBupojeOEiuqDuGX0BFl
 BlackRegular1.033
 BlackSource
@@ -4165,7 +4164,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.418.0.377424
+ByVersion_0.418.0.377559
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -4438,6 +4437,7 @@ CenterDialogType
 CenterDialogTypes
 CenterOfMass
 CentralWidget
+CEQNcRRPVX
 CERT_ID_new_init
 CertAcceptance
 CertCloseStore
@@ -5614,6 +5614,7 @@ ContentPropertyItem
 ContentProvider
 ContentProvider]
 ContentProvider_
+ContentProviderLocalAssetPath
 ContentProviderRequests
 ContentProviderStudio
 ContentProviderTempDirWithPid2
@@ -7116,6 +7117,7 @@ DF41709311E28987EB530EBA4742
 DF42709311E28987EB530EBA4742
 DFbxAMatrix
 DfNfXfbftf
+DfZ1g7Bc7hdGS
 DGHASH_ASM
 DgNg`ghgpgxg
 DgNgXgbglgvg
@@ -7314,7 +7316,6 @@ DistToShowBufferCountSqr
 DKECCAK1600_ASM
 DlcVersion
 DListenerAttributes
-Dm81UFC9FEFowvR6i
 DMinMaxDistance
 DnsResolve
 DocChanged
@@ -7951,6 +7952,7 @@ EnableLoadingScreenPlaceIconTween
 EnableLocaleHostForClients
 EnableLuaAppLoginPageForUniversalAppDev
 EnableLuaChatDiscussions
+EnableLuaDraggers
 EnableLuaEventStreamRelease
 EnableLuauDebugger
 EnableMarketplaceFavorite
@@ -8355,6 +8357,7 @@ ExternalHandlerFound
 ExternalHttpRequestSizeLimitKB
 ExternalRefCountData
 ExtraCollarRatio
+ExtraContent
 EXTRACT_AND_EXPAND
 EXTRACT_ONLY
 ExtraDatamodelServicesForPluginDms
@@ -9971,7 +9974,6 @@ GIM_ShapeRetriever
 GImpactCollisionAlgorithm
 GImpactCompound
 GImpactCompoundShape
-GJO0x4Fi3xKWWx
 GL_ARB_texture_storage
 GL_EXT_texture_compression_s3tc
 GlassTintFS
@@ -10297,13 +10299,13 @@ HasMigratedSettingsToTestService
 HasSeenShareInfo
 HasTerrain
 HasUnreadMessages
-HasuWi346f0rhlqlwsr9ySvmJQKAy2zeGGrm6SRh1lK3XLLnhUxVedMdaqw41P
 HatAccessory
 HatAttachment
 HaveActiveUser
 HB_OPTIONS
 HB_SHAPER_LIST
 Hcircumflex
+HcVF2141aQHc7nbHSuyzasw4
 HDCacheLock
 HeadColor3
 HeaderCheckBoxClicked
@@ -10375,6 +10377,7 @@ HighlightUpdate
 HighPriority
 HighResolution
 HighVelocityContactThresholdHundredth
+HihG8glqVYNUmZka39LGBBXSKm9oyYkxchXzOG
 HingeConstraint
 HingeConstraintAction
 HingeCursor
@@ -10468,6 +10471,7 @@ HPEBVQMimeData
 HQEAPEAVQGraphicsItem
 HQFSShadowed
 HQVSShadowed
+HrQvwUJzI8YG2UZdyob3eEE0Cwq3pKyKTl4IiGXbS91AFes3bBe4wELtgMtQ
 HtmlEscaped
 HTTPAccumulatedBytes
 HttpAddSetMethodPatch
@@ -10691,7 +10695,6 @@ HW4PacketPriority
 HwngSmldAskhBcraMaweNegsOgnaT
 HWYGOTH.ttf
 HybridEvent
-IA9WN2miqQ60udGSxWp7jIm1rZfX9tBRxZ1hRNnSlmlYRsoM7GJrDUCAwEAAQ
 Iacutesmall
 IAutocompleter
 IBusyStateModel
@@ -11212,6 +11215,7 @@ InvokePreloadCallbackFromDMJob
 InvokeServer
 InWithTheNew
 IObjectWithSiteImpl
+IoN4tl6zL6DUBsbPfKQkAsun574m3a6fJnrkrhjgX7278
 IPAddrBlocks
 IPAddressChoice
 IPAddressFamily
@@ -11361,6 +11365,7 @@ ItemViewItem
 ItemWasSet
 ItemWidget
 Iterations
+ItNKmLK4MuXnngZKGWrQPcG1s
 ITRedirect
 IUserDataStoreServiceBase
 IVRApplications_006
@@ -11393,6 +11398,7 @@ JHW4MembershipType
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
+JN8Z4zWEhabZkgGA67Af77k1t
 JoinBlobInvalidateThresholdPercent
 JoinCommand
 JoinDataCacheChecksClientOwnedParts
@@ -11538,7 +11544,6 @@ KillSurfaceJointsPart1
 KnownHeaders
 KodchiangUPC
 KPEIBX_K_KPEIAU_iobuf
-KpgkNKVWR0w08TWq3E6i3wqj6IcCW1fkl2HfTtl3aew4hn83lLKXzWuD6FDe
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -11861,6 +11866,7 @@ LiveScript
 LiveThreadRef
 LivingRoom
 LLEo6Soxvx2
+LM0x5foBsTFiCcqg
 LOAD_CERT_CTRL
 LoadAnimation
 LoadAssetVersion
@@ -11922,6 +11928,7 @@ LoadUserPlugins
 LocalAndGlobalVariables
 LocalAssetMaxSizeBytes
 LocalAssets
+LocalAssetsFolder
 LocalCacheScriptTextLoadedFromFile
 LocalDisconnect_
 LocalDocument
@@ -12129,7 +12136,6 @@ LuaAppsDiagRateLimitedErrorsCount
 LuaAppsDiagRateLimitedErrorsCounter
 LuaAppsErrorCount
 LuaAppShimmerOnChinaBuyButton
-LuaAppSingleTriggerForLocalPlayerManager
 LuaAppSiteMessageBannerEnabled
 LuaAppSizesWithValidDefaults
 LuaAppsLoadTimeAvatarModel
@@ -12826,7 +12832,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA9vkIpFOmuRusmKvYkf2G2lk3CYamc8Q5Jv0kZXTy2da
+MIICCgKCAgEAwh3d
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
 MinDelta[nLog]
@@ -12863,6 +12869,7 @@ MirrorMode
 Miscellaneous
 Mismatched
 MissingDumpFile
+MIZdbuWBddsY59nnhngEYSQGEyPQdWEpz8jaWhHDJQrnN2
 MMW4IkDragCollisionsMode
 MMW4PartMaterial
 MMW4UserInputState
@@ -13032,6 +13039,11 @@ MoveComplete
 MoveDirection
 MoveDirectionInternal
 MoveDownSelection
+MoveDragger.rbxm
+MoveDragger.rbxm_Home
+MoveDragger.rbxm_Home_Move
+MoveDragger.rbxm_Model
+MoveDragger.rbxm_Model_Move
 MoveFileExW
 MovementMode
 MovementRelative
@@ -13603,7 +13615,6 @@ OfRawBytes
 OfResidence
 OfTimesLooped
 OfTopLevelItem
-Og9k38Smm5gZ2v6WO1iI0001jIC3WEsQgQq2WF3s
 Ogoneksmall
 Ogravesmall
 OGRE_VIEW_UPDATE
@@ -13865,7 +13876,6 @@ OutrageousBuildersClub
 OutsideStreamedArea
 OutTouches
 OutUnprepareHeader
-Ov6TmXabNxS
 OverAction
 OverallHitRate
 OverflowToken
@@ -13885,7 +13895,7 @@ OverrideStarterScript
 OverrideToMyBranch
 OverwriteMode
 OwnProperty
-Oz8OTQFqRNQcxqQihOwa1IcI0BcPsmgDwR388K
+OYZyTuCfFlpLT7FzWj0kOewpduBUvCHXJRg1kPu
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^]
 PA^A]A\_^][
@@ -14863,6 +14873,7 @@ PersistentEditor
 PersistentFifoComboBox
 PerThreadTimer
 PerThreadTimerTotal
+PG6xNcRm7Rua3c6Wylk2xI0lQlkRbN7VI
 PGSAdaptiveCollisionMarginFixEnabled
 PGSAlign2AxesCorrectionDamping
 PGSAlign2AxesPStageFrictionConstant
@@ -15341,6 +15352,7 @@ PluginWidgetRelay
 PluginWidgetRelayForPluginGui
 PluginWriteTemp
 PlusButtonPressed
+PNVgxAaaSZu2gdqYI97QbomTX4W0zvh1j7HOYTZA1Gngs0RgleZkJzUCAwEAAQ
 POINT_SIZE
 PointBalanceCacheInvalidateTimeMs
 PointDataChanged
@@ -15671,6 +15683,7 @@ PROXY_CERT_INFO_EXTENSION
 PROXY_POLICY
 ProxyAction
 PSPECIFIED
+PU99vjvy2w8eh7nDBiDbSaaazDIgOSvW
 PUBKEY_get0
 PUBKEY_set
 PubKeyExchange
@@ -15744,7 +15757,6 @@ QAssociativeIterable
 QAssociativeIterableImpl
 QAuthenticator
 QAWNcgRdAzOKj8pi5wAlnsdoumgAtB1J7d
-QBDbSBT1lJIynoVkFSJ
 QBoxLayout
 QButtonGroup
 QByteArray
@@ -16219,6 +16231,7 @@ QItemDelegate
 QItemSelection
 QItemSelectionModel
 QItemSelectionRange
+Qjr0BEBkPTt5q2jCrqXIhZo9J7W4uCha5KAHu3Ccm4nh1qm
 QJsonArray
 QJsonDocument
 QJsonObject
@@ -17700,6 +17713,11 @@ RopeConstraintAction
 RotateAction
 RotateAxis
 RotateCameraForRightPart
+RotateDragger.rbxm
+RotateDragger.rbxm_Home
+RotateDragger.rbxm_Home_Rotate
+RotateDragger.rbxm_Model
+RotateDragger.rbxm_Model_Rotate
 RotateGridAction
 RotateIncrement
 RotateIncrementAction
@@ -17817,7 +17835,6 @@ SAPEAVQClipboard
 SAPEAVQDesktopWidget
 SAPEAVQStyle
 SAPEAVQWidget
-SAQTJprDO1EhLCikF3HTJbIk
 SAShowErrors
 SAShowWarnings
 SATAUAVAWH
@@ -17873,6 +17890,11 @@ ScaleCompensation
 ScaleCompensationMode
 ScaleDampeningPercent
 ScaledContents
+ScaleDragger.rbxm
+ScaleDragger.rbxm_Home
+ScaleDragger.rbxm_Home_Scale
+ScaleDragger.rbxm_Model
+ScaleDragger.rbxm_Model_Scale
 ScaledSize
 ScaleStarterCharacter
 ScaleWithParentSize
@@ -18121,6 +18143,11 @@ SelectAttachment0Verb
 SelectAttachment1Verb
 SelectChildrenOfSelection
 SelectCounterpartsVerb
+SelectDragger.rbxm
+SelectDragger.rbxm_Home
+SelectDragger.rbxm_Home_Select
+SelectDragger.rbxm_Model
+SelectDragger.rbxm_Model_Select
 SelectedAction
 SelectedCoreObject
 SelectedItem
@@ -18956,7 +18983,6 @@ SplitterHasErrors
 SplitterProgressBar
 SplitterState
 SplittingCanceled
-SPmvAaYEMEkbDJuM
 SpreadAngle
 SpringConstraint
 SpringConstraintAction
@@ -20661,6 +20687,7 @@ StudioAddPackagePermissions
 StudioAddResetDefaultInstanceProperties
 StudioAddSetAsDefaultContextMenuOption
 StudioAddTeamCreateDisconnectionLogs
+StudioAllowBuiltinActionOverride
 StudioAllowCoreScriptReloads
 StudioAllowDuplicateWatchVariables
 StudioAlwaysSaveLocalPluginAsRbxm
@@ -21274,6 +21301,7 @@ SurfacesDefault.png
 SurfaceSelection
 SurfaceTransparency
 SurfaceType
+SUS5ZB2fKA
 Suspension
 SUVATAUAVAW
 SUVATAUAVAWH
@@ -22319,6 +22347,7 @@ TouchTransmitter
 ToUniversalTime
 TownAndCity
 ToWorldSpace
+TPElt7K2KuR11FZ9oEWUOxI
 TraceMessage
 Track2Data
 TrackCountryRegionAPIHundredthsPercent
@@ -22724,7 +22753,6 @@ UIViewportFrameCollectFrames
 UIViewportFrameDeviceRestore
 UIViewportFrameSetCameraNearZ
 UIViewportFrameWorkspace
-UjqY2mj1ZDPJKG4zdmM4AYCjXTdL1HZLg52nHMtNNAzGHrxFfZEqxkXn5TtA
 ULinkedScriptLoadData
 ULoadedImage
 ULuaCallbacks
@@ -24585,7 +24613,6 @@ WorldToScreenPoint
 WorldToViewportPoint
 WP1Lk7UmX3No0NAVVrlNv8vM1TKYodC60fXpXkwOnxGMHelMkfu58xsxIB9tXB4U
 WPACKET_start_sub_packet_len__
-WQRijwCGSoSWDzMvIHmnzYGM4Cwx
 WristDisplacementDamping
 WristDisplacementDampingMode
 WriteArray
@@ -24815,18 +24842,17 @@ YAXPEBVQObject
 YAXW4error_type
 Ycircumflex
 Ydieresissmall
-YdswsivuG3Fu4i41zCxdREX
 YffYZefYDNNDCOO
 YieldEvent
 YieldFuncDesc
 YieldFunction
 YQByteArray
 YResolution
+YSZRVKusG0QZ
 YwBBvY55YvBBwY5
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
 Zdotaccent
-ZGImGPPYWRad5zpHUEz6G
 ZgnhKhWhci
 ZIndexBehavior
 ZLcJhLcGhM
@@ -24840,6 +24866,6 @@ ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVRBXMessageBox
 ZRZZZbZt[.[
-ZvLgR8wnDNAkG6foxcTRNSKv
 ZVspecial_equipped_signal
 ZVTouchedSignal
+ZXTh83bnSdfoT22y

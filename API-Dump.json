@@ -49152,6 +49152,23 @@
                     }
                 },
                 {
+                    "Category": "Directories",
+                    "MemberType": "Property",
+                    "Name": "LocalAssetsFolder",
+                    "Security": {
+                        "Read": "None",
+                        "Write": "RobloxScriptSecurity"
+                    },
+                    "Serialization": {
+                        "CanLoad": true,
+                        "CanSave": true
+                    },
+                    "ValueType": {
+                        "Category": "DataType",
+                        "Name": "QDir"
+                    }
+                },
+                {
                     "Category": "Lua Debugger",
                     "MemberType": "Property",
                     "Name": "LuaDebuggerEnabled",
