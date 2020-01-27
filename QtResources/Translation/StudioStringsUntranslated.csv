@@ -1304,6 +1304,7 @@ Studio.App.RBXMainWindow.ShowsHidesGridMaterial,,Shows/Hides Grid Material,Shows
 Studio.App.RBXMainWindow.SmoothSurface,,Smooth Surface,Smooth Surface
 Studio.App.RBXMainWindow.SmoothSurfaceWithoutOutlines,,Smooth Surface without Outlines,Smooth Surface without Outlines
 Studio.App.RBXMainWindow.StartPlayer,,Start Player,Start Player
+Studio.App.RBXMainWindow.StartRemoteDebug,,Start Remote Debug,Start Remote Debug
 Studio.App.RBXMainWindow.StartServer,,Start Server,Start Server
 Studio.App.RBXMainWindow.Stats,,Stats,Stats
 Studio.App.RBXMainWindow.StepInto,,Step Into,Step Into
@@ -1741,6 +1742,8 @@ Studio.App.RobloxStudioVerbs.PlaySolo,,Play Solo,Play Solo
 Studio.App.RobloxStudioVerbs.PlaySoloSaveFailure,,Play solo - save failure,Play solo - save failure
 Studio.App.RobloxStudioVerbs.QuickOpen,,Quick Open,Quick Open
 Studio.App.RobloxStudioVerbs.Redo1,,Redo %s,Redo %s
+Studio.App.RobloxStudioVerbs.RemoteDebug,,Remote Debug,Remote Debug
+Studio.App.RobloxStudioVerbs.RemoteDebugSaveFailure,,Remote Debug - save failure,Remote Debug - save failure
 Studio.App.RobloxStudioVerbs.RevealInExplorer,,Reveal In Explorer/Finder,Reveal In Explorer/Finder
 Studio.App.RobloxStudioVerbs.RobloxLuaScripts,,Roblox Lua Scripts (*.lua),Roblox Lua Scripts (*.lua)
 Studio.App.RobloxStudioVerbs.RobloxModelFiles,,Roblox Model Files (*.rbxm),Roblox Model Files (*.rbxm)

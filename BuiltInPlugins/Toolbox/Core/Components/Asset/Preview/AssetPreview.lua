@@ -33,6 +33,7 @@ local FFlagStudioToolboxPluginPurchaseFlow = game:GetFastFlag("StudioToolboxPlug
 local FFlagStudioToolboxShowPluginInstallationProgress = game:GetFastFlag("StudioToolboxShowPluginInstallationProgress")
 local FFlagUseDevelopFetchPluginVersionId = game:GetFastFlag("UseDevelopFetchPluginVersionId")
 local FFlagStudioHideSuccessDialogWhenFree = game:GetFastFlag("StudioHideSuccessDialogWhenFree")
+local FFlagStudioRefactorAssetPreview = settings():GetFFlag("StudioRefactorAssetPreview")
 
 local RunService = game:GetService("RunService")
 local StudioService = game:GetService("StudioService")
@@ -43,11 +44,12 @@ local Libs = Plugin.Libs
 local Roact = require(Libs.Roact)
 local RoactRodux = require(Libs.RoactRodux)
 local UILibrary = require(Libs.UILibrary)
+local PreviewController = UILibrary.Component.PreviewController
 
 local Preview = Plugin.Core.Components.Asset.Preview
 local AssetDescription = require(Preview.AssetDescription)
 local Vote = require(Preview.Vote)
-local PreviewController = require(Preview.PreviewController)
+local DEPRECATED_PreviewController = require(Preview.PreviewController)
 local ActionBar = require(Preview.ActionBar)
 local Favorites = require(Preview.Favorites)
 local SearchLinkText = require(Preview.SearchLinkText)
@@ -574,7 +576,7 @@ function AssetPreview:render()
 						}),
 					}),
 
-					PreviewController = Roact.createElement(PreviewController, {
+					DEPRECATED_PreviewController = not FFlagStudioRefactorAssetPreview and Roact.createElement(DEPRECATED_PreviewController, {
 						width = PADDING * 2,
 
 						currentPreview = currentPreview,
@@ -588,6 +590,22 @@ function AssetPreview:render()
 						onModelPreviewFrameLeft = self.onModelPreviewFrameLeft,
 
 						layoutOrder = layoutIndex:getNextOrder(),
+					}),
+
+					PreviewController = FFlagStudioRefactorAssetPreview and Roact.createElement(PreviewController, {
+						Width = PADDING * 2,
+
+						CurrentPreview = currentPreview,
+						PreviewModel = previewModel,
+						AssetPreviewType = assetPreviewType,
+						AssetId = assetId,
+						PutTreeviewOnBottom = putTreeviewOnBottom,
+
+						OnTreeItemClicked = onTreeItemClicked,
+						OnModelPreviewFrameEntered = self.onModelPreviewFrameEntered,
+						OnModelPreviewFrameLeft = self.onModelPreviewFrameLeft,
+
+						LayoutOrder = layoutIndex:getNextOrder(),
 					}),
 
 					LoadingIndicator = shouldShowInstallationProgress and Roact.createElement("Frame", {

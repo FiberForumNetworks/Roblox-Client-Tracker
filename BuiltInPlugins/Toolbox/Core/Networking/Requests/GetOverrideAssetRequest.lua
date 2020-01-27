@@ -119,32 +119,34 @@ return function(networkInterface, assetTypeEnum, creatorType, creatorId, targetP
 
 
 		if FFlagEnablePurchasePluginFromLua2 then
-			local category = "Model"
-			local groupId = nil
-			if creatorType == "Group" then
-				groupId = creatorId
-				category = assetTypeEnum == Enum.AssetType.Model and "GroupModels" or "GroupPlugins"
-			else
-				if assetTypeEnum == Enum.AssetType.Plugin then category = "Plugin" end
-			end
+			if FFlagUseCreationToFetchMyOverrideData2 then
+				local category = "Model"
+				local groupId = nil
+				if creatorType == "Group" then
+					groupId = creatorId
+					category = assetTypeEnum == Enum.AssetType.Model and "GroupModels" or "GroupPlugins"
+				else
+					if assetTypeEnum == Enum.AssetType.Plugin then
+						category = "Plugin"
+					end
+				end
 
-			if creatorType == "Group" then
-				local numPerPage = AssetConfigConstants.GetOverrideAssetNumbersPerPage
-				return networkInterface:getOverrideModels(category, numPerPage, targetPage, "Relevance", groupId):andThen(
-					handleOverrideResult,
-					handleOverrideFailed
-				)
-			else
-				local currentCursor = store:getState().overrideCursor or PagedRequestCursor.createDefaultCursor()
-				if PagedRequestCursor.isNextPageAvailable(currentCursor) then
-					return networkInterface:getAssetCreations(nil, PagedRequestCursor.getNextPageCursor(currentCursor), category):andThen(
-						handleGetCreationOverrideSuccss,
+				if creatorType == "Group" then
+					local numPerPage = AssetConfigConstants.GetOverrideAssetNumbersPerPage
+					return networkInterface:getOverrideModels(category, numPerPage, targetPage, "Relevance", groupId):andThen(
+						handleOverrideResult,
 						handleOverrideFailed
 					)
+				else
+					local currentCursor = store:getState().overrideCursor or PagedRequestCursor.createDefaultCursor()
+					if PagedRequestCursor.isNextPageAvailable(currentCursor) then
+						return networkInterface:getAssetCreations(nil, PagedRequestCursor.getNextPageCursor(currentCursor), category):andThen(
+							handleGetCreationOverrideSuccss,
+							handleOverrideFailed
+						)
+					end
 				end
-			end
-		else
-			if FFlagUseCreationToFetchMyOverrideData2 then
+			else
 				-- We will be using creation endpoint to fetch models to override.
 				local category = "Model"
 				local groupId = nil
@@ -171,24 +173,21 @@ return function(networkInterface, assetTypeEnum, creatorType, creatorId, targetP
 						handleOverrideFailed
 					)
 				end
-			else
-				local category = "MyModelsExceptPackage" -- Default to user's category
-				local groupId = nil
-				if creatorType == "Group" then
-					category = "GroupModels"
-					groupId = creatorId
-				end
-
-				local numPerPage = AssetConfigConstants.GetOverrideAssetNumbersPerPage
-
-				return networkInterface:getOverrideModels(category, numPerPage, targetPage, "Relevance", groupId):andThen(
-					handleOverrideResult,
-					handleOverrideFailed
-				)
+			end
+		else
+			local category = "MyModelsExceptPackage" -- Default to user's category
+			local groupId = nil
+			if creatorType == "Group" then
+				category = "GroupModels"
+				groupId = creatorId
 			end
 
+			local numPerPage = AssetConfigConstants.GetOverrideAssetNumbersPerPage
+
+			return networkInterface:getOverrideModels(category, numPerPage, targetPage, "Relevance", groupId):andThen(
+				handleOverrideResult,
+				handleOverrideFailed
+			)
 		end
-
-
 	end
 end

@@ -3081,6 +3081,7 @@ AVStarterPlayerService
 AVStartPageController
 AVStartPageTabController
 AVStartPlayerVerb
+AVStartRemoteDebugVerb
 AVStartServerAndPlayerVerb
 AVStartServerVerb
 AVStartTeamTestVerb
@@ -3851,6 +3852,7 @@ BitArrayToObject
 BitstreamList
 Bkg_round.png
 Bkg_square.png
+BKm45wgLXA35njYNeKBeeh5EhSVCXNXpq7wEHaY6Pc8fP3ApaoIlDD
 BL17qL9koPpyChCHbWVgSXbfxynzBupojeOEiuqDuGX0BFl
 BlackRegular1.033
 BlackSource
@@ -4163,7 +4165,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.418.0.377384
+ByVersion_0.418.0.377424
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -4478,7 +4480,6 @@ CFF056DD11E2898E9FB8E4A9E79B
 CFF156DD11E2898E9FB8E4A9E79B
 CFF456DD11E2898E9FB8E4A9E79B
 CFF556DD11E2898E9FB8E4A9E79B
-CFqMy4QgKSNxGnimLiQtdJpR4ri6LAmluBt2qWTaw
 CFrame.new
 CFrameDecal
 CFrameOnly
@@ -7313,6 +7314,7 @@ DistToShowBufferCountSqr
 DKECCAK1600_ASM
 DlcVersion
 DListenerAttributes
+Dm81UFC9FEFowvR6i
 DMinMaxDistance
 DnsResolve
 DocChanged
@@ -8109,7 +8111,6 @@ Environment
 EnvironmentDiffuseScale
 EnvironmentSpecularScale
 EnviroSpeed
-Eo8XkXIyhxauOBbq
 EoOoZoaozo
 EphemeralCounter
 EqualizerSoundEffect
@@ -9970,6 +9971,7 @@ GIM_ShapeRetriever
 GImpactCollisionAlgorithm
 GImpactCompound
 GImpactCompoundShape
+GJO0x4Fi3xKWWx
 GL_ARB_texture_storage
 GL_EXT_texture_compression_s3tc
 GlassTintFS
@@ -10295,6 +10297,7 @@ HasMigratedSettingsToTestService
 HasSeenShareInfo
 HasTerrain
 HasUnreadMessages
+HasuWi346f0rhlqlwsr9ySvmJQKAy2zeGGrm6SRh1lK3XLLnhUxVedMdaqw41P
 HatAccessory
 HatAttachment
 HaveActiveUser
@@ -10688,6 +10691,7 @@ HW4PacketPriority
 HwngSmldAskhBcraMaweNegsOgnaT
 HWYGOTH.ttf
 HybridEvent
+IA9WN2miqQ60udGSxWp7jIm1rZfX9tBRxZ1hRNnSlmlYRsoM7GJrDUCAwEAAQ
 Iacutesmall
 IAutocompleter
 IBusyStateModel
@@ -11471,7 +11475,6 @@ JW4HttpRequestResult
 JW4InfoType
 JW4TextFilterContext
 JW4ThumbnailType
-JZmbDpHhytdSd
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -11535,6 +11538,7 @@ KillSurfaceJointsPart1
 KnownHeaders
 KodchiangUPC
 KPEIBX_K_KPEIAU_iobuf
+KpgkNKVWR0w08TWq3E6i3wqj6IcCW1fkl2HfTtl3aew4hn83lLKXzWuD6FDe
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -11594,7 +11598,6 @@ LayoutNode
 LayoutOrder
 LazySubmitTask
 LC_MESSAGES
-LCav6bMUXer37leFRtV3wtVJiQy
 LCMapStringW
 LDLAkisMethodEnabled
 LDLBuildProgramTimeReportEnabled
@@ -12823,7 +12826,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA2Rw19nASt1dXpw8ifXD
+MIICCgKCAgEA9vkIpFOmuRusmKvYkf2G2lk3CYamc8Q5Jv0kZXTy2da
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
 MinDelta[nLog]
@@ -13349,7 +13352,6 @@ NextTabPage
 NfXf`fhfzf
 NHVVariant
 NinjaMask.mesh
-Nkfhr7ThdBxx2mSZ2lMghLFsX1G27ml8vPEcqWzpY5mRHbtAxbuj8ikYLTuD
 NNW4SizeMode
 NoCacheForLocalContent
 NoCollisionConstraint
@@ -13601,6 +13603,7 @@ OfRawBytes
 OfResidence
 OfTimesLooped
 OfTopLevelItem
+Og9k38Smm5gZ2v6WO1iI0001jIC3WEsQgQq2WF3s
 Ogoneksmall
 Ogravesmall
 OGRE_VIEW_UPDATE
@@ -13862,6 +13865,7 @@ OutrageousBuildersClub
 OutsideStreamedArea
 OutTouches
 OutUnprepareHeader
+Ov6TmXabNxS
 OverAction
 OverallHitRate
 OverflowToken
@@ -13881,6 +13885,7 @@ OverrideStarterScript
 OverrideToMyBranch
 OverwriteMode
 OwnProperty
+Oz8OTQFqRNQcxqQihOwa1IcI0BcPsmgDwR388K
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^]
 PA^A]A\_^][
@@ -15080,7 +15085,6 @@ PKCS8PrivateKey_bio
 PKCS8PrivateKey_fp
 PKEY_CRYPTO
 PKEY_USAGE_PERIOD
-PkgVDUrfvQOrQTrkC1K7y
 PKIMessage
 PKIResponse
 Place_Prims_PercDynamicAssemblies
@@ -15733,7 +15737,6 @@ QAbstractTableModel
 QActionEvent
 QActionGroup
 QActionTriggered
-QAd54SU35ybgvID2nT
 QAnimationGroup
 QApplication
 QArrayData
@@ -15741,6 +15744,7 @@ QAssociativeIterable
 QAssociativeIterableImpl
 QAuthenticator
 QAWNcgRdAzOKj8pi5wAlnsdoumgAtB1J7d
+QBDbSBT1lJIynoVkFSJ
 QBoxLayout
 QButtonGroup
 QByteArray
@@ -16973,6 +16977,7 @@ RemoteBackedDocument
 RemoteBasis
 RemoteCreateMotor6D
 RemoteCreateSeatWeld
+RemoteDebugAction
 RemoteDelayedQueueLimit
 RemoteDestroyMotor6D
 RemoteDestroySeatWeld
@@ -17751,7 +17756,6 @@ RtlCaptureContext
 RtlLookupFunctionEntry
 RtlVirtualUnwind
 RTMemoryless
-RTXRmKUwHlgfq9SkvkS69LlwJta0VMr9tjnCXpgFnPMDJyi0JjcKTp
 RuiCheckBoxHeader
 RuiDialogButtonHLayout
 RuiDialogButtonWatcher
@@ -17783,7 +17787,6 @@ RunService.Stepped
 RuntimeScriptService
 RuntimeUndoBehavior
 RunUpdateCycle.
-Ruw8TpxOASKCoSw6NAGhv3CuChJGtaPYwxVT6MUM
 RVideoInternal
 RVideoMemLogging
 RVideoTrace
@@ -17814,6 +17817,7 @@ SAPEAVQClipboard
 SAPEAVQDesktopWidget
 SAPEAVQStyle
 SAPEAVQWidget
+SAQTJprDO1EhLCikF3HTJbIk
 SAShowErrors
 SAShowWarnings
 SATAUAVAWH
@@ -18952,6 +18956,7 @@ SplitterHasErrors
 SplitterProgressBar
 SplitterState
 SplittingCanceled
+SPmvAaYEMEkbDJuM
 SpreadAngle
 SpringConstraint
 SpringConstraintAction
@@ -19161,6 +19166,7 @@ StartPlaying
 StartProcessException...
 STARTPROPERTIES
 StartRecording
+StartRemoteDebugVerb
 StartRetry
 StartScreenPosition
 StartScreenSize
@@ -20183,6 +20189,7 @@ Studio.App.RBXMainWindow.ShowViewSelector
 Studio.App.RBXMainWindow.SmoothSurface
 Studio.App.RBXMainWindow.SmoothSurfaceWithoutOutlines
 Studio.App.RBXMainWindow.StartPlayer
+Studio.App.RBXMainWindow.StartRemoteDebug
 Studio.App.RBXMainWindow.StartServer
 Studio.App.RBXMainWindow.Stats
 Studio.App.RBXMainWindow.StepInto
@@ -20361,6 +20368,8 @@ Studio.App.RobloxStudioVerbs.PlaySolo
 Studio.App.RobloxStudioVerbs.PlaySoloSaveFailure
 Studio.App.RobloxStudioVerbs.QuickOpen
 Studio.App.RobloxStudioVerbs.Redo1
+Studio.App.RobloxStudioVerbs.RemoteDebug
+Studio.App.RobloxStudioVerbs.RemoteDebugSaveFailure
 Studio.App.RobloxStudioVerbs.RevealInExplorer
 Studio.App.RobloxStudioVerbs.RobloxLuaScripts
 Studio.App.RobloxStudioVerbs.RobloxModelFiles
@@ -20808,6 +20817,7 @@ StudioEnableLuauVMBetaFeature
 StudioEnableNewScriptFoldStateBeta
 StudioEnablePackagePermissionsBetaFeature
 StudioEnablePluginManagementPlugin
+StudioEnableRemoteDebugging
 StudioEnableSafeUpdatesBetaFeature
 StudioEnableSaveToCloudV2BetaFeature
 StudioEnableSQUIshRobloxReflectionExtensionLibrary
@@ -21928,7 +21938,6 @@ TitleBarProgress
 TitlebarText
 TitleBarVisible
 TJNLerU][Wr
-TKkEU5gjpJVYvVING1yVN0z
 TLS_AES_128_CCM_8_SHA256
 TLS_AES_128_CCM_SHA256
 TLS_AES_128_GCM_SHA256
@@ -22523,7 +22532,6 @@ UBatchThumbnailResult
 UBlockAdditions
 UBlockGroup
 UBlockMore
-UBm5cNXegPczzecTKhBBAGdioshiDijT52F3Em7FlV7dVgSGjhx7tkH7SEJUpr
 UBulkImporterJob
 UBulkIngestionInfo
 UCachedBitstream
@@ -22702,7 +22710,6 @@ UInt8Vector
 UIntVector
 UINumTicks
 UIPageLayout
-Uiq61CTWiNENcI0hXqtHvUchXV
 UIQuadTree
 UIQuadTreeCellAreaMin
 Uis_continuation_if_running
@@ -22717,6 +22724,7 @@ UIViewportFrameCollectFrames
 UIViewportFrameDeviceRestore
 UIViewportFrameSetCameraNearZ
 UIViewportFrameWorkspace
+UjqY2mj1ZDPJKG4zdmM4AYCjXTdL1HZLg52nHMtNNAzGHrxFfZEqxkXn5TtA
 ULinkedScriptLoadData
 ULoadedImage
 ULuaCallbacks
@@ -24577,6 +24585,7 @@ WorldToScreenPoint
 WorldToViewportPoint
 WP1Lk7UmX3No0NAVVrlNv8vM1TKYodC60fXpXkwOnxGMHelMkfu58xsxIB9tXB4U
 WPACKET_start_sub_packet_len__
+WQRijwCGSoSWDzMvIHmnzYGM4Cwx
 WristDisplacementDamping
 WristDisplacementDampingMode
 WriteArray
@@ -24637,7 +24646,6 @@ XboxSaleAvatarPackageIds
 XboxUseCuratedGameSort2
 XboxUseNewBundleEndpoints
 XboxUseNewValidUsernameCheck2
-XDTxdDjXbM1ZNMl
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
@@ -24646,7 +24654,6 @@ XInputGetCapabilities
 XInputGetState
 XInputSetState
 Xinvalid_argument
-XKKAZcOFQHrS50gZPdJ5mw0SBrVaKbFgypBOJRtO
 Xlength_error
 Xout_of_range
 XP6AXAEBUTextFilterResult
@@ -24675,7 +24682,6 @@ XQColorDialog
 Xregex_error
 XResolution
 Xtime_get_ticks
-XUcqObzNhDxDoSUAfYU
 XUnegotiation_response
 XvAAuY44YuAAvX4
 XVAddImageDialog
@@ -24809,17 +24815,18 @@ YAXPEBVQObject
 YAXW4error_type
 Ycircumflex
 Ydieresissmall
+YdswsivuG3Fu4i41zCxdREX
 YffYZefYDNNDCOO
 YieldEvent
 YieldFuncDesc
 YieldFunction
 YQByteArray
-YqUW8aNZixRWnIy6TQVNthE1t4Y5evFQ05Nca2xIuHZ72ZR32xcPzsf8BUNzfBfw
 YResolution
 YwBBvY55YvBBwY5
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
 Zdotaccent
+ZGImGPPYWRad5zpHUEz6G
 ZgnhKhWhci
 ZIndexBehavior
 ZLcJhLcGhM
@@ -24833,5 +24840,6 @@ ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVRBXMessageBox
 ZRZZZbZt[.[
+ZvLgR8wnDNAkG6foxcTRNSKv
 ZVspecial_equipped_signal
 ZVTouchedSignal

@@ -19,6 +19,7 @@ local Keyframe = require(Components.Timeline.Keyframe)
 local InfiniteScrollingFrame = require(Components.InfiniteScrollingFrame)
 local LoadingIndicator = require(Components.LoadingIndicator)
 local ModelPreview = require(Components.Preview.ModelPreview)
+local PreviewController = require(Components.Preview.PreviewController)
 local RoundFrame = require(Components.RoundFrame)
 local RoundTextBox = require(Components.RoundTextBox)
 local RoundTextButton = require(Components.RoundTextButton)
@@ -32,6 +33,7 @@ local TitledFrame = require(Components.TitledFrame)
 local Tooltip = require(Components.Tooltip)
 local ToggleButton = require(Components.ToggleButton)
 local TreeView = require(Components.TreeView)
+local TreeViewButton = require(Components.Preview.TreeViewButton)
 
 local Spritesheet = require(Utils.Spritesheet)
 local LayoutOrderIterator = require(Utils.LayoutOrderIterator)
@@ -56,6 +58,7 @@ local UILibrary = {
 		Keyframe = Keyframe,
 		LoadingIndicator = LoadingIndicator,
 		ModelPreview = ModelPreview,
+		PreviewController = PreviewController,
 		RoundFrame = RoundFrame,
 		RoundTextBox = RoundTextBox,
 		RoundTextButton = RoundTextButton,
@@ -69,6 +72,7 @@ local UILibrary = {
 		Tooltip = Tooltip,
 		ToggleButton = ToggleButton,
 		TreeView = TreeView,
+		TreeViewButton = TreeViewButton,
 	},
 
 	Studio = {

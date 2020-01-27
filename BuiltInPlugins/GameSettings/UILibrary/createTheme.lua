@@ -294,6 +294,46 @@ return function(style, overrides)
 			iconSize = 16,
 			defaultTextLabelHeight = 20,
 		},
+
+		treeViewButton = {
+			buttonSize = 28,
+			backgroundTrans = 0.25,
+			backgroundColor = style.background,
+			backgroundDisabledColor = style.disabledColor,
+			hierarchy = "rbxasset://textures/StudioToolbox/AssetPreview/hierarchy.png"
+		},
+	}
+
+	local instanceTreeView = {
+		font = style.font,
+		textSize = 14,
+
+		background = style.background,
+
+		treeItemHeight = 16,
+		treeViewIndent = 20,
+
+		scrollbarPadding = 2,
+		scrollbarThickness = 8,
+
+		scrollbarTopImage = "rbxasset://textures/StudioToolbox/ScrollBarTop.png",
+		scrollbarMiddleImage = "rbxasset://textures/StudioToolbox/ScrollBarMiddle.png",
+		scrollBarBottomImage = "rbxasset://textures/StudioToolbox/ScrollBarBottom.png",
+
+		arrowExpanded = "rbxasset://textures/StudioToolbox/ArrowExpanded.png",
+		arrowCollapsed = "rbxasset://textures/StudioToolbox/ArrowCollapsed.png",
+
+		elementPadding = 4,
+
+		borderPadding = 15,
+
+		tooltipShowDelay = 0.3,
+
+		arrowColor = style.textColor,
+		selectedText = style.selectedTextColor,
+		textColor = style.textColor,
+		selected = style.selectedTextColor,
+		hover = style.hoverColor,
 	}
 
 	return replaceDefaults({
@@ -320,5 +360,6 @@ return function(style, overrides)
 		radioButton = radioButton,
 		treeView = treeView,
 		hyperlink = hyperlink,
+		instanceTreeView = instanceTreeView,
 	}, overrides)
 end
