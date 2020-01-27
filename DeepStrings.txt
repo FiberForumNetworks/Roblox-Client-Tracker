@@ -4065,7 +4065,6 @@ BrowserWindowWillNavigate
 BrushStyle
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
 BU_Simplex1to4
-Bu7tZkSSEi
 BubbleChat
 BubbleChatEnabled
 BubbleChatLifetime
@@ -4164,7 +4163,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.418.0.377354
+ByVersion_0.418.0.377384
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -4479,6 +4478,7 @@ CFF056DD11E2898E9FB8E4A9E79B
 CFF156DD11E2898E9FB8E4A9E79B
 CFF456DD11E2898E9FB8E4A9E79B
 CFF556DD11E2898E9FB8E4A9E79B
+CFqMy4QgKSNxGnimLiQtdJpR4ri6LAmluBt2qWTaw
 CFrame.new
 CFrameDecal
 CFrameOnly
@@ -6370,7 +6370,6 @@ CustomSort
 CustomStatusAdded
 CustomStatusRemoved
 CustomToolButton
-CVwiJbQ6XQEyycHa
 CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
@@ -6533,7 +6532,6 @@ DB33D6AAF011E38B9D871882A8E559
 DB33D7AAF011E38B9D871882A8E559
 DBD856014A660
 DBSAES_ASM
-Dbwd8ulNqq8CAwEAAQ
 Dconst_iterator
 DD11E2898E9FB8E4A9E79B
 DD4669DB402E11E3A29DA4266180AE0C
@@ -8111,6 +8109,7 @@ Environment
 EnvironmentDiffuseScale
 EnvironmentSpecularScale
 EnviroSpeed
+Eo8XkXIyhxauOBbq
 EoOoZoaozo
 EphemeralCounter
 EqualizerSoundEffect
@@ -9076,7 +9075,6 @@ FXCompositingFS
 FXCompositingLinearFS
 FXComposition
 FxI9Fpu5E2
-GA2Tlx4KXkE1PipGQIS3TX632k
 GainMakeup
 GameAbsenceInWeb.
 GameAction
@@ -10230,7 +10228,6 @@ HA_A^A]A\_^[]
 HA_A^A]A\_^[]H
 HA_A^A]A\_^]
 HA_A^A]A\_^][
-Ha5HqPjVHUTPUrueUZcscm
 HACK_DO_NOT_START_STARTER_SCRIPT
 HAEBVQPalette
 HAEBVQPixmap
@@ -11474,6 +11471,7 @@ JW4HttpRequestResult
 JW4InfoType
 JW4TextFilterContext
 JW4ThumbnailType
+JZmbDpHhytdSd
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -11529,7 +11527,6 @@ KeywordFilterType
 KfaO3j5BbG6ijHHxFy22YNNJwxKTT
 KfE9k0uDfE9k
 KFKPKXK`KhK
-KfQVZgTcitqzq9rHLPfYNPg0gTXaGC5
 KGraph_Build_Graph
 KickByDatacenter_
 KiDszBCYB0gyp03Pc
@@ -11540,7 +11537,6 @@ KodchiangUPC
 KPEIBX_K_KPEIAU_iobuf
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
-KZjOqGjOzyT8KFB13IrDxKIWYCojfADZUPI1YrSZVf56hlcU4ZoxUal7z
 LabelArray
 LabelArray.push
 LabelArray[globstart]
@@ -11598,6 +11594,7 @@ LayoutNode
 LayoutOrder
 LazySubmitTask
 LC_MESSAGES
+LCav6bMUXer37leFRtV3wtVJiQy
 LCMapStringW
 LDLAkisMethodEnabled
 LDLBuildProgramTimeReportEnabled
@@ -11861,7 +11858,6 @@ LiveScript
 LiveThreadRef
 LivingRoom
 LLEo6Soxvx2
-LLlfgGvWUgGZ
 LOAD_CERT_CTRL
 LoadAnimation
 LoadAssetVersion
@@ -12722,7 +12718,6 @@ MergePolyMeshes
 MergeResolutionDialog
 MergeResolutionDialogVLayout
 MergeValidationCachesEXT
-MEsAtNrFLkSmMq7IcAY
 MeshAssetFromFileSelector
 MeshCacheSize
 MeshContentProvider
@@ -12828,7 +12823,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAwHWdWU2EsE
+MIICCgKCAgEA2Rw19nASt1dXpw8ifXD
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
 MinDelta[nLog]
@@ -12868,7 +12863,6 @@ MissingDumpFile
 MMW4IkDragCollisionsMode
 MMW4PartMaterial
 MMW4UserInputState
-MNnbIymxphIU3CKFI7gYxxGR7Evl
 MobileDevelopmentDeployer
 MockGestureGenerator
 MockLongPressGestureGenerator
@@ -12938,7 +12932,6 @@ MorePageType
 MoreSimplified
 MoreWeldRestrictions
 MorphToR15
-MOSR7qlEEpTnB
 MossyStone
 MostLeftNode
 MotionDiscontinuityThreshold
@@ -13356,6 +13349,7 @@ NextTabPage
 NfXf`fhfzf
 NHVVariant
 NinjaMask.mesh
+Nkfhr7ThdBxx2mSZ2lMghLFsX1G27ml8vPEcqWzpY5mRHbtAxbuj8ikYLTuD
 NNW4SizeMode
 NoCacheForLocalContent
 NoCollisionConstraint
@@ -13497,7 +13491,6 @@ NVWorkspace
 NW4FileSystemDir
 NW4PenStyle
 NW4UserInputType
-NxXMDAvZXnlLbvf2C7yBb3X2gnyAJE
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
@@ -15087,6 +15080,7 @@ PKCS8PrivateKey_bio
 PKCS8PrivateKey_fp
 PKEY_CRYPTO
 PKEY_USAGE_PERIOD
+PkgVDUrfvQOrQTrkC1K7y
 PKIMessage
 PKIResponse
 Place_Prims_PercDynamicAssemblies
@@ -15739,6 +15733,7 @@ QAbstractTableModel
 QActionEvent
 QActionGroup
 QActionTriggered
+QAd54SU35ybgvID2nT
 QAnimationGroup
 QApplication
 QArrayData
@@ -17756,6 +17751,7 @@ RtlCaptureContext
 RtlLookupFunctionEntry
 RtlVirtualUnwind
 RTMemoryless
+RTXRmKUwHlgfq9SkvkS69LlwJta0VMr9tjnCXpgFnPMDJyi0JjcKTp
 RuiCheckBoxHeader
 RuiDialogButtonHLayout
 RuiDialogButtonWatcher
@@ -17787,6 +17783,7 @@ RunService.Stepped
 RuntimeScriptService
 RuntimeUndoBehavior
 RunUpdateCycle.
+Ruw8TpxOASKCoSw6NAGhv3CuChJGtaPYwxVT6MUM
 RVideoInternal
 RVideoMemLogging
 RVideoTrace
@@ -18743,7 +18740,6 @@ Sky.SkyboxUp
 SkyFSLinear
 SkylightRGBA
 SleepConditionVariableCS
-SlHmSvdLk37utrzxUDIM0M
 SliceCenter
 SliceScale
 SliderChanged
@@ -21314,7 +21310,6 @@ SWITCH3.wav
 SwitchFromRunningNoPhysToRunningThresholdInHundredths
 SwitchToFiber
 SwitchWindow
-SwnF6oCFCmmDO453DYYU0X3Sbv7at62muvPDded
 Sword128.png
 SwordTexture.png
 SXNET_add_id_asc
@@ -21933,6 +21928,7 @@ TitleBarProgress
 TitlebarText
 TitleBarVisible
 TJNLerU][Wr
+TKkEU5gjpJVYvVING1yVN0z
 TLS_AES_128_CCM_8_SHA256
 TLS_AES_128_CCM_SHA256
 TLS_AES_128_GCM_SHA256
@@ -22105,7 +22101,6 @@ TLS_SRP_SHA_WITH_AES_128_CBC_SHA
 TLS_SRP_SHA_WITH_AES_256_CBC_SHA
 TlsGetValue
 TlsSetValue
-TLunJUEkh68
 TMxQPxAA13
 ToArtistIntentAssetMigratorEnabled
 ToastNotification
@@ -22528,6 +22523,7 @@ UBatchThumbnailResult
 UBlockAdditions
 UBlockGroup
 UBlockMore
+UBm5cNXegPczzecTKhBBAGdioshiDijT52F3Em7FlV7dVgSGjhx7tkH7SEJUpr
 UBulkImporterJob
 UBulkIngestionInfo
 UCachedBitstream
@@ -22706,6 +22702,7 @@ UInt8Vector
 UIntVector
 UINumTicks
 UIPageLayout
+Uiq61CTWiNENcI0hXqtHvUchXV
 UIQuadTree
 UIQuadTreeCellAreaMin
 Uis_continuation_if_running
@@ -22727,7 +22724,6 @@ UMasteringMetadata
 UMeshResource
 UMessageAndSenderId
 UMouseDownCaptureInfo
-UMWlRlZOE6SFyeTJL4zYKvoHh02HyQmUotALq9jLhrqKOVSuNsSWbfhKMIEDr
 Unaccounted
 UnAnchorCursor
 UNASSIGNED_SYSTEM_ADDRESS
@@ -22986,7 +22982,6 @@ UProjection
 Uproxy_data
 UpSampleTentFS
 UQByteArrayDataPtr
-UQcK3tK9dFLrjEcwFGpvce
 UQLatin1Char
 UQMetaObject
 UQPrivateSignal
@@ -22998,7 +22993,6 @@ UrlFormattingOption
 UrlHandlerClicked
 URLRequest
 URobloxApiGame
-UrUhCozZ6hAIvtWwdXiYrGfWccwEf4G
 UsageFeatures
 USATAUAVAW
 USATAUAVAWH
@@ -24643,6 +24637,7 @@ XboxSaleAvatarPackageIds
 XboxUseCuratedGameSort2
 XboxUseNewBundleEndpoints
 XboxUseNewValidUsernameCheck2
+XDTxdDjXbM1ZNMl
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
@@ -24651,6 +24646,7 @@ XInputGetCapabilities
 XInputGetState
 XInputSetState
 Xinvalid_argument
+XKKAZcOFQHrS50gZPdJ5mw0SBrVaKbFgypBOJRtO
 Xlength_error
 Xout_of_range
 XP6AXAEBUTextFilterResult
@@ -24679,6 +24675,7 @@ XQColorDialog
 Xregex_error
 XResolution
 Xtime_get_ticks
+XUcqObzNhDxDoSUAfYU
 XUnegotiation_response
 XvAAuY44YuAAvX4
 XVAddImageDialog
@@ -24812,14 +24809,13 @@ YAXPEBVQObject
 YAXW4error_type
 Ycircumflex
 Ydieresissmall
-YEap7kQdKPgtCXpvscVtHTHtQ
 YffYZefYDNNDCOO
 YieldEvent
 YieldFuncDesc
 YieldFunction
 YQByteArray
+YqUW8aNZixRWnIy6TQVNthE1t4Y5evFQ05Nca2xIuHZ72ZR32xcPzsf8BUNzfBfw
 YResolution
-YRl1OcIITMz7hoYbOlHxr6KCsG8eC3C4
 YwBBvY55YvBBwY5
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
