@@ -1094,7 +1094,6 @@ AutoJoinPropertyChanged
 AutoJumpEnabled
 AutolocalizationEnabled
 AutoLocalize
-AutoLocEndpointMethodSwitchRetryCount
 AutomaticFingers
 AutomaticRetry
 AutomaticScalingEnabled
@@ -4147,7 +4146,6 @@ BuyDeveloperProduct
 BuyDeveloperProduct_AutoAccepted
 BvBvBvBvBvBvBvBv
 BVCoordinateFrame
-BvMcQK0bF94ZqrV1YzDPEcfcwY
 BVQVariant
 BVRegion3int16
 BVSystemAddress
@@ -4165,7 +4163,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.418.0.377864
+ByVersion_0.418.0.377896
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -4974,15 +4972,9 @@ CloudEditTimeoutTimeMs
 CloudEditWaitTimeMs
 CloudLocalization_HangingRequestDetected
 CloudTablesAccountAgeMinimum
-CloudTablesEnforceAccountAge
-CloudTablesPhase2_AddCloudTableToListOnCreate
-CloudTablesPhase2_CreateTableEarly
-CloudTablesPhase2_IgnoreEmptyManifestReport
 CloudTablesPhase2_MissingSourceTextScraperFix
 CloudTablesPhase2_TrackAndTimeoutHangingThreads
 CloudTablesPhase2_TrackHangingThreadsTimeout
-CloudTablesPhase2_TrackLocaleFetchCallsites
-CloudTablesPhase2_WaitForSourceFix
 CLSID_ACMWrapper
 CLSID_ActiveMovieCategories
 CLSID_AllocPresenter
@@ -7129,7 +7121,6 @@ DH_meth_set1_name
 DH_new_by_nid
 DH_new_method
 DHBasedMac
-DHIcZxvErEJYUGe2dfIspQD1tdMtj5Z
 DHParameters
 DHparams_print_fp
 DhufyEeFO7U33Tv7vk
@@ -7316,8 +7307,8 @@ DKECCAK1600_ASM
 DlcVersion
 DListenerAttributes
 DMinMaxDistance
+DN43y5tIDxxRUfNTckUoPIM09y5RILF
 DnsResolve
-Do6HeJGSYOm8AxqMFTKzoK2CNx
 DocChanged
 DocDockManager
 DocDockWidget
@@ -7547,9 +7538,7 @@ DXUnregisterObjectNV
 DXVideoMemory
 DynamicFastVariableReloaderTimeoutMs
 DynamicFastVariableSupportFileSource
-DynamicLocalizationTablesAssetTimeout
 DynamicLocalizationTablesDataTimeout
-DynamicLocalizationTablesNonBlocking2
 DynamicLocalizationTablesRetryCount
 DynamicParts
 DynamicReloaderDoWork
@@ -8490,7 +8479,6 @@ FeatureEnabled
 FeatureHitRatio
 FeaturesAction
 FeaturesWindow
-FEFMOpdDXml5HxfSGNwJeXShICk6Wz4EOQu0LlSPxSC9SJa1JXUr5yvAjNgZB13y
 FetchAndLoadSettingsFromCdn
 FetchCachedKeys
 FetchComplete
@@ -9076,6 +9064,7 @@ FXCompositingFS
 FXCompositingLinearFS
 FXComposition
 FxI9Fpu5E2
+Fz5QaAVqVczZPwe1nFLX8VQONxr9j788
 GainMakeup
 GameAbsenceInWeb.
 GameAction
@@ -9125,7 +9114,6 @@ GameImagePlaceHolder60
 GameImagePlaceHolder80
 GameInfoList
 GameinternationalizationApiWhitelist
-GameIntlApiThrottleHundredthPct
 GameInvitePromptClosed
 GameJoinApiResponse
 GameJoinFailure
@@ -9327,7 +9315,6 @@ GetAudioDeviceInWaveId
 GetAudioDeviceOutGuid
 GetAudioDeviceOutGuidStr
 GetAudioDeviceOutWaveId
-GetAutoTranslationEntriesEnabled2
 GetAvailableThemes
 GetAwardablePoints
 GetAxisSystem
@@ -9860,9 +9847,7 @@ GetTrackingState
 GetTrackingStateWithSensorData
 GetTransformFeedbackVarying
 GetTranslator
-GetTranslatorAsyncArtificialDelayMs
 GetTranslatorForLocaleAsync
-GetTranslatorForLocaleAsyncEnabled2
 GetTranslatorForPlayer
 GetTranslatorForPlayerAsync
 GetTriangles
@@ -9967,7 +9952,6 @@ GFp_simple_points_make_affine
 GFp_simple_set_compressed_coordinates
 GfxClusters
 GfxClustersFull
-GGp2PwXGMj
 GIM_ShapeRetriever
 GImpactCollisionAlgorithm
 GImpactCompound
@@ -10355,7 +10339,6 @@ HHVQRegularExpression
 HHW4AspectRatioMode
 HHW4Format
 HHW4Policy
-HicXkvCWEkpEdFXv
 HiddenOgreWidget
 HIDE_TAB_BAR
 HideFromPlayer
@@ -10415,7 +10398,6 @@ HKEY_PERFORMANCE_DATA
 HKEY_PERFORMANCE_NLSTEXT
 HKEY_PERFORMANCE_TEXT
 HMACGostR3411
-HMvDwUjTHfKLnLi9AQAvgNyExjoBvSHtwYaTEIC87xBVfBLOUDYMS476I7Y6CaUw
 HomeClicked
 HomePageLoaded
 HopperPanel.png
@@ -10466,7 +10448,6 @@ HPEAVQAction
 HPEBDHW4CaseSensitivity
 HPEBDPEBDV
 HPEBVQMimeData
-HpK55wohkG6e567IfWxJ2VFwuK
 HQEAPEAVQGraphicsItem
 HQFSShadowed
 HQVSShadowed
@@ -10695,7 +10676,6 @@ HWYGOTH.ttf
 HybridEvent
 Iacutesmall
 IAutocompleter
-IBh8xM6k35N
 IBusyStateModel
 ICCProfile
 ICharacterSubject
@@ -10762,6 +10742,7 @@ IEBAXPEAVQStyleOptionComboBox
 IEBAXPEAVQStyleOptionSlider
 Ierusalimschy
 IEventTarget
+IEZgS5apJbVVdECAwEAAQ
 IFindListener
 IfLastDocInLastAppInstance
 IfPurchased
@@ -10774,6 +10755,7 @@ IgnoreModalGuiWhenScreenGuiIsDisabled
 IgnoreSSLErros
 IGPDepSwap
 Igravesmall
+IgXrjMH9YeiW7qALqvfI5q4
 IIAEBVInstanceIdentifier
 IID_IAMDirectSound
 IID_IAMLine21Decoder
@@ -11476,7 +11458,6 @@ JW4HttpRequestResult
 JW4InfoType
 JW4TextFilterContext
 JW4ThumbnailType
-JyJBnhMPWluEnmchz
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -11861,7 +11842,6 @@ LiveCoding
 LiveScript
 LiveThreadRef
 LivingRoom
-LJnMdatpxx
 LLEo6Soxvx2
 LOAD_CERT_CTRL
 LoadAnimation
@@ -11946,7 +11926,6 @@ LocalizationAnalyticsSamplesPerMillion
 LocalizationDataLoadingException
 LocalizationResponseHandler
 LocalizationService
-LocalizationService.GetTranslatorForLocaleAsync
 LocalizationServiceAsyncLoadingError
 LocalizationServiceAsyncLoadingHttpError_Manifest
 LocalizationServiceAsyncLoadingHttpError_WebData
@@ -12011,13 +11990,10 @@ LockVideoCaptureDeviceNV
 LockViolationInstanceCrash
 LockViolationInstanceCrashStudio
 LockViolationScriptCrash
-LocService_InvalidateTranslationsOnChildAdded
-LocServiceNullPtrCheckGetTranslator
 LocServicePerformanceAnalyticsEnabled
 LocServicePerformanceAnalyticsHundredthsPercentage
 LocServicePerformancePercentileAggregatorSize
 LocServiceSeparateTextScraperStartPath
-LocServiceTrackPlayerTextScraping1
 LocTableNormalizeLocaleAttemptTranslation
 Lod.GlobalArray[nLog]
 Lod.LogStart[LocalFirstFrame][nLog]
@@ -12090,7 +12066,6 @@ LowQMaterialWangFS
 LowResolution
 Lslashsmall
 LSRemoveFilePathUsingRegEx
-LU5ummX63NFa9dgLB
 LUA_UNAUTHORIZED_LOG_OUT
 LuaAnalyticsReleasePeriod
 LuaAppABTestGameDetailsPeekView
@@ -12827,7 +12802,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAyJU8GwIsybBfMbfLwW2OszTkKE5jSlCPH0BZmSeXz3tcXgLjtZw4
+MIICCgKCAgEAn5d7J8DmnoKDwHdKapLeYLL1dCPTis91bTRMk0pkWe
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
 MinDelta[nLog]
@@ -13618,6 +13593,7 @@ OgreWidgetShowEvent
 Oh44\h44\Q
 OHdFtjN\rvv
 Ohungarumlaut
+OHYDb7ZQLPLtpWCQP
 OiCCPPhotoshop
 OKButtonClicked
 OldActiveElement
@@ -13684,6 +13660,7 @@ OnTeleport
 OnTeleportInternal
 OnTopOfCoreBlur
 OnUnhandledScriptErrorsAction
+OocOVdJpJ2zjxLs3P02fV9K72ABJRsWCKdfBpKMWXFC
 OpacityMask
 OpaqueUseMaterialAndDistanceSort
 OPEN_BUILDERS_CLUB
@@ -13889,7 +13866,6 @@ OverrideStarterScript
 OverrideToMyBranch
 OverwriteMode
 OwnProperty
-OwPi8IbhgTtod9joCL0ZVJEKFchZQEN422yDCG5Qy43sF6RZIjMf2sCAwEAAQ
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^]
 PA^A]A\_^][
@@ -14108,6 +14084,7 @@ PatternOptions
 PatternSyntax
 PauseSound
 PBKDF2PARAM
+PBlBF0X29LuhG5
 PCDesktopClient
 PCertReqData
 PCertResTBS
@@ -15287,7 +15264,6 @@ PlaySoloVerb
 PlayStockSound
 PLC_PITCH_LAG_MAX
 PLC_PITCH_LAG_MIN
-PLTIGetLocaleFallback
 Plugin.rbxm
 PluginAccessAndInstallationInStudio
 PluginAction
@@ -15742,6 +15718,7 @@ QActionEvent
 QActionGroup
 QActionTriggered
 QAnimationGroup
+QANVAu9cNSpihqVRZ5dFcG
 QApplication
 QArrayData
 QAssociativeIterable
@@ -17426,7 +17403,6 @@ ResumeFunctionWithSuccess
 ResumeSound
 ResumeThread
 RetinaBlit
-RetranslateOnTextScraperStart
 RetryAfter
 RetryBaseTimeMSec
 RetryCountOnPlaceLauncherTimeout
@@ -17764,6 +17740,7 @@ RtlCaptureContext
 RtlLookupFunctionEntry
 RtlVirtualUnwind
 RTMemoryless
+RucQ3xByOlRSxDdGHB4CrcP8f4jcRAEp7etGDiK3eCW
 RuiCheckBoxHeader
 RuiDialogButtonHLayout
 RuiDialogButtonWatcher
@@ -17799,7 +17776,6 @@ RVideoInternal
 RVideoMemLogging
 RVideoTrace
 RxRlReport
-RxWkH0rZcoYZm8HpsK6MzvoVdkSHmTu3
 S_Key_dn.png
 SA_KPEAPEBVfacet
 SA_NAEBVConnection
@@ -21318,6 +21294,7 @@ SUWATAUAWH
 SUWATAVAWH
 SUWAUAVAWH
 SVATAUAVAWH
+SvPQDo39gql4uD6CyVy1kBHACnk38999lu9QAzNybMhQIUsyQ
 SVWATAUAVAW
 SVWATAUAVAWH
 SVWATAUAVAWUH
@@ -21672,13 +21649,11 @@ TextScraper
 TextScraperClientDataMSecs
 TextScraperClientDataNBytes
 TextScraperClientDataQSize
-TextScraperClientMessageSignal
 TextScraperClientMessageWithPlayerSignal
 TextScraperClientTypewriterDelayMSecs
 TextScraperEnableCaptureDateTime
 TextScraperListener
 TextScraperReportGameInstanceId
-TextScraperReportSessionIdFix
 TextScraperReportUserIdSize
 TextScraperServerDataMSecs
 TextScraperServerDataNBytes
@@ -22685,6 +22660,7 @@ UI_new_method
 UI_process
 UI_set_result
 UI_set_result_ex
+Ui2RaAVCgLLJX3GEHGy8tVDkkRORqM59mBSoVgPFmFt4xK
 UIAspectRatioConstraint
 UIAxWinAmbientDispatchEx
 UIComponent
@@ -23223,7 +23199,6 @@ UWATAUAVAWH
 Uweb_response
 UWhiteList
 UWindowInputState
-Uz4VPHVUA39QKglS
 V_http_request
 V_http_response
 VABTestService
@@ -23811,6 +23786,7 @@ VisualStyle
 VisualTrussStyle
 VJointInstance
 VJointsService
+Vjq5ttnX6IYaOMpVI
 VK_EXT_debug_report
 VK_KHR_surface
 VK_KHR_swapchain
@@ -24348,7 +24324,6 @@ WaterViscosityDragFudgeFactor
 WaterWaveSize
 WaterWaveSpeed
 WaypointIdx
-WAzJ0MobkP
 WCharArray
 Wcircumflex
 WDU_Mbstatet
@@ -24363,8 +24338,6 @@ WebKitAuthentication
 WebkitAuthenticationDone
 WebkitDeveloperToolsEnabled
 WebKitFromHttp
-WebLocalizationAssetTimeoutSec
-WebLocMarkLocTableListDirtyOnServer
 WebPageStyleSheet
 WebParserAddIsNumberCatchall
 WebParserInfluxWriteNanInfPerMyriad
@@ -24608,6 +24581,7 @@ WorldToScreenPoint
 WorldToViewportPoint
 WP1Lk7UmX3No0NAVVrlNv8vM1TKYodC60fXpXkwOnxGMHelMkfu58xsxIB9tXB4U
 WPACKET_start_sub_packet_len__
+WqYiYVNs1S1APh66T9PAI2YNHLQxHchzPOR3RKnbVVkXsqNpgZdU2ORX95rGAAf
 WristDisplacementDamping
 WristDisplacementDampingMode
 WriteArray
@@ -24668,7 +24642,6 @@ XboxSaleAvatarPackageIds
 XboxUseCuratedGameSort2
 XboxUseNewBundleEndpoints
 XboxUseNewValidUsernameCheck2
-XeJx6G32CQfVldngiw
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
@@ -24701,6 +24674,7 @@ XP6AXW4HttpRequestResult
 XP6AXXZVlist0
 XPEAVInstance
 XPEAVQNetworkReply
+XpVQ66yGcv9S
 XQColorDialog
 Xregex_error
 XResolution
@@ -24744,6 +24718,7 @@ XVMemberDescriptorContainerBase
 XVMockMarketplaceApiClient
 XVNavigationDebugDraw
 XVNavigationPath
+XVNimiGWHSU6KrF
 XVPackageService
 XVPartOperation
 XVPlaceSessionPluginWidgetsView
@@ -24843,7 +24818,6 @@ YieldEvent
 YieldFuncDesc
 YieldFunction
 YQByteArray
-YqW3QlkUybqhiWhhGFIgQZU57MMx1bHzYnWezLSI113Xl78VnrjN8KWjjsdrhiwo
 YResolution
 YwBBvY55YvBBwY5
 Z_KPEIBX_K_KPEIAU1
@@ -24862,5 +24836,6 @@ ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVRBXMessageBox
 ZRZZZbZt[.[
+ZTm4lQmzcGVXnin1tUaf3w2oNntfk9cn4ZBkvYZK1UcYacm0e9JcjhqX7yv2C
 ZVspecial_equipped_signal
 ZVTouchedSignal
