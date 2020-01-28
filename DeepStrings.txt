@@ -223,7 +223,6 @@ AdditionalCheckC1_2
 AdditionalCoreIncludeDirs
 AdditionalLuaState
 AdditionalStreamJobLabelsAndLogging
-AdditionalTextBoxShortcuts
 AddKeyframe
 AddMaterial
 AddMinStreamRadiusToReplicatorStats
@@ -628,7 +627,6 @@ AnkleStabilizationRecoveryTime
 AnkleStabilizationRecoveryTimeMode
 AnkleStabilizationTime
 AnkleStabilizationTimeMode
-ANqbh1oZYze1mpIHUPqpFM21G2FLnKTIaJcAAq
 AnthroArtistIntentFBXImporterIntermediateState
 AnthroPercentInHundredths
 AnthroStandardPartIds
@@ -3957,8 +3955,6 @@ BorderColor
 BorderColor3
 BorderMode
 BorderSizePixel
-BOrh1LrwITH2s7OrrzeQBy2Isu0wX
-BotQE8oEFc5mPhHEar941f2
 BottomBarSize
 BottomImage
 BottomLeft
@@ -4038,7 +4034,6 @@ BrickColorValue
 BridgeStyleSupports
 Brightness
 BrightText
-BrilliantBorders
 BroadcastNotification
 Broadphase
 BroadPhaseIslandAlwaysSimulateDepth
@@ -4152,6 +4147,7 @@ BuyDeveloperProduct
 BuyDeveloperProduct_AutoAccepted
 BvBvBvBvBvBvBvBv
 BVCoordinateFrame
+BvMcQK0bF94ZqrV1YzDPEcfcwY
 BVQVariant
 BVRegion3int16
 BVSystemAddress
@@ -4169,7 +4165,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.418.0.377842
+ByVersion_0.418.0.377864
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -6402,7 +6398,6 @@ CylinderMesh
 CylinderShapeData
 CylindricalConstraint
 CylindricalConstraintAction
-Cz83F3Znkvii2NZLXqQcY6fStBqnfO3fbYoxWH8NniHPuwtTSL
 D_Key_dn.png
 DA88D6583A11E29A3DBD856014A660
 DA88D7583A11E29A3DBD856014A660
@@ -7134,6 +7129,7 @@ DH_meth_set1_name
 DH_new_by_nid
 DH_new_method
 DHBasedMac
+DHIcZxvErEJYUGe2dfIspQD1tdMtj5Z
 DHParameters
 DHparams_print_fp
 DhufyEeFO7U33Tv7vk
@@ -7321,6 +7317,7 @@ DlcVersion
 DListenerAttributes
 DMinMaxDistance
 DnsResolve
+Do6HeJGSYOm8AxqMFTKzoK2CNx
 DocChanged
 DocDockManager
 DocDockWidget
@@ -7597,8 +7594,6 @@ EARLY_EXPORTER_SECRET
 Easing.InOutQuad
 EasingCurve
 EasingDirection
-EasingExpansion
-EasingRefactor
 EasingStyle
 EB0BF11E395B6E5DB6211F344
 EB1C70A811E28987EB530EBA4742
@@ -7927,7 +7922,6 @@ EnableDataModelFetchAssetAsync
 EnableDateTimeType
 EnabledBetaFeaturesAsCommaSepString
 EnableDebugging
-EnableDisablingNetworkPause
 EnableDiscussionsApiService
 EnabledSignal
 EnableExtendedDomains
@@ -8496,6 +8490,7 @@ FeatureEnabled
 FeatureHitRatio
 FeaturesAction
 FeaturesWindow
+FEFMOpdDXml5HxfSGNwJeXShICk6Wz4EOQu0LlSPxSC9SJa1JXUr5yvAjNgZB13y
 FetchAndLoadSettingsFromCdn
 FetchCachedKeys
 FetchComplete
@@ -8682,7 +8677,6 @@ FitWithinMaxSize
 FixAdornRenderNullCrash
 FixBallRaycasts
 FixBoundSocket
-FixBrilliantBordersBorderSize
 FixCharacterAppearanceLoadedEvent2
 FixCharacterAppearanceLoadedEvent3
 FixCharacterJitterDownStairs
@@ -9973,6 +9967,7 @@ GFp_simple_points_make_affine
 GFp_simple_set_compressed_coordinates
 GfxClusters
 GfxClustersFull
+GGp2PwXGMj
 GIM_ShapeRetriever
 GImpactCollisionAlgorithm
 GImpactCompound
@@ -9980,7 +9975,6 @@ GImpactCompoundShape
 GL_ARB_texture_storage
 GL_EXT_texture_compression_s3tc
 GlassTintFS
-Glk7SnIeudjb0SIyxPE9pYoLgq8q2
 GlobalAdvancedSettings
 GlobalAdvancedSettingsItem
 GlobalAlloc
@@ -10361,6 +10355,7 @@ HHVQRegularExpression
 HHW4AspectRatioMode
 HHW4Format
 HHW4Policy
+HicXkvCWEkpEdFXv
 HiddenOgreWidget
 HIDE_TAB_BAR
 HideFromPlayer
@@ -10420,9 +10415,9 @@ HKEY_PERFORMANCE_DATA
 HKEY_PERFORMANCE_NLSTEXT
 HKEY_PERFORMANCE_TEXT
 HMACGostR3411
+HMvDwUjTHfKLnLi9AQAvgNyExjoBvSHtwYaTEIC87xBVfBLOUDYMS476I7Y6CaUw
 HomeClicked
 HomePageLoaded
-HOpF39sxeIHvjzr7rYRACXq
 HopperPanel.png
 Horizontal
 HorizontalAlignment
@@ -10471,6 +10466,7 @@ HPEAVQAction
 HPEBDHW4CaseSensitivity
 HPEBDPEBDV
 HPEBVQMimeData
+HpK55wohkG6e567IfWxJ2VFwuK
 HQEAPEAVQGraphicsItem
 HQFSShadowed
 HQVSShadowed
@@ -10699,6 +10695,7 @@ HWYGOTH.ttf
 HybridEvent
 Iacutesmall
 IAutocompleter
+IBh8xM6k35N
 IBusyStateModel
 ICCProfile
 ICharacterSubject
@@ -11205,7 +11202,6 @@ InverseSquareLaw
 InverseTapered
 InvertColor
 InvertColorIndex
-InvisibilityCloaksCannotBeSelected
 InvitationId
 Invocation
 InvocationMeter
@@ -11366,7 +11362,6 @@ ItemViewItem
 ItemWasSet
 ItemWidget
 Iterations
-ITpwWP4Gj6rPBuhlpyB8HYQmqxaDdRql
 ITRedirect
 IUserDataStoreServiceBase
 IVRApplications_006
@@ -11385,7 +11380,6 @@ IVRSystem_017
 IVRTrackedCamera_003
 IWorldStage
 IXMLHTTPRequest2
-IzZlVRqyoksUZtfuOIscQE8fuzUYYcNxlhMc5
 J_Key_dn.png
 J_NW4CurrencyType
 JasmineUPC
@@ -11482,6 +11476,7 @@ JW4HttpRequestResult
 JW4InfoType
 JW4TextFilterContext
 JW4ThumbnailType
+JyJBnhMPWluEnmchz
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -11542,7 +11537,6 @@ KickByDatacenter_
 KiDszBCYB0gyp03Pc
 KillPtClicked
 KillSurfaceJointsPart1
-KmgqGwZb1C3KNV
 KnownHeaders
 KodchiangUPC
 KPEIBX_K_KPEIAU_iobuf
@@ -11867,6 +11861,7 @@ LiveCoding
 LiveScript
 LiveThreadRef
 LivingRoom
+LJnMdatpxx
 LLEo6Soxvx2
 LOAD_CERT_CTRL
 LoadAnimation
@@ -12095,6 +12090,7 @@ LowQMaterialWangFS
 LowResolution
 Lslashsmall
 LSRemoveFilePathUsingRegEx
+LU5ummX63NFa9dgLB
 LUA_UNAUTHORIZED_LOG_OUT
 LuaAnalyticsReleasePeriod
 LuaAppABTestGameDetailsPeekView
@@ -12234,7 +12230,6 @@ MakeContextCurrentEXT
 MakeCounter
 MakeCurrent
 MakeJoints
-MakeLayoutOrderTheDefault
 MakeTimesExtra
 Malformatted
 ManageEmulationDevDialog
@@ -12832,7 +12827,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAqqe
+MIICCgKCAgEAyJU8GwIsybBfMbfLwW2OszTkKE5jSlCPH0BZmSeXz3tcXgLjtZw4
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
 MinDelta[nLog]
@@ -13144,7 +13139,6 @@ MusicalInstruments
 MutexLifetime
 MW4PartMaterial
 MyModelsAction
-MZ5zOLSncsObFtDVtOkOudvqja0eY6f34NEpsfPs
 N_NW4StudioGameStateType
 NAEAVHttpResponse
 NAEBUPlaceLauncherRequestInfo
@@ -13450,7 +13444,6 @@ NPCUnequipTools
 NPEAVInstance
 NPEAVQString
 NPEAVQWidget
-NPIgXsOrWmE1zlmePLd
 Ntildesmall
 NullPassword
 NUMBER_OF_ORDERED_STREAMS
@@ -13626,7 +13619,6 @@ Oh44\h44\Q
 OHdFtjN\rvv
 Ohungarumlaut
 OiCCPPhotoshop
-OjtdPsc5w2bmLvr1ERdZXRlnF3
 OKButtonClicked
 OldActiveElement
 OldMessagesFetched
@@ -13897,6 +13889,7 @@ OverrideStarterScript
 OverrideToMyBranch
 OverwriteMode
 OwnProperty
+OwPi8IbhgTtod9joCL0ZVJEKFchZQEN422yDCG5Qy43sF6RZIjMf2sCAwEAAQ
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^]
 PA^A]A\_^][
@@ -17569,7 +17562,6 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
-RmIIflKKtYJ6G9Y7sn
 Roact.createElement
 RoactPurchasePromptAllowBundles
 ROBLOSECURITY
@@ -17807,6 +17799,7 @@ RVideoInternal
 RVideoMemLogging
 RVideoTrace
 RxRlReport
+RxWkH0rZcoYZm8HpsK6MzvoVdkSHmTu3
 S_Key_dn.png
 SA_KPEAPEBVfacet
 SA_NAEBVConnection
@@ -18803,7 +18796,6 @@ SlowDnsExternalRequestThresholdMs
 SlowDnsInfluxHundrethsPercentage
 SlowDnsPlatformRequestThresholdMs
 SlowHttpRequest
-SLqkvjoFBcXs6AN3fkCAwEAAQ
 SM2_Ciphertext
 SMALL_CAP_SIZE
 Smartcardlogin
@@ -19250,7 +19242,6 @@ StatusCode
 StatusMessage
 StatusRemoved
 StatusSuccessIcon
-StayStillImBusyTyping
 StdWString
 SteerFloat
 SteerFloatAndThrottleFloatReplicationFix
@@ -22411,7 +22402,6 @@ TranslatorInstance
 TranslucentVerb
 Transmission
 Transmitted
-TransmitTopSecretGameSource
 Transp.png
 Transparency
 Transparent
@@ -23233,6 +23223,7 @@ UWATAUAVAWH
 Uweb_response
 UWhiteList
 UWindowInputState
+Uz4VPHVUA39QKglS
 V_http_request
 V_http_response
 VABTestService
@@ -23923,7 +23914,6 @@ VOnPublishDialogController
 VOrderedDataStore
 VOrientationConstraint
 VOscillateMotorTool
-VOtYhkwOFq8vSf
 Vout_of_range
 Voverflow_error
 VOverridePropertyItem
@@ -24358,7 +24348,7 @@ WaterViscosityDragFudgeFactor
 WaterWaveSize
 WaterWaveSpeed
 WaypointIdx
-WbViuVLWwNVK5c5adLXuVVtOAn8vBlMmcXWBkKZCHXXTj97OtibDiU1pQDaJO
+WAzJ0MobkP
 WCharArray
 Wcircumflex
 WDU_Mbstatet
@@ -24678,6 +24668,7 @@ XboxSaleAvatarPackageIds
 XboxUseCuratedGameSort2
 XboxUseNewBundleEndpoints
 XboxUseNewValidUsernameCheck2
+XeJx6G32CQfVldngiw
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
@@ -24713,7 +24704,6 @@ XPEAVQNetworkReply
 XQColorDialog
 Xregex_error
 XResolution
-XrG53dno8Pjpw6ZIP8zvx0Y
 Xtime_get_ticks
 XUnegotiation_response
 XvAAuY44YuAAvX4
@@ -24853,12 +24843,11 @@ YieldEvent
 YieldFuncDesc
 YieldFunction
 YQByteArray
+YqW3QlkUybqhiWhhGFIgQZU57MMx1bHzYnWezLSI113Xl78VnrjN8KWjjsdrhiwo
 YResolution
 YwBBvY55YvBBwY5
-Yym97rnGSIJwsVlTTZKL6UzL
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
-ZCAtbWxS7AHvEDfGzzwHrQVkQV5jwZXin
 Zdotaccent
 ZgnhKhWhci
 ZIndexBehavior
