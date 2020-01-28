@@ -398,7 +398,6 @@ AHPEAU_iobuf
 AHPEAX1PEAPEAX
 AHW4DataStoreRequestType
 AHW4UserInputType
-AJ05irdym8BP0ObyKrdcygu
 ALayoutErrors
 Algorithms
 AliasRequestResult
@@ -629,6 +628,7 @@ AnkleStabilizationRecoveryTime
 AnkleStabilizationRecoveryTimeMode
 AnkleStabilizationTime
 AnkleStabilizationTimeMode
+ANqbh1oZYze1mpIHUPqpFM21G2FLnKTIaJcAAq
 AnthroArtistIntentFBXImporterIntermediateState
 AnthroPercentInHundredths
 AnthroStandardPartIds
@@ -664,7 +664,6 @@ ApplicationActivityTracker
 ApplicationActivityTrackerHandler
 ApplicationContext
 ApplicationFont
-ApplicationFontFromData
 ApplicationJson
 ApplicationLocationOnCrash
 ApplicationName
@@ -3958,6 +3957,8 @@ BorderColor
 BorderColor3
 BorderMode
 BorderSizePixel
+BOrh1LrwITH2s7OrrzeQBy2Isu0wX
+BotQE8oEFc5mPhHEar941f2
 BottomBarSize
 BottomImage
 BottomLeft
@@ -4028,6 +4029,7 @@ BreakpointStateAction
 BreakpointsWidget
 BreakpointToolTip
 BreakReason
+BRenderFixTerrainAtlas
 Brevesmall
 BrickColor
 BrickColorChanged
@@ -4155,7 +4157,6 @@ BVRegion3int16
 BVSystemAddress
 BVTextureId
 BWGradient.png
-BxQ6w2FurvXIbeQ
 ByCongestionControl
 ByDatacenter_
 ByIPForDatacenterId_
@@ -4168,7 +4169,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.418.0.377802
+ByVersion_0.418.0.377842
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -6401,6 +6402,7 @@ CylinderMesh
 CylinderShapeData
 CylindricalConstraint
 CylindricalConstraintAction
+Cz83F3Znkvii2NZLXqQcY6fStBqnfO3fbYoxWH8NniHPuwtTSL
 D_Key_dn.png
 DA88D6583A11E29A3DBD856014A660
 DA88D7583A11E29A3DBD856014A660
@@ -6932,7 +6934,6 @@ DEPRECATED_tryToCreateAndShowIDEDoc
 DEPRECATED_uiEditorHelper
 DEPRECATED_updateFromPlaceID
 DEPRECATED_updatePlayerFriendsInfo
-DEPRECATED_updateSelectionInfoLabel
 DEPRECATED_UploadSetting
 DeprecatedGlobal
 DeprecatedObjectsShown
@@ -8495,7 +8496,6 @@ FeatureEnabled
 FeatureHitRatio
 FeaturesAction
 FeaturesWindow
-FEB35LZ5GizUWOqh64tx2WKbejlYWu
 FetchAndLoadSettingsFromCdn
 FetchCachedKeys
 FetchComplete
@@ -8791,6 +8791,7 @@ FlushMappedMemoryRanges
 FlushModifiedScripts
 FlyweightService
 FlyweightServiceDataRecievedCallbackCrashFixEnabled
+FManipulatePart
 FMOD_CREATECOMPRESSEDSAMPLE
 FMOD_OPENMEMORY_POINT
 FMOD_OUTPUT_NOSOUND
@@ -9979,6 +9980,7 @@ GImpactCompoundShape
 GL_ARB_texture_storage
 GL_EXT_texture_compression_s3tc
 GlassTintFS
+Glk7SnIeudjb0SIyxPE9pYoLgq8q2
 GlobalAdvancedSettings
 GlobalAdvancedSettingsItem
 GlobalAlloc
@@ -10308,7 +10310,6 @@ HB_OPTIONS
 HB_SHAPER_LIST
 Hcircumflex
 HDCacheLock
-HdjMBbsDLdTdojjR1AoO6FojGwhbdJrD3McoOMyI0SG
 HeadColor3
 HeaderCheckBoxClicked
 HeaderData
@@ -10421,6 +10422,7 @@ HKEY_PERFORMANCE_TEXT
 HMACGostR3411
 HomeClicked
 HomePageLoaded
+HOpF39sxeIHvjzr7rYRACXq
 HopperPanel.png
 Horizontal
 HorizontalAlignment
@@ -10471,7 +10473,6 @@ HPEBDPEBDV
 HPEBVQMimeData
 HQEAPEAVQGraphicsItem
 HQFSShadowed
-HQuFw2VaPT4Ly284EaPQ8VZi9NOIEyewhl
 HQVSShadowed
 HtmlEscaped
 HTTPAccumulatedBytes
@@ -11365,6 +11366,7 @@ ItemViewItem
 ItemWasSet
 ItemWidget
 Iterations
+ITpwWP4Gj6rPBuhlpyB8HYQmqxaDdRql
 ITRedirect
 IUserDataStoreServiceBase
 IVRApplications_006
@@ -11383,7 +11385,7 @@ IVRSystem_017
 IVRTrackedCamera_003
 IWorldStage
 IXMLHTTPRequest2
-IzkL1lgab6g
+IzZlVRqyoksUZtfuOIscQE8fuzUYYcNxlhMc5
 J_Key_dn.png
 J_NW4CurrencyType
 JasmineUPC
@@ -11540,6 +11542,7 @@ KickByDatacenter_
 KiDszBCYB0gyp03Pc
 KillPtClicked
 KillSurfaceJointsPart1
+KmgqGwZb1C3KNV
 KnownHeaders
 KodchiangUPC
 KPEIBX_K_KPEIAU_iobuf
@@ -11581,7 +11584,6 @@ LatestAssetVersion
 LatestAssetVersionSuccess
 LatestPlaceVersionReturn
 LatestVersion
-LatlPbvh54R
 LAUNCH_CONVERSATION
 LAUNCH_GAME
 LaunchBulkImport
@@ -12241,7 +12243,6 @@ ManageEmulationDevVerb
 Management
 ManagePluginsButton
 ManagePluginsToolbar
-ManipulatePart
 ManualActivationOnly
 ManualFocusRelease
 ManualFocusReleaseDisablesSinking
@@ -12374,7 +12375,6 @@ MaxVelocity
 MaxViscousForceGravityTimesMult
 MaxVisibleItems
 MaxWaitTimeBeforeForcePacketProcessMS
-MBukpik0Mw0npeuJK1QPtDZK62sZnpzk0xFk2kJ3XiFj23ZbiAfm408CAwEAAQ
 MdiControls
 MDIManagerHost
 MEAA_JPEA_W_J
@@ -12832,7 +12832,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAzkwmdjITihCTSqbHK6dCpJZ4MtjUHA4aZxGUOqo3h4HYLhSu7WUC
+MIICCgKCAgEAqqe
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
 MinDelta[nLog]
@@ -12869,7 +12869,6 @@ MirrorMode
 Miscellaneous
 Mismatched
 MissingDumpFile
-MMg7dHqkPPxfANWmWzW
 MMW4IkDragCollisionsMode
 MMW4PartMaterial
 MMW4UserInputState
@@ -13144,8 +13143,8 @@ MultTransposeMatrixf
 MusicalInstruments
 MutexLifetime
 MW4PartMaterial
-MYgiY8DGm9Nszemgsj
 MyModelsAction
+MZ5zOLSncsObFtDVtOkOudvqja0eY6f34NEpsfPs
 N_NW4StudioGameStateType
 NAEAVHttpResponse
 NAEBUPlaceLauncherRequestInfo
@@ -13451,6 +13450,7 @@ NPCUnequipTools
 NPEAVInstance
 NPEAVQString
 NPEAVQWidget
+NPIgXsOrWmE1zlmePLd
 Ntildesmall
 NullPassword
 NUMBER_OF_ORDERED_STREAMS
@@ -13506,7 +13506,6 @@ NVWorkspace
 NW4FileSystemDir
 NW4PenStyle
 NW4UserInputType
-NZ0P9cGFav1g6tdFAUdlOqZfFy
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
@@ -13610,7 +13609,6 @@ OffsetYOriginal
 OffsetYTarget
 OffTeamCreateMainThread
 OfInstances
-OfLrhyZhNQY4udeYqrp
 OfOperation
 OfPacketsSent
 OfPlayerWhoOwnsTheLock
@@ -13626,10 +13624,9 @@ OgreWidgetForGameState
 OgreWidgetShowEvent
 Oh44\h44\Q
 OHdFtjN\rvv
-OHP8LVbUHvglxapbY
 Ohungarumlaut
-OHXSaD3XQHxp4yzmSLxTWRcgm0cLFYwXO4
 OiCCPPhotoshop
+OjtdPsc5w2bmLvr1ERdZXRlnF3
 OKButtonClicked
 OldActiveElement
 OldMessagesFetched
@@ -14123,7 +14120,6 @@ PCertReqData
 PCertResTBS
 PCStudioApp
 PCStudioAppCJV
-PdTM4vbCwRoB
 PE_MAX_NB_SUBFR
 PEA_NAEBV2
 PEA_NPEAV1
@@ -17079,7 +17075,6 @@ RenderFidelity
 RenderFixEmojiPadding
 RenderFixEvsmFiltering
 RenderFixSun3TimesRender
-RenderFixTerrainAtlas
 RenderFlag
 RenderGatherMsFrame2
 RenderGetLastLODErrorFix
@@ -17118,6 +17113,7 @@ RenderShadowIntensity
 RenderShadowmapAlphaRef
 RenderShadowmapBias
 RenderShadowmapCheckCB
+RenderShadowmapNoMSAADepth
 RenderShadowUseLastLOD
 RenderStats
 RenderStatsAction
@@ -17573,6 +17569,7 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
+RmIIflKKtYJ6G9Y7sn
 Roact.createElement
 RoactPurchasePromptAllowBundles
 ROBLOSECURITY
@@ -18806,6 +18803,7 @@ SlowDnsExternalRequestThresholdMs
 SlowDnsInfluxHundrethsPercentage
 SlowDnsPlatformRequestThresholdMs
 SlowHttpRequest
+SLqkvjoFBcXs6AN3fkCAwEAAQ
 SM2_Ciphertext
 SMALL_CAP_SIZE
 Smartcardlogin
@@ -20696,7 +20694,6 @@ StudioAccessPermissionsBetaFeature
 StudioAccessToApisAllowed
 StudioAddAutoTCPublishHook
 StudioAddBulkImportView
-StudioAddLoadUserPluginsArgument
 StudioAddPackagePermissions
 StudioAddResetDefaultInstanceProperties
 StudioAddSetAsDefaultContextMenuOption
@@ -20785,9 +20782,6 @@ StudioBulkImportUploadWarning
 StudioCharacterLoadTime
 StudioChat
 StudioChatSessionHandlerCrashFix
-StudioCheckDataModelAfterSave
-StudioCheckIfDefaultFontLoaded
-StudioCheckLocaleNameBeforUse
 StudioCheckPlaceVersionMatchInTeamCreate
 StudioCheckTeamServerExistsFrequency
 StudioCleanupPluginRefresh
@@ -20830,9 +20824,7 @@ StudioDisableTabOnClose
 StudioDisconnectIDEDoc
 StudioDoNotEndBlockForFunctionArgs
 StudioDoNotSaveWhenUserSaysNo
-StudioDoNotStoreSelectionListInPropertyWidget
 StudioDontShowNilTooltip
-StudioDownloadPlaceCopyMessageSensitive
 StudioDraftsDeletePreferSafeOption2
 StudioDraftsServiceFullNameInDiff
 StudioDraftsServiceGetEditors
@@ -20949,7 +20941,6 @@ StudioInsertObjectWindowShortcut
 StudioInstance
 StudioInternetConnection
 StudioInternetReconnection
-StudioIntInBoolContextWarningFixEnabled
 StudioKeyWorkflowCrash
 StudioLastActions
 StudioLoadABTestsForUserId
@@ -21165,7 +21156,6 @@ StudioToolboxShowPluginInstallationProgress
 StudioToSChangeDate
 StudioTrackDeadRobloxIDEDocsThrottleEvents
 StudioTrackRPCFailure
-StudioTranslateThemePropertyItem
 StudioTranslationsTail001
 StudioTranslationsTail002
 StudioTranslator
@@ -22771,7 +22761,6 @@ UMasteringMetadata
 UMeshResource
 UMessageAndSenderId
 UMouseDownCaptureInfo
-UmTqtWMAEtJOfda3ucOgZbEp1X6oSdwL
 Unaccounted
 UnAnchorCursor
 UNASSIGNED_SYSTEM_ADDRESS
@@ -23934,6 +23923,7 @@ VOnPublishDialogController
 VOrderedDataStore
 VOrientationConstraint
 VOscillateMotorTool
+VOtYhkwOFq8vSf
 Vout_of_range
 Voverflow_error
 VOverridePropertyItem
@@ -24368,6 +24358,7 @@ WaterViscosityDragFudgeFactor
 WaterWaveSize
 WaterWaveSpeed
 WaypointIdx
+WbViuVLWwNVK5c5adLXuVVtOAn8vBlMmcXWBkKZCHXXTj97OtibDiU1pQDaJO
 WCharArray
 Wcircumflex
 WDU_Mbstatet
@@ -24650,7 +24641,6 @@ WSAStartup
 WSAStringToAddressW
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
-WV4ZoIPIzVCpsMLxD4wsbjPU2tRIpMwI2XItlmWPyL6V
 X_JW4AssetType
 XA_A]A\_^[
 XA_A^_^[]H
@@ -24723,6 +24713,7 @@ XPEAVQNetworkReply
 XQColorDialog
 Xregex_error
 XResolution
+XrG53dno8Pjpw6ZIP8zvx0Y
 Xtime_get_ticks
 XUnegotiation_response
 XvAAuY44YuAAvX4
@@ -24864,12 +24855,13 @@ YieldFunction
 YQByteArray
 YResolution
 YwBBvY55YvBBwY5
+Yym97rnGSIJwsVlTTZKL6UzL
 Z_KPEIBX_K_KPEIAU1
 Zcaronsmall
+ZCAtbWxS7AHvEDfGzzwHrQVkQV5jwZXin
 Zdotaccent
 ZgnhKhWhci
 ZIndexBehavior
-ZknlfVIzv89dKomAG6R22aj4GYh38jtANDrFPOOPmce
 ZLcJhLcGhM
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo

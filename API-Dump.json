@@ -49832,8 +49832,10 @@
                         "CanSave": true
                     },
                     "Tags": [
+                        "Hidden",
                         "ReadOnly",
-                        "NotReplicated"
+                        "NotReplicated",
+                        "Deprecated"
                     ],
                     "ValueType": {
                         "Category": "Enum",
