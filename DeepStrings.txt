@@ -398,6 +398,7 @@ AHPEAU_iobuf
 AHPEAX1PEAPEAX
 AHW4DataStoreRequestType
 AHW4UserInputType
+AJ05irdym8BP0ObyKrdcygu
 ALayoutErrors
 Algorithms
 AliasRequestResult
@@ -1939,7 +1940,9 @@ AVFilterDescendentsList
 AVFilterHumanoidNameOcclusion
 AVFilterHumanoidParts
 AVFilterInvisibleNonColliding
+AVFilterPrimitiveList
 AVFilterSameAssembly
+AVFilterSinglePrimitive
 AVFindAllDialog
 AVFindListModel
 AVFirstPersonCommand
@@ -3955,7 +3958,6 @@ BorderColor
 BorderColor3
 BorderMode
 BorderSizePixel
-BorMX7cd6aBy09J3qeckTFUr87heBgkWKooovTlhgJkpDqq6YCbK
 BottomBarSize
 BottomImage
 BottomLeft
@@ -4153,7 +4155,7 @@ BVRegion3int16
 BVSystemAddress
 BVTextureId
 BWGradient.png
-BXCfddX3U3DT4ZXP5OA
+BxQ6w2FurvXIbeQ
 ByCongestionControl
 ByDatacenter_
 ByIPForDatacenterId_
@@ -4166,7 +4168,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 BytesWritten
-ByVersion_0.418.0.377604
+ByVersion_0.418.0.377802
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -7507,7 +7509,6 @@ Dst.YBegin
 DSVideoCaptureEngine
 DTLS_RECORD_LAYER_new
 DTLSv1_listen
-DuCxH1gtFS5pwhzpddvs3y3Qkrfb2dzU77yvvL
 DumpAction
 DumpFileCount
 DumpUtcCaptureTime
@@ -8494,6 +8495,7 @@ FeatureEnabled
 FeatureHitRatio
 FeaturesAction
 FeaturesWindow
+FEB35LZ5GizUWOqh64tx2WKbejlYWu
 FetchAndLoadSettingsFromCdn
 FetchCachedKeys
 FetchComplete
@@ -8519,7 +8521,6 @@ FFlagStudioSaveToCloudV2
 FFlagStudioSaveToCloudV3
 FFlagToolboxJointMigrationApi
 FFoRLVHHHHoTJVF
-FgOEvFDxYIq0Mzg1NC4x9wdYbCpElMvnsZ75rU17wC9W5t1wThDuirmVopkIzIC
 FHFRF\FfFpFzF
 FieldOfView
 Figueiredo
@@ -10307,6 +10308,7 @@ HB_OPTIONS
 HB_SHAPER_LIST
 Hcircumflex
 HDCacheLock
+HdjMBbsDLdTdojjR1AoO6FojGwhbdJrD3McoOMyI0SG
 HeadColor3
 HeaderCheckBoxClicked
 HeaderData
@@ -10469,6 +10471,7 @@ HPEBDPEBDV
 HPEBVQMimeData
 HQEAPEAVQGraphicsItem
 HQFSShadowed
+HQuFw2VaPT4Ly284EaPQ8VZi9NOIEyewhl
 HQVSShadowed
 HtmlEscaped
 HTTPAccumulatedBytes
@@ -11380,6 +11383,7 @@ IVRSystem_017
 IVRTrackedCamera_003
 IWorldStage
 IXMLHTTPRequest2
+IzkL1lgab6g
 J_Key_dn.png
 J_NW4CurrencyType
 JasmineUPC
@@ -11481,7 +11485,6 @@ K_Key_dn.png
 KaiTi_GB2312
 KAXPEBDHAEAPEAVQChar
 KBytesPerSec
-KdOfsMvqQ9Y5kdoG7y5
 KeepAliveTimeout
 KeepPositionOnInsert
 KERNEL32.dll
@@ -11540,7 +11543,6 @@ KillSurfaceJointsPart1
 KnownHeaders
 KodchiangUPC
 KPEIBX_K_KPEIAU_iobuf
-KsY86FkHKgaLLhgPaH5KkSbXH0hgxlwteR4tDXiyyNe5NWvngKFVFbYxGtK
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -11579,6 +11581,7 @@ LatestAssetVersion
 LatestAssetVersionSuccess
 LatestPlaceVersionReturn
 LatestVersion
+LatlPbvh54R
 LAUNCH_CONVERSATION
 LAUNCH_GAME
 LaunchBulkImport
@@ -11600,9 +11603,7 @@ LayoutNode
 LayoutOrder
 LazySubmitTask
 LC_MESSAGES
-LCblkiT9RPM2Mvc4lSuGuqC
 LCMapStringW
-LDBcHKArRf8QP429Z6KLVSybRW7ebaAV7I2jaasG4bL8OLrLq2gAwto5w1UD7y2H
 LDLAkisMethodEnabled
 LDLBuildProgramTimeReportEnabled
 LDLBuildProgramTimeReportRate
@@ -12373,6 +12374,7 @@ MaxVelocity
 MaxViscousForceGravityTimesMult
 MaxVisibleItems
 MaxWaitTimeBeforeForcePacketProcessMS
+MBukpik0Mw0npeuJK1QPtDZK62sZnpzk0xFk2kJ3XiFj23ZbiAfm408CAwEAAQ
 MdiControls
 MDIManagerHost
 MEAA_JPEA_W_J
@@ -12830,7 +12832,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA63Gom0whXMaT8bwnAJoB95KT6k5DNHmob3f
+MIICCgKCAgEAzkwmdjITihCTSqbHK6dCpJZ4MtjUHA4aZxGUOqo3h4HYLhSu7WUC
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
 MinDelta[nLog]
@@ -12867,6 +12869,7 @@ MirrorMode
 Miscellaneous
 Mismatched
 MissingDumpFile
+MMg7dHqkPPxfANWmWzW
 MMW4IkDragCollisionsMode
 MMW4PartMaterial
 MMW4UserInputState
@@ -13141,6 +13144,7 @@ MultTransposeMatrixf
 MusicalInstruments
 MutexLifetime
 MW4PartMaterial
+MYgiY8DGm9Nszemgsj
 MyModelsAction
 N_NW4StudioGameStateType
 NAEAVHttpResponse
@@ -13185,7 +13189,6 @@ NativePurchaseFinished
 NativeSeparators
 NativeStartPage
 NativeStartPageWidgets
-NatNAjt9dhdQawAiBN1hhUw2YBgjP
 NavBarSize
 NavigateHome
 Navigation
@@ -13362,7 +13365,6 @@ NextTabPage
 NfXf`fhfzf
 NHVVariant
 NinjaMask.mesh
-NlZc15tN9mHyIgVq5w1pN8QaCRmOeLGLlmz1D32n1boJjbub9kV13P
 NNW4SizeMode
 NoCacheForLocalContent
 NoCollisionConstraint
@@ -13504,6 +13506,7 @@ NVWorkspace
 NW4FileSystemDir
 NW4PenStyle
 NW4UserInputType
+NZ0P9cGFav1g6tdFAUdlOqZfFy
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
@@ -13607,6 +13610,7 @@ OffsetYOriginal
 OffsetYTarget
 OffTeamCreateMainThread
 OfInstances
+OfLrhyZhNQY4udeYqrp
 OfOperation
 OfPacketsSent
 OfPlayerWhoOwnsTheLock
@@ -13622,7 +13626,9 @@ OgreWidgetForGameState
 OgreWidgetShowEvent
 Oh44\h44\Q
 OHdFtjN\rvv
+OHP8LVbUHvglxapbY
 Ohungarumlaut
+OHXSaD3XQHxp4yzmSLxTWRcgm0cLFYwXO4
 OiCCPPhotoshop
 OKButtonClicked
 OldActiveElement
@@ -14117,6 +14123,7 @@ PCertReqData
 PCertResTBS
 PCStudioApp
 PCStudioAppCJV
+PdTM4vbCwRoB
 PE_MAX_NB_SUBFR
 PEA_NAEBV2
 PEA_NPEAV1
@@ -16291,7 +16298,6 @@ QRadioButton
 QRegularExpression
 QRegularExpressionMatch
 QRegularExpressionMatchIterator
-QREpcs3izM5Zb3JzLmkNYu4lJQaRnAKZ
 QRubberBand
 QScopedPointer
 QScopedPointerDeleter
@@ -17962,10 +17968,22 @@ ScriptDocLocationDataUpdater
 ScriptDocs
 ScriptDocText
 ScriptDocumentOnBreakpointEncounter
+ScriptEditAutoCompleteAcceptanceRate
+ScriptEditAutoCompleteTypedCharsForEvery100Accepted
+ScriptEditAverageDelayOfAutoComplete
+ScriptEditAverageHandlingTimeOfTyping
 ScriptEditor
 ScriptEditorAdded
 ScriptEditorRemoved
+ScriptEditorSettingAutoClosingBrackets
+ScriptEditorSettingAutoClosingQuotes
+ScriptEditorSettingAutoComplete
+ScriptEditorSettingAutoIndent
+ScriptEditorSettingSkipAutoClosingBracketsAndQuotes
+ScriptEditorSettingTabWidth
+ScriptEditorSettingTextWrapping
 ScriptEditsAction
+ScriptEditSessionLength
 ScriptError
 ScriptFile
 ScriptFileAction
@@ -17979,11 +17997,13 @@ ScriptHash
 ScriptHashBase
 ScriptHashHead
 ScriptInExplorer
+ScriptInitialSize
 ScriptInputReturnPressed
 ScriptKeyword
 ScriptLargeAction
 ScriptLineNumber
 ScriptLoadErrorDialog
+ScriptLoadTime
 ScriptLockFailed
 ScriptMatchingWordSelectionBackground
 ScriptMouseCommand
@@ -18635,6 +18655,7 @@ ShowAllChildrenSelected
 ShowBoundingBoxes
 ShowBreakpointContextMenu
 ShowBufferCount
+ShowBulkImportView
 ShowConnectionErrorCode
 ShowConstraintDetailsVerb
 ShowConstraintToolVerb
@@ -18789,7 +18810,6 @@ SM2_Ciphertext
 SMALL_CAP_SIZE
 Smartcardlogin
 SmartcardLogin
-SMGE3WdgKsBO1cmOWJ
 SMIME_read_ASN1
 SMIME_text
 Smooth.png
@@ -21078,6 +21098,7 @@ StudioSavePlaceToCloud.Start
 StudioSaveToCloudV2
 StudioSaveToCloudV3
 StudioSaveToCloudV3SpotFixes
+StudioScriptEditorTelemetry
 StudioScriptFindElideCopies
 StudioScriptSize
 StudioSecondsBeforeInactive
@@ -22750,6 +22771,7 @@ UMasteringMetadata
 UMeshResource
 UMessageAndSenderId
 UMouseDownCaptureInfo
+UmTqtWMAEtJOfda3ucOgZbEp1X6oSdwL
 Unaccounted
 UnAnchorCursor
 UNASSIGNED_SYSTEM_ADDRESS
@@ -23098,6 +23120,8 @@ UserDataResult
 UserDataStoreService
 UserDialog
 UserDontAdjustSensitvityForPortrait
+UseRefactoredHitTest
+UseRefactoredRaycast
 UserEmotesEnabled
 UserFixChatWindowHoverOver
 UserFixMouseCapture
@@ -24347,7 +24371,6 @@ WaypointIdx
 WCharArray
 Wcircumflex
 WDU_Mbstatet
-WeaFZuXQZArA1P6Jn3pnZYkkotxjZV8CAwEAAQ
 WeakFunctionRef
 WeakThreadRef
 WeaponsAction
@@ -24627,6 +24650,7 @@ WSAStartup
 WSAStringToAddressW
 WTHelperGetProvSignerFromChain
 WTHelperProvDataFromStateData
+WV4ZoIPIzVCpsMLxD4wsbjPU2tRIpMwI2XItlmWPyL6V
 X_JW4AssetType
 XA_A]A\_^[
 XA_A^_^[]H
@@ -24636,7 +24660,6 @@ XA_A^A]A\][
 XA_A^A]A\_^[]
 XA_A^A]A\_^]
 XA_A^A]A\_^][
-XAe9OfxrqbLzRw0SkKzShROaXNnEpq4HTSFjc
 XAEAVFormatUpdater
 XAEAVHttpClient
 XAEAVNetworkStream
@@ -24846,6 +24869,7 @@ Zcaronsmall
 Zdotaccent
 ZgnhKhWhci
 ZIndexBehavior
+ZknlfVIzv89dKomAG6R22aj4GYh38jtANDrFPOOPmce
 ZLcJhLcGhM
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo

@@ -2836,6 +2836,7 @@ Class StudioService : Instance [NotCreatable] [Service] [NotReplicated]
 	Function string StudioService:SerializeInstances(Objects instances) {RobloxScriptSecurity}
 	Function void StudioService:SetPluginEnabled(int64 assetId, bool state) {RobloxScriptSecurity}
 	Function void StudioService:SetUniverseDisplayName(string newName) {RobloxScriptSecurity}
+	Function void StudioService:ShowBulkImportView() {RobloxScriptSecurity}
 	Function void StudioService:ShowPublishToRoblox() {RobloxScriptSecurity}
 	Function void StudioService:TryInstallPlugin(int64 assetId, int64 assetVersionId) {RobloxScriptSecurity} [Yields]
 	Function void StudioService:UninstallPlugin(int64 assetId) {RobloxScriptSecurity}

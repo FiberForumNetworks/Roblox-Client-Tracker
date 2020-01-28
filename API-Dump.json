@@ -50357,6 +50357,17 @@
                 },
                 {
                     "MemberType": "Function",
+                    "Name": "ShowBulkImportView",
+                    "Parameters": [
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "void"
+                    },
+                    "Security": "RobloxScriptSecurity"
+                },
+                {
+                    "MemberType": "Function",
                     "Name": "ShowPublishToRoblox",
                     "Parameters": [
                     ],
